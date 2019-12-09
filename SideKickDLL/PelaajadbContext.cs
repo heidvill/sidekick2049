@@ -10,12 +10,12 @@ namespace SideKickDLL
         {
         }
 
-        public PelaajadbContext(DbContextOptions<PelaajadbContext> options)
+        public PelaajadbContext(DbContextOptions options)
             : base(options)
         {
         }
 
-        //        public virtual DbSet<Tilasto> Tilasto { get; set; }
+        public virtual DbSet<Tilasto> Tilasto { get; set; }
 
         //        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         //        {
