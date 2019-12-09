@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using SideKickDLL;
 
 namespace SideKickMVC.Data
 {
@@ -12,5 +13,6 @@ namespace SideKickMVC.Data
             : base(options)
         {
         }
+        public DbSet<SideKickDLL.Tilasto> Tilasto { get; set; }
     }
 }
