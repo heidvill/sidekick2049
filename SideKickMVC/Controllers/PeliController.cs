@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using SideKickDLL;
 using SideKickMVC.Models;
@@ -15,6 +16,13 @@ namespace SideKickMVC.Controllers
 {
     public class PeliController : Controller
     {
+        IConfiguration configuration;
+        public PeliController(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+            Helper.polku = configuration.GetConnectionString("RestAPIUrl");
+            
+        }
 
         // GET: Peli
         public IActionResult Index()
