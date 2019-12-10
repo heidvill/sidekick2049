@@ -30,10 +30,10 @@ namespace SideKickMVC
         {
             services.AddAuthentication()
                 .AddFacebook(facebookOptions =>
-            {
-                facebookOptions.AppId = Configuration["Authentication:Facebook:AppId"];
-                facebookOptions.AppSecret = Configuration["Authentication:Facebook:AppSecret"];
-            })
+                {
+                    facebookOptions.AppId = Configuration["Authentication:Facebook:AppId"];
+                    facebookOptions.AppSecret = Configuration["Authentication:Facebook:AppSecret"];
+                })
                 .AddGoogle(options =>
                 {
                     IConfigurationSection googleAuthNSection =
@@ -46,6 +46,11 @@ namespace SideKickMVC
                 {
                     microsoftOptions.ClientId = Configuration["Authentication:Microsoft:ClientId"];
                     microsoftOptions.ClientSecret = Configuration["Authentication:Microsoft:ClientSecret"];
+                })
+                .AddGitHub(options =>
+                {
+                    options.ClientId = Configuration["Authentication:Github:ClientId"];
+                    options.ClientSecret = Configuration["Authentication:Github:ClientSecret"];
                 });
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
