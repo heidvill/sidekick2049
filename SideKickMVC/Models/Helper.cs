@@ -12,7 +12,7 @@ namespace SideKickMVC.Models
 {
     public class Helper
     {
-        private static string polku = "https://sidekick2049api.azurewebsites.net/api/Tilasto";
+        public static string polku;
 
         public static string GetAll()
         {
