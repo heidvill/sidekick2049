@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using SideKickDLL;
+using SideKickMVC.Models;
 
 namespace SideKickMVC.Controllers
 {
@@ -18,14 +19,7 @@ namespace SideKickMVC.Controllers
         // GET: Peli
         public IActionResult Index()
         {
-            string json;
-            using (var client = new HttpClient())
-            {
-                client.DefaultRequestHeaders.Accept.Add(
-                    new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                var response = client.GetAsync($"https://localhost:44342/api/Tilasto").Result;
-                json = response.Content.ReadAsStringAsync().Result;
-            }
+            string json = Helper.GetAll();
             List<Tilasto> t = JsonConvert.DeserializeObject<List<Tilasto>>(json);
             return View(t);
         }
@@ -33,14 +27,7 @@ namespace SideKickMVC.Controllers
         // GET: Peli/Details/5
         public IActionResult Details(int? id)
         {
-            string json;
-            using (var client = new HttpClient())
-            {
-                client.DefaultRequestHeaders.Accept.Add(
-                    new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
-                var response = client.GetAsync($"https://localhost:44342/api/tilasto/{id}").Result;
-                json = response.Content.ReadAsStringAsync().Result;
-            }
+            string json = Helper.GetById(id);
             Tilasto t = JsonConvert.DeserializeObject<Tilasto>(json);
             return View(t);
         }
@@ -58,21 +45,9 @@ namespace SideKickMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(Tilasto t)
         {
-            try
-            {
-                using (var client = new HttpClient())
-                {
-                    client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                    var content = new StringContent(JsonConvert.SerializeObject(t), UTF8Encoding.UTF8, "application/json");
-                    content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-                    var response = client.PostAsync("https://localhost:44342/api/Tilasto/", content).Result;
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            bool success = Helper.PostNew(t);
+            return RedirectToAction("Index");
+            //return RedirectToAction(nameof(Index));
         }
 
         // GET: Peli/Edit/5
@@ -88,21 +63,8 @@ namespace SideKickMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, Tilasto t)
         {
-            try
-            {
-                using (var client = new HttpClient())
-                {
-                    client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
-                    var content = new StringContent(JsonConvert.SerializeObject(t), UTF8Encoding.UTF8, "application/json");
-                    content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
-                    var response = client.PutAsync($"https://localhost:44342/api/tilasto/{id}", content).Result;
-                }
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            Helper.Edit(id, t);
+            return RedirectToAction(nameof(Index));
         }
 
         // GET: Peli/Delete/5
@@ -116,22 +78,8 @@ namespace SideKickMVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, Tilasto t)
         {
-            try
-            {
-                string json = "";
-                using (var client = new HttpClient())
-                {
-                    client.DefaultRequestHeaders.Accept.Add(new
-                    MediaTypeWithQualityHeaderValue("application/json"));
-                    var response = client.DeleteAsync($"https://localhost:44342/api/tilasto/{id}").Result;
-                    json = response.Content.ReadAsStringAsync().Result;
-                }
-                return RedirectToAction("Index", "Peli");
-            }
-            catch
-            {
-                return View();
-            }
+            string json = Helper.Delete(id);
+            return RedirectToAction("Index", "Peli");
         }
     }
 }
