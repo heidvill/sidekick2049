@@ -97,7 +97,11 @@ namespace SideKickMVC.Controllers
         [HttpPost]
         public ActionResult Kulkukortti(string korttikoodi)
         {
-            if (korttikoodi.Trim().ToLower() == "platyrhynchos")
+           if (string.IsNullOrEmpty(korttikoodi))
+            {
+                return View();
+            }
+            else if (korttikoodi.Trim().ToLower() == "platyrhynchos")
             {
                 return RedirectToAction("Lista");
             }
@@ -113,7 +117,11 @@ namespace SideKickMVC.Controllers
         [HttpPost]
         public ActionResult Lista(string kätyri)
         {
-            if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
+            if (string.IsNullOrEmpty(kätyri))
+            {
+                return View();
+            }
+            else if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
             {
                 return Content("Oikein");
             }
