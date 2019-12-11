@@ -21,7 +21,7 @@ namespace SideKickMVC.Controllers
         {
             this.configuration = configuration;
             Helper.polku = configuration.GetConnectionString("RestAPIUrl");
-            
+
         }
 
         // GET: Peli
@@ -89,5 +89,39 @@ namespace SideKickMVC.Controllers
             string json = Helper.Delete(id);
             return RedirectToAction("Index", "Peli");
         }
+
+        public ActionResult Kulkukortti()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Kulkukortti(string korttikoodi)
+        {
+            if (korttikoodi.Trim().ToLower() == "platyrhynchos")
+            {
+                return RedirectToAction("Lista");
+            }
+            else
+            {
+                return View();
+            }
+        }
+        public ActionResult Lista()
+        {
+            return View();
+        }
+        [HttpPost]
+        public ActionResult Lista(string kätyri)
+        {
+            if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
+            {
+                return Content("Oikein");
+            }
+            else
+            {
+                return Content("Väärin");
+            }
+        }
+
     }
 }
