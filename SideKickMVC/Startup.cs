@@ -47,10 +47,10 @@ namespace SideKickMVC
                     microsoftOptions.ClientId = Configuration["Authentication:Microsoft:ClientId"];
                     microsoftOptions.ClientSecret = Configuration["Authentication:Microsoft:ClientSecret"];
                 })
-                .AddGitHub(options =>
+                .AddGitHub(githubOptions =>
                 {
-                    options.ClientId = Configuration["Authentication:Github:ClientId"];
-                    options.ClientSecret = Configuration["Authentication:Github:ClientSecret"];
+                    githubOptions.ClientId = Configuration["Authentication:Github:ClientId"];
+                    githubOptions.ClientSecret = Configuration["Authentication:Github:ClientSecret"];
                 });
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
