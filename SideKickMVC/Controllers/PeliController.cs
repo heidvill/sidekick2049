@@ -5,6 +5,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
@@ -14,6 +15,7 @@ using SideKickMVC.Models;
 
 namespace SideKickMVC.Controllers
 {
+    [Authorize]
     public class PeliController : Controller
     {
         IConfiguration configuration;
@@ -25,6 +27,7 @@ namespace SideKickMVC.Controllers
         }
 
         // GET: Peli
+        [AllowAnonymous]
         public IActionResult Index()
         {
             string json = Helper.GetAll();
@@ -97,12 +100,13 @@ namespace SideKickMVC.Controllers
         [HttpPost]
         public ActionResult Kulkukortti(string korttikoodi)
         {
-           if (string.IsNullOrEmpty(korttikoodi))
+            if (string.IsNullOrEmpty(korttikoodi))
             {
                 return View();
             }
             else if (korttikoodi.Trim().ToLower() == "platyrhynchos")
             {
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 1, Aika = DateTime.Now });
                 return RedirectToAction("Lista");
             }
             else
@@ -112,7 +116,16 @@ namespace SideKickMVC.Controllers
         }
         public ActionResult Lista()
         {
-            return View();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 1)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
         }
         [HttpPost]
         public ActionResult Lista(string kätyri)

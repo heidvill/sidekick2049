@@ -37,10 +37,17 @@ namespace SideKickREST.Controllers
 
         // GET: api/Tilasto/nimi
         [HttpGet("Search/{nimi}", Name = "Search")]
-        public IEnumerable <Tilasto> GetByName(string nimi)
+        public IEnumerable<Tilasto> GetAllByName(string nimi)
         {
             var pelaajat = _db.Tilasto.Where(a => a.Nimi.ToLower().Contains(nimi.ToLower())).ToList();
             return pelaajat;
+        }
+
+        [HttpGet("Haku/{nimi}")]
+        public IEnumerable<Tilasto> FindPlayerByName(string nimi)
+        {
+            var pelaaja = _db.Tilasto.Where(a => a.Nimi.ToLower() == nimi.ToLower()).ToList();
+            return pelaaja;
         }
 
         // POST: api/Tilasto
