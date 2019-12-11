@@ -1,0 +1,14 @@
+Mallard City, 2049
+
+"Hei kaveri, taidan tarvita apuasi. Mikä on nimesi?"
+
+"Hei *****, saat olla tänään sidekickini. Tilanne näyttää todella pahalta. Ellemme pääse käsiksi Tohtori Stockenten koodiin, K.V.A.A.K(Kuun Voi Aina Ampua Kiertoradalta) -laser räjäyttää Kuun taivaalta. Tarvitsen kaiken apusi päihittääkseni Stockenten."
+
+"Tässä on kulkukortti jonka nappasin Stockenten kätyriltä. Tällä pääsemme käsiksi Stockenten peiteyrityksen tietokantaan. Kerro kun olet sisällä."
+
+"Ratkaise kulkukortin koodi jotta pääset lataamaan Stockenten tietokannasta listan henkilöistä joilla on pääsy laserin käyttöön.
+
+
+"Sait listan auki, hienoa! Lähetä se minulle!"
+
+"Voi ei, listalle on näemmä sekoittunut kaikkien eri universumeiden tietokannat sekaisin! Yhden rivin pitäisi kuitenkin olla selvästi erilainen ja sillä löydämme etsimämme tyypin tästä multiversumin kattavasta listasta. Voitko etsiä sen minulle?"
