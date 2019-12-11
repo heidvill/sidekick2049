@@ -44,6 +44,9 @@ namespace SideKickDLL
                     .HasMaxLength(255);
 
                 entity.Property(e => e.Taso).HasColumnName("taso");
+                //entity.Property(e => e.Kayttajanimi).HasColumnName("kayttajanimi")
+                //.IsRequired()
+                //.HasMaxLength(255);
             });
 
             OnModelCreatingPartial(modelBuilder);

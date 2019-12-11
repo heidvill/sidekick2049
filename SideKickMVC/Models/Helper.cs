@@ -40,6 +40,21 @@ namespace SideKickMVC.Models
             return json;
         }
 
+        public static IEnumerable<Tilasto> GetPlayerByName(string nimi)
+        {
+            string json;
+            IEnumerable<Tilasto> t;
+            using (var client = new HttpClient())
+            {
+                client.DefaultRequestHeaders.Accept.Add(
+                    new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
+                var response = client.GetAsync($"{polku}/Haku/{nimi}").Result;
+                json = response.Content.ReadAsStringAsync().Result;
+                t = JsonConvert.DeserializeObject<IEnumerable<Tilasto>>(json);
+            }
+            return t;
+        }
+
         public static bool PostNew(Tilasto t)
         {
             using (var client = new HttpClient())
