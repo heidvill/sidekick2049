@@ -1,0 +1,2561 @@
+Line 1: 	Line 17: 0.0. Duck^fi^James Ankka^Y^^
+	Line 2: 	Line 18: 0.0. Duck^fi^Agentti 0.07^N^^
+	Line 3: 	Line 26: 0.0. Duck's chief^fi^Poliisipäällikkö^Y^^
+	Line 4: 	Line 32: 0.0. Duck's dog^fi^Susi^Y^^
+	Line 5: 	Line 42: A Bug's Life^fi^Ötökän elämää^Y^^
+	Line 6: 	Line 52: ALA^fi^Aladdin^Y^^
+	Line 7: 	Line 79: AMJ^fi^Leenu, Liinu ja Tiinu^Y^^
+	Line 8: 	Line 99: AMJ1^fi^Yksi Iineksen sukulaistytöistä^Y^^
+	Line 9: 	Line 108: AMJ2^fi^Kaksi Iineksen sukulaistytöistä^Y^^
+	Line 10: 	Line 123: AR^fi^Aristokatit^Y^^
+	Line 11: 	Line 141: ARK^fi^Aristokattien pennut^Y^^
+	Line 12: 	Line 156: Abby Mallard^fi^Sini Sorsa^Y^^
+	Line 13: 	Line 162: Abdomah^fi^Wazawa^Y^^
+	Line 14: 	Line 163: Abdomah^fi^Attuma^N^^
+	Line 15: 	Line 165: Abel Konnery^fi^Jan Konnari^Y^^
+	Line 16: 	Line 195: Abu^fi^Abu^Y^^
+	Line 17: 	Line 210: Acciuga^fi^Siipi-Veikko^Y^^
+	Line 18: 	Line 211: Acciuga^fi^Rolle MacRilli^N^^
+	Line 19: 	Line 212: Acciuga^fi^Kapteeni Tyrsky^N^^
+	Line 20: 	Line 216: Actinia^fi^Rihmasto^Y^^
+	Line 21: 	Line 219: Adelaide Pinko^fi^Adeliia^Y^^
+	Line 22: 	Line 220: Adelaide Pinko^fi^Regina^N^^
+	Line 23: 	Line 221: Admiral Boom^fi^Amiraali Poiju^Y^^
+	Line 24: 	Line 242: Agenore^fi^Arhippa^Y^^
+	Line 25: 	Line 247: Agent Berry^fi^L-Ihas^Y^^
+	Line 26: 	Line 257: Agent Black^fi^M-Musta^Y^^
+	Line 27: 	Line 263: Agente Mellor^fi^Agentti Grundström^Y^^
+	Line 28: 	Line 264: Agente Osterberg^fi^Agentti Österberg^Y^^
+	Line 29: 	Line 267: Agnes^fi^Lea^Y^^
+	Line 30: 	Line 274: Air Pirates^fi^Ilmarosvot^Y^^
+	Line 31: 	Line 290: Al Cootest^fi^Arvo Luihu^Y^^
+	Line 32: 	Line 291: Al Cootest^fi^Al Cotletto^N^^
+	Line 33: 	Line 303: Aladar^fi^Aladar^Y^^
+	Line 34: 	Line 309: Alameda Slim^fi^Alameda Slim^Y^^
+	Line 35: 	Line 315: Alan-A-Dale^fi^Allan-A-Dale^Y^^
+	Line 36: 	Line 325: Albemarle Mouse^fi^Isoeno Morris^Y^^
+	Line 37: 	Line 331: Albert^fi^Poju^Y^^
+	Line 38: 	Line 332: Albert^fi^Pauli^N^^
+	Line 39: 	Line 333: Albert^fi^Pekka^N^^
+	Line 40: 	Line 338: Albert Owl^fi^Valtteri^Y^^
+	Line 41: 	Line 339: Albert Owl^fi^Hemminki^N^^
+	Line 42: 	Line 343: Alberto^fi^Juuso (ensimmäinen versio)^Y^^
+	Line 43: 	Line 372: Alf^fi^Alf^Y^^
+	Line 44: 	Line 378: Alfred^fi^Antero^Y^^
+	Line 45: 	Line 381: Alfredo McEsposito^fi^Alfredo McEsposito^Y^^
+	Line 46: 	Line 387: Alice^fi^Liisa^Y^^
+	Line 47: 	Line 403: Alicia^fi^Alicia^Y^^
+	Line 48: 	Line 406: Aliens from Toy Story^fi^Alienit^Y^^
+	Line 49: 	Line 411: Alley Cats^fi^Kujakatit^Y^^
+	Line 50: 	Line 418: Alma Grackle^fi^Rouva Rahina^Y^^
+	Line 51: 	Line 419: Alma Grackle^fi^Irmeli^N^^
+	Line 52: 	Line 421: Althor^fi^Althor^Y^^
+	Line 53: 	Line 432: Amanda Bolland^fi^Amanda Bolland^Y^^
+	Line 54: 	Line 435: Amanda Fox^fi^Katriina^Y^^
+	Line 55: 	Line 437: Ambrose^fi^Rosvokissa Ambrose^Y^^
+	Line 56: 	Line 438: Ambrose^fi^Ryövärikissa Amru^N^^
+	Line 57: 	Line 445: Ammiraglio Storm^fi^Amiraali Myrsky^Y^^
+	Line 58: 	Line 446: Ammiraglio Storm^fi^Kapteeni Myrsky^N^^
+	Line 59: 	Line 452: Amos P. Zoup^fi^Aamos^Y^^
+	Line 60: 	Line 459: Amos Sapiens^fi^Amos Sapiens^Y^^
+	Line 61: 	Line 462: Amos Slade^fi^Aatu Remunen^Y^^
+	Line 62: 	Line 466: Amos from Ben and Me^fi^Amos^Y^^
+	Line 66: 	Line 485: Anacleto^fi^Luiru^Y^^
+	Line 67: 	Line 486: Anacleto^fi^Antero Luiru^N^^
+	Line 68: 	Line 487: Anacleto^fi^Anakletus^N^^
+	Line 69: 	Line 488: Anacleto^fi^Ykä Öykkä^N^^
+	Line 70: 	Line 489: Anacleto^fi^Jalle Joki^N^^
+	Line 71: 	Line 506: Anchor^fi^Ankkuri^Y^^
+	Line 72: 	Line 508: Andrew Hornby^fi^Andrew Hornby^Y^^
+	Line 73: 	Line 516: Andy^fi^Andy Davis^Y^^
+	Line 74: 	Line 528: Angelito Miraflores^fi^Taukki^Y^^
+	Line 75: 	Line 538: Angus^fi^Konrad Kiivi^Y^^
+	Line 76: 	Line 558: Angus McDuck^fi^Angus "Hiidenkirnu" McAnkka^Y^^
+	Line 77: 	Line 559: Angus McDuck^fi^Angus "Hiidenkirnu" MacAnkka^N^^
+	Line 78: 	Line 572: Animal the muppet^fi^Animal^Y^^
+	Line 79: 	Line 576: Anita from 101 Dalmatians^fi^Anita^Y^^
+	Line 80: 	Line 583: Anita from W.I.T.C.H.^fi^Anita^Y^^
+	Line 81: 	Line 584: Anna Bannister^fi^Anna Bannister^Y^^
+	Line 82: 	Line 592: Anna from Frozen^fi^Anna^Y^^
+	Line 83: 	Line 594: Annabel^fi^Anneli^Y^^
+	Line 84: 	Line 595: Annabel^fi^Juulia^N^^
+	Line 85: 	Line 597: Annabelle Mink^fi^Impi Tuitunen^Y^^
+	Line 86: 	Line 606: Annie and Fannie^fi^Pupu Söpon sukulaistytöt^Y^^
+	Line 89: 	Line 613: Ant king^fi^Muurahaisten kuningas^Y^^
+	Line 90: 	Line 616: Ant tribe^fi^Muurahaiset^Y^^
+	Line 91: 	Line 617: Ant tribe^fi^Punamuurahaiset^N^^
+	Line 92: 	Line 621: Anton Ego^fi^Anton Ego^Y^^
+	Line 93: 	Line 629: Ape from George of the Jungle^fi^Apina^Y^^
+	Line 94: 	Line 630: Ape from YM 115^fi^Eka Vekaran apina^Y^^
+	Line 95: 	Line 645: Archimedes the owl^fi^Archimedes^Y^^
+	Line 96: 	Line 646: Archimedes the owl^fi^Arkimedes^N^^
+	Line 97: 	Line 652: Ari^fi^Arik^Y^^
+	Line 98: 	Line 656: Arie^fi^Ari^Y^^
+	Line 99: 	Line 676: Arpin Lusene^fi^Arpin Lusene^Y^^
+	Line 100: 	Line 688: Arrow from Treasure Planet^fi^Herra Arrow^Y^^
+	Line 101: 	Line 700: Arxon^fi^Kapteeni Arxon^Y^^
+	Line 102: 	Line 707: Atlantis^fi^Atlantis^Y^^
+	Line 103: 	Line 717: Atomino^fi^Atomiinus^Y^^
+	Line 104: 	Line 727: Audrey^fi^Audrey Ramirez^Y^^
+	Line 105: 	Line 735: August Plume^fi^August Aladobi^Y^^
+	Line 106: 	Line 741: Aunt Eider^fi^Talvikki-täti^Y^^
+	Line 107: 	Line 748: Aunt Matilda^fi^Matilda-täti^Y^^
+	Line 108: 	Line 761: Aunt Minerva^fi^Isotäti Minerva^Y^^
+	Line 109: 	Line 777: Aunt Terrible^fi^Siira-täti^Y^^
+	Line 112: 	Line 788: Avvocato^fi^Tuomari (Tuomiopäivän liigan johtaja)^Y^^
+	Line 113: 	Line 794: Awfultonians^fi^Vihoviimeisen rotankolon asukkaat^Y^^
+	Line 114: 	Line 796: Axel Alpha^fi^Akseli Alfa^Y^^
+	Line 115: 	Line 797: Axel Alpha^fi^N-Olla^N^^
+	Line 116: 	Line 801: Azimuth^fi^Ludwig von Kvak^Y^^
+	Line 117: 	Line 806: Azimuth's pirates^fi^Von Kvakin merirosvot^Y^^
+	Line 118: 	Line 812: Azure Blue^fi^Simppu Sininen^Y^^
+	Line 119: 	Line 824: B-Boyz^fi^K-jengi^Y^^
+	Line 120: 	Line 827: B.E.N. from Treasure Planet^fi^B.E.N.^Y^^
+	Line 129: 	Line 839: BAM^fi^Bambi^Y^^
+	Line 130: 	Line 851: BAM's father^fi^Uljas Metsänruhtinas^Y^^
+	Line 131: 	Line 856: BAM's mother^fi^Helinä^Y^^
+	Line 132: 	Line 874: BB^fi^Karhukopla^Y^^
+	Line 133: 	Line 906: BB1^fi^Yksi karhukoplalainen^Y^^
+	Line 135: 	Line 921: BB2^fi^Kaksi karhukoplalaista^Y^^
+	Line 136: 	Line 938: BBB^fi^Karhunpennut^Y^^
+	Line 138: 	Line 951: BBB1^fi^Yksi karhunpentu^Y^^
+	Line 140: 	Line 961: BBB2^fi^Kaksi karhunpentua^Y^^
+	Line 142: 	Line 973: BFB^fi^Basil Hiiri^Y^^
+	Line 143: 	Line 991: BIQ^fi^Toimi^Y^^
+	Line 144: 	Line 992: BIQ^fi^Tatu^N^^
+	Line 145: 	Line 993: BIQ^fi^Hämy^N^^
+	Line 146: 	Line 1004: BK^fi^Tikki ja Vikki^Y^^
+	Line 147: 	Line 1009: BK1^fi^Yksi Veli Nallen lapsista^Y^^
+	Line 148: 	Line 1018: BK2^fi^Kaksi Veli Nallen lasta^Y^^
+	Line 149: 	Line 1026: BK3^fi^Kolme Veli Nallen lasta^Y^^
+	Line 151: 	Line 1034: BK4^fi^Neljä Veli Nallen lasta^Y^^
+	Line 153: 	Line 1057: BOL^fi^Pulivari^Y^^
+	Line 154: 	Line 1058: BOL^fi^Patu^N^^
+	Line 155: 	Line 1059: BOL^fi^Rekku^N^^
+	Line 156: 	Line 1060: BOL^fi^Bolivar^N^^
+	Line 157: 	Line 1061: BOL^fi^Valipuri^N^^
+	Line 158: 	Line 1062: BOL^fi^Urrukka^N^^
+	Line 159: 	Line 1063: BOL^fi^Nokso^N^^
+	Line 160: 	Line 1095: BON^fi^Ponu^Y^^
+	Line 161: 	Line 1116: BR^fi^Veli Kani^Y^^
+	Line 162: 	Line 1117: BR^fi^Pupu Pirteä^N^^
+	Line 163: 	Line 1118: BR^fi^Veli Pupu^N^^
+	Line 164: 	Line 1119: BR^fi^Veli Pirteä^N^^
+	Line 166: 	Line 1159: BRB^fi^Veli Nalle^Y^^
+	Line 167: 	Line 1160: BRB^fi^Karhu Kömpelö^N^^
+	Line 168: 	Line 1161: BRB^fi^Veli Karhu^N^^
+	Line 169: 	Line 1192: BRF^fi^Mikko Repolainen^Y^^
+	Line 170: 	Line 1193: BRF^fi^Repo Retku^N^^
+	Line 171: 	Line 1194: BRF^fi^Kettu Repolainen^N^^
+	Line 172: 	Line 1222: BRI^fi^Riitta Hanhi^Y^^
+	Line 173: 	Line 1223: BRI^fi^Hullu-Riitta^N^^
+	Line 174: 	Line 1224: BRI^fi^Maisa Hanhi^N^^
+	Line 175: 	Line 1247: BU^fi^Ossian Ötökkä^Y^^
+	Line 176: 	Line 1248: BU^fi^Paavo Pörriäinen^N^^
+	Line 177: 	Line 1249: BU^fi^Pekka Pörriäinen^N^^
+	Line 178: 	Line 1274: BW^fi^Iso, Paha Susi^Y^^
+	Line 179: 	Line 1275: BW^fi^Sepe Susi^N^^
+	Line 180: 	Line 1276: BW^fi^Sepe Midas Susi^N^^
+	Line 181: 	Line 1318: Babay Money^fi^Keijo Häijy^Y^^
+	Line 182: 	Line 1324: Babbo di Louis^fi^Vekan isä^Y^^
+	Line 183: 	Line 1334: Baby Herman^fi^Baby Herman^Y^^
+	Line 184: 	Line 1350: Bagheera^fi^Bagheera^Y^^
+	Line 185: 	Line 1362: Bailey the whale^fi^Bailey^Y^^
+	Line 186: 	Line 1366: Balabù^fi^Kauko^Y^^
+	Line 187: 	Line 1367: Balabù^fi^Viimeinen kulu-kulu^N^^
+	Line 188: 	Line 1372: Baldo^fi^Masa (mainio majava)^Y^^
+	Line 189: 	Line 1378: Baljeet Rai^fi^Baljeet Rai^Y^^
+	Line 190: 	Line 1384: Baloo^fi^Baloo^Y^^
+	Line 191: 	Line 1396: Bambi Gondola^fi^Jutta Juoruvuori^Y^^
+	Line 192: 	Line 1399: Bank watchman from YM 036^fi^Yövartija^Y^^
+	Line 193: 	Line 1402: Banzai^fi^Banzai^Y^^
+	Line 194: 	Line 1406: Barbie from Toy Story^fi^Barbie^Y^^
+	Line 195: 	Line 1410: Barnacle Bill^fi^Vantti-Ville^Y^^
+	Line 196: 	Line 1411: Barnacle Bill^fi^Meri-Ville^N^^
+	Line 197: 	Line 1415: Baron Thieving^fi^Paroni Bär Lingonsylt^Y^^
+	Line 198: 	Line 1437: Bashful^fi^Ujo^Y^^
+	Line 199: 	Line 1449: Basil the burro^fi^Pasilli^Y^^
+	Line 200: 	Line 1466: Battista^fi^Juuso^Y^^
+	Line 201: 	Line 1467: Battista^fi^Jakaus^N^^
+	Line 202: 	Line 1468: Battista^fi^Jooseppi^N^^
+	Line 203: 	Line 1469: Battista^fi^Pökelman^N^^
+	Line 204: 	Line 1470: Battista^fi^Virtanen^N^^
+	Line 205: 	Line 1471: Battista^fi^Justus^N^^
+	Line 206: 	Line 1472: Battista^fi^Juhana^N^^
+	Line 207: 	Line 1489: Battista in Cimino scripts^fi^Juuso (varhaisempi versio)^Y^^
+	Line 208: 	Line 1491: Baylene^fi^Baylene^Y^^
+	Line 209: 	Line 1496: Baymax^fi^Baymax^Y^^
+	Line 210: 	Line 1502: Beast^fi^Hirviö^Y^^
+	Line 211: 	Line 1519: Beauty and the Beast^fi^Kaunotar ja Hirviö^Y^^
+	Line 212: 	Line 1540: Beck^fi^Beck^Y^^
+	Line 213: 	Line 1552: Beelzebub^fi^Pahakurki^Y^^
+	Line 214: 	Line 1553: Beelzebub^fi^Rapsu^N^^
+	Line 215: 	Line 1564: Behemoth^fi^Hirmu^Y^^
+	Line 216: 	Line 1565: Behemoth^fi^Peni^N^^
+	Line 217: 	Line 1575: Belle^fi^Belle^Y^^
+	Line 218: 	Line 1593: Belle Duck^fi^Bella Pulunen^Y^^
+	Line 219: 	Line 1606: Benjamin Franklin from ZT 004^fi^Benjamin Franklin^Y^^
+	Line 220: 	Line 1611: Bennie Bird^fi^Benny-tipu^Y^^
+	Line 221: 	Line 1614: Benny^fi^Pena Kiesi^Y^^
+	Line 222: 	Line 1623: Benny from the I-Team^fi^Pena^Y^^
+	Line 223: 	Line 1632: Beppie^fi^Onerva^Y^^
+	Line 224: 	Line 1633: Beppie^fi^Miia^N^^
+	Line 225: 	Line 1639: Berlioz^fi^Berlioz^Y^^
+	Line 226: 	Line 1648: Bernard^fi^Bernard^Y^^
+	Line 227: 	Line 1657: Bernard e amici^fi^Kale ja kaverit^Y^^
+	Line 228: 	Line 1662: Bernardo^fi^Bernardo^Y^^
+	Line 229: 	Line 1668: Bert^fi^Perttu^Y^^
+	Line 230: 	Line 1677: Bess^fi^Bess^Y^^
+	Line 231: 	Line 1682: Bess Grumper^fi^Bess Grumper^Y^^
+	Line 232: 	Line 1687: Beta betulla^fi^Inka Koivu^Y^^
+	Line 233: 	Line 1695: Betty Lou^fi^Juulia^Y^^
+	Line 234: 	Line 1696: Betty Lou^fi^Anna-Stiina^N^^
+	Line 235: 	Line 1710: Bianca^fi^Bianca^Y^^
+	Line 236: 	Line 1720: Big Baby^fi^Iso vauva^Y^^
+	Line 237: 	Line 1723: Big Bear^fi^Iso Karhu^Y^^
+	Line 238: 	Line 1733: Big Chief^fi^Suuri Päällikkö^Y^^
+	Line 239: 	Line 1751: Big Hero 6^fi^Big Hero 6^Y^^
+	Line 240: 	Line 1754: Big Mama^fi^Pöllö-muori^Y^^
+	Line 241: 	Line 1765: Billy Bones^fi^Billy Bones^Y^^
+	Line 242: 	Line 1773: Billy Goat^fi^Päkä^Y^^
+	Line 243: 	Line 1774: Billy Goat^fi^Jutteri^N^^
+	Line 244: 	Line 1775: Billy Goat^fi^Jukeri^N^^
+	Line 245: 	Line 1776: Billy Goat^fi^Joonas^N^^
+	Line 246: 	Line 1789: Billy Paganino^fi^Billy Paganini^Y^^
+	Line 247: 	Line 1812: Black Brian^fi^Kotivalo^Y^^
+	Line 248: 	Line 1821: Blackheart Beagle^fi^Kivisyömmi Karhula^Y^^
+	Line 249: 	Line 1835: Blackjack^fi^Mesitassu^Y^^
+	Line 250: 	Line 1844: Blacksnake McQuirt^fi^Kyrmy McKyy^Y^^
+	Line 252: 	Line 1857: Bloat^fi^Pallo^Y^^
+	Line 253: 	Line 1875: Blotman^fi^Kaapuritari^Y^^
+	Line 254: 	Line 1886: Blue Fairy^fi^Toivehaltijatar^Y^^
+	Line 255: 	Line 1887: Blue Fairy^fi^Sininen Haltijatar^N^^
+	Line 256: 	Line 1888: Blue Fairy^fi^Sininen Haltiatar^N^^
+	Line 257: 	Line 1903: Bo^fi^Kille^Y^^
+	Line 258: 	Line 1904: Bo^fi^Kai^N^^
+	Line 259: 	Line 1916: Bob^fi^Bob^Y^^
+	Line 260: 	Line 1922: Bobby^fi^Bobby^Y^^
+	Line 262: 	Line 1928: Bobo the elephant^fi^Pepe^Y^^
+	Line 263: 	Line 1937: Bogarto^fi^Rankku Kanuuna^Y^^
+	Line 264: 	Line 1938: Bogarto^fi^Rankku Kannonen^N^^
+	Line 265: 	Line 1939: Bogarto^fi^Humppi Pokari^N^^
+	Line 266: 	Line 1954: Boldan True^fi^Roima Voima^Y^^
+	Line 267: 	Line 1958: Bolt^fi^Bolt^Y^^
+	Line 268: 	Line 1969: Bombie^fi^Bombi-zombi^Y^^
+	Line 269: 	Line 1987: Bonkers^fi^Kahjokatti^Y^^
+	Line 270: 	Line 1998: Bonnie Anderson^fi^Bonnie Anderson^Y^^
+	Line 271: 	Line 2001: Boo the girl^fi^Buu^Y^^
+	Line 272: 	Line 2018: Boomer from Paperino Paperotto^fi^Miksu^Y^^
+	Line 273: 	Line 2027: Bootle Beetle^fi^Kornelius^Y^^
+	Line 274: 	Line 2028: Bootle Beetle^fi^Kornelius Kuoriainen^N^^
+	Line 275: 	Line 2029: Bootle Beetle^fi^Antero^N^^
+	Line 276: 	Line 2030: Bootle Beetle^fi^Severi Sittiäinen^N^^
+	Line 277: 	Line 2040: Borboleta^fi^Purppuranpunainen Perhonen^Y^^
+	Line 278: 	Line 2051: Boris^fi^Boris^Y^^
+	Line 279: 	Line 2067: Bossy^fi^Hertta^Y^^
+	Line 280: 	Line 2078: Boysenberry^fi^Vaapukka^Y^^
+	Line 281: 	Line 2085: Boz^fi^Orvo^Y^^
+	Line 282: 	Line 2092: Brad Van Beck^fi^Brad Van Beck^Y^^
+	Line 283: 	Line 2098: Brave^fi^Urhea^Y^^
+	Line 284: 	Line 2101: Bravo^fi^Pukari^Y^^
+	Line 285: 	Line 2104: Brawn boys^fi^Sylttylän kaksoset^Y^^
+	Line 286: 	Line 2106: Brendon^fi^Brendon^Y^^
+	Line 287: 	Line 2111: Brer Badger^fi^Myyrä Möyrijä^Y^^
+	Line 288: 	Line 2112: Brer Badger^fi^Mestari Mäyränen^N^^
+	Line 289: 	Line 2115: Brer Buzzard^fi^Kilu^Y^^
+	Line 290: 	Line 2116: Brer Buzzard^fi^Korppi Kotkanenä^N^^
+	Line 291: 	Line 2117: Brer Buzzard^fi^Korppi Kotkanen^N^^
+	Line 292: 	Line 2118: Brer Buzzard^fi^Korppi Konkonokka^N^^
+	Line 293: 	Line 2119: Brer Buzzard^fi^Korppi Koukkunokka^N^^
+	Line 294: 	Line 2120: Brer Buzzard^fi^Heikki Hiirihaukka^N^^
+	Line 295: 	Line 2121: Brer Buzzard^fi^Heikki Haukka^N^^
+	Line 296: 	Line 2122: Brer Buzzard^fi^Harri Hiirihaukka^N^^
+	Line 297: 	Line 2131: Brer Coon^fi^Veli Pesukarhu^Y^^
+	Line 298: 	Line 2132: Brer Coon^fi^Supi Söpö^N^^
+	Line 299: 	Line 2133: Brer Coon^fi^Söpö Supinen^N^^
+	Line 300: 	Line 2134: Brer Coon^fi^Supi Suopea^N^^
+	Line 301: 	Line 2135: Brer Coon^fi^Pekka Pesukarhu^N^^
+	Line 302: 	Line 2136: Brer Coon^fi^Pellervo Pesukarhu^N^^
+	Line 303: 	Line 2145: Brer Dove^fi^Veli Pulu^Y^^
+	Line 304: 	Line 2148: Brer Frog^fi^Veli Konna^Y^^
+	Line 305: 	Line 2149: Brer Frog^fi^Saku Sammakko^N^^
+	Line 306: 	Line 2150: Brer Frog^fi^Roope Rupinen^N^^
+	Line 307: 	Line 2155: Brer Groundhog^fi^Myyrä Myllertäjä^Y^^
+	Line 308: 	Line 2156: Brer Groundhog^fi^Myyrä Möyrijä^N^^
+	Line 309: 	Line 2157: Brer Loon^fi^Hessu Harakka^Y^^
+	Line 310: 	Line 2158: Brer Loon^fi^Kuuno Kuikka^N^^
+	Line 311: 	Line 2162: Brer Mole^fi^Makke Maamyyrä^Y^^
+	Line 312: 	Line 2163: Brer Mole^fi^Matti Myyrä^N^^
+	Line 313: 	Line 2164: Brer Mole^fi^Matti Maamyyrä^N^^
+	Line 314: 	Line 2174: Brer Owl^fi^Pöllö-vanhus^Y^^
+	Line 315: 	Line 2183: Brer Possum^fi^Otto Opossumi^Y^^
+	Line 316: 	Line 2184: Brer Possum^fi^Onni Opossumi^N^^
+	Line 317: 	Line 2185: Brer Possum^fi^Rotta Pussinen^N^^
+	Line 318: 	Line 2186: Brer Possum^fi^Oiva Opossumi^N^^
+	Line 319: 	Line 2192: Brer Rabbit's nephews^fi^Pikku puput^Y^^
+	Line 320: 	Line 2203: Brer Terrapin^fi^Kille Kilpikonna^Y^^
+	Line 321: 	Line 2204: Brer Terrapin^fi^Setä Kilpikonna^N^^
+	Line 322: 	Line 2205: Brer Terrapin^fi^Tuomari Kilpikonna^N^^
+	Line 323: 	Line 2206: Brer Terrapin^fi^Konna Kilpinen^N^^
+	Line 324: 	Line 2207: Brer Terrapin^fi^Kalle Kilpikonna^N^^
+	Line 325: 	Line 2208: Brer Terrapin^fi^Veli Merikilpikonna^N^^
+	Line 326: 	Line 2220: Brer Weasel^fi^Nipa Näätä^Y^^
+	Line 327: 	Line 2221: Brer Weasel^fi^Veli Vesikko^N^^
+	Line 328: 	Line 2222: Brer Weasel^fi^Näätä Nenäkäs^N^^
+	Line 329: 	Line 2223: Brer Weasel^fi^Nisse Näätä^N^^
+	Line 330: 	Line 2224: Brer Weasel^fi^Veli Kärppä^N^^
+	Line 331: 	Line 2235: Brer Wolf^fi^Susi Hukka^Y^^
+	Line 332: 	Line 2236: Brer Wolf^fi^Hukka Hurja^N^^
+	Line 333: 	Line 2237: Brer Wolf^fi^Santtu Susi^N^^
+	Line 334: 	Line 2238: Brer Wolf^fi^Mikko Repolainen^N^^
+	Line 335: 	Line 2239: Brer Wolf^fi^Mikko Lurjus Repolainen^N^^
+	Line 336: 	Line 2250: Broken Feather^fi^Murtunut Sulka^Y^^
+	Line 337: 	Line 2260: Brother Bear^fi^Karhuveljeni Koda^Y^^
+	Line 338: 	Line 2267: Bruce the shark^fi^Pomo^Y^^
+	Line 339: 	Line 2271: Bruno^fi^Reksi^Y^^
+	Line 340: 	Line 2279: Bruto^fi^Bruno^Y^^
+	Line 341: 	Line 2280: Bruto^fi^Kuru Korppi^N^^
+	Line 342: 	Line 2295: Bruton^fi^Bruton^Y^^
+	Line 343: 	Line 2301: Brutopian representative^fi^Brutopian konsuli^Y^^
+	Line 344: 	Line 2310: Bubba^fi^Bubba^Y^^
+	Line 345: 	Line 2319: Bubbles^fi^Kupla^Y^^
+	Line 346: 	Line 2322: Buck Calhoun^fi^Onni Ojanen^Y^^
+	Line 347: 	Line 2325: Buck Cluck^fi^Kukko Kieku^Y^^
+	Line 348: 	Line 2337: Buck the dog^fi^Turri^Y^^
+	Line 349: 	Line 2343: Buck the horse^fi^Buck^Y^^
+	Line 350: 	Line 2351: Buford Van Stomm^fi^Buford Van Stomm^Y^^
+	Line 351: 	Line 2361: Bull^fi^Emppa^Y^^
+	Line 352: 	Line 2367: Bullseye^fi^Napakymppi^Y^^
+	Line 353: 	Line 2373: Bum Bum Ghigno^fi^Palle Pulppu^Y^^
+	Line 354: 	Line 2374: Bum Bum Ghigno^fi^Tahvo Tursoke^N^^
+	Line 355: 	Line 2386: Bunz^fi^Herra Turjake^Y^^
+	Line 356: 	Line 2391: Burke^fi^Burke^Y^^
+	Line 357: 	Line 2396: Burton La Valle^fi^Ankkuli Adelman^Y^roolihahmo Eversti Kurtsi^
+	Line 359: 	Line 2412: Busillis^fi^Asianajaja Pikku-Präntti^Y^^
+	Line 360: 	Line 2425: Butch^fi^Lasse^Y^^
+	Line 361: 	Line 2444: Butch the bulldog^fi^Puntus^Y^^
+	Line 362: 	Line 2445: Butch the bulldog^fi^Jomppe^N^^
+	Line 363: 	Line 2456: Buttercup from Toy Story^fi^Leinikki^Y^^
+	Line 364: 	Line 2461: Buzz Lightyear^fi^Buzz Lightyear^Y^^
+	Line 365: 	Line 2478: CAOS^fi^SAKSY^Y^^
+	Line 366: 	Line 2479: CAOS^fi^Salatiedekonnien salainen yhdistys^N^^
+	Line 367: 	Line 2493: CAS^fi^Kaasi^Y^^
+	Line 368: 	Line 2494: CAS^fi^Manni^N^^
+	Line 369: 	Line 2495: CAS^fi^Sakkonen^N^^
+	Line 370: 	Line 2530: CD^fi^Tiku ja Taku^Y^^
+	Line 371: 	Line 2565: CDR^fi^Pelastajat^Y^^
+	Line 372: 	Line 2566: CDR^fi^Tikun ja Takun pelastuspartio^N^^
+	Line 373: 	Line 2584: CIN^fi^Tuhkimo^Y^^
+	Line 374: 	Line 2612: CL^fi^Heluna^Y^^
+	Line 375: 	Line 2613: CL^fi^Heluna Ammu^N^^
+	Line 376: 	Line 2644: CR^fi^Risto Reipas^Y^^
+	Line 377: 	Line 2661: Caleb^fi^Caleb^Y^^
+	Line 378: 	Line 2666: Calico^fi^Pumpuli^Y^^
+	Line 379: 	Line 2680: Camera9^fi^Kamera 9^Y^^
+	Line 380: 	Line 2689: Camille Chameleon^fi^Kamilla Kameleontti^Y^^
+	Line 381: 	Line 2694: Camillino^fi^Makkonen^Y^^
+	Line 382: 	Line 2695: Camillino^fi^Rauno^N^^
+	Line 383: 	Line 2706: Candace Flynn^fi^Candace Flynn^Y^^
+	Line 384: 	Line 2712: Cap. Losky^fi^Rahtilaivan kapteeni^Y^^
+	Line 385: 	Line 2713: Cap. Losky^fi^Kapteeni Kurttunaama^N^^
+	Line 386: 	Line 2718: Capitan Pato^fi^Kapteeni Remo^Y^^
+	Line 387: 	Line 2721: Capitano Brake^fi^Kapteeni Aalto^Y^^
+	Line 388: 	Line 2726: Capo dei capi dell'Organizzazione^fi^Järjestön johtaja^Y^^
+	Line 389: 	Line 2731: Captain Amelia^fi^Kapteeni Amelia^Y^^
+	Line 390: 	Line 2735: Captain Annie^fi^Kapteeni Anni^Y^^
+	Line 391: 	Line 2739: Captain Barbossa^fi^Kapteeni Barbossa^Y^^
+	Line 392: 	Line 2743: Captain Bricco^fi^Kapteeni Puksu^Y^^
+	Line 393: 	Line 2745: Captain Bugabee^fi^Kapteeni Poskiparta^Y^^
+	Line 394: 	Line 2746: Captain Bugabee^fi^Kapteeni Risuparta^N^^
+	Line 395: 	Line 2753: Captain Nemo^fi^Kapteeni Nemo^Y^^
+	Line 396: 	Line 2776: Carl Barks^fi^Carl Barks^Y^^
+	Line 397: 	Line 2787: Carl Fredricksen^fi^Karl Fredrickson^Y^^
+	Line 398: 	Line 2790: Carl the Intern^fi^Carl Karl^Y^^
+	Line 399: 	Line 2798: Cars^fi^Autot^Y^^
+	Line 400: 	Line 2812: Casey Coot^fi^Konrad Ankanpää^Y^^
+	Line 401: 	Line 2824: Casey Jr^fi^Ukko Pekka^Y^^
+	Line 402: 	Line 2831: Cassidy^fi^Cassidy^Y^^
+	Line 403: 	Line 2840: Caterpillar^fi^Kaalimato^Y^^
+	Line 404: 	Line 2844: Cavin^fi^Terho^Y^^
+	Line 405: 	Line 2850: Cedric^fi^Cedric^Y^^
+	Line 406: 	Line 2857: Celia Mae^fi^Sirkka^Y^^
+	Line 407: 	Line 2864: Cenere^fi^Cenere^Y^^
+	Line 408: 	Line 2872: Chaca^fi^Chaca^Y^^
+	Line 409: 	Line 2876: Chad Danforth^fi^Chad Danforth^Y^^
+	Line 410: 	Line 2885: Charles Lyndon^fi^Charles Lyndon^Y^^
+	Line 411: 	Line 2890: Charlie from Paperino Paperotto^fi^Jaska^Y^^
+	Line 413: 	Line 2893: Charlie the fish^fi^Sauli^Y^^
+	Line 414: 	Line 2893: Charlie the fish^fi^Sauli^Y^^
+	Line 415: 	Line 2899: Chatter Telephone^fi^Lelupuhelin^Y^^
+	Line 416: 	Line 2904: Chatty^fi^Huiskahäntä (Pepi-sarjoissa)^Y^^
+	Line 417: 	Line 2905: Chatty^fi^Kurre^N^^
+	Line 418: 	Line 2916: Cheeps^fi^Tirppa^Y^^
+	Line 419: 	Line 2931: Chen Lin^fi^Chen Lin^Y^^
+	Line 421: 	Line 2940: Cheshire Cat^fi^Irvikissa^Y^^
+	Line 422: 	Line 2941: Cheshire Cat^fi^Veijarikissa^N^^
+	Line 424: 	Line 2961: Chi-Chi^fi^Tsi-tsi^Y^^
+	Line 425: 	Line 2962: Chi-Chi^fi^Missi^N^^
+	Line 426: 	Line 2963: Chi-Chi^fi^Sissi^N^^
+	Line 427: 	Line 2975: Chicha^fi^ChiCha^Y^^
+	Line 428: 	Line 2981: Chick Hicks^fi^Jasu Juntti^Y^^
+	Line 429: 	Line 2990: Chickadees^fi^Peukaloiset^Y^^
+	Line 430: 	Line 3015: Chicken Little from 2005^fi^Pikku Kananen^Y^^
+	Line 433: 	Line 3028: Chico^fi^Pedro^Y^^
+	Line 434: 	Line 3029: Chico^fi^Pikki^N^^
+	Line 435: 	Line 3037: Chief^fi^Pösö^Y^^
+	Line 437: 	Line 3043: Chief Inspector Lawless^fi^Tarkastaja Kovakasvo^Y^^
+	Line 438: 	Line 3044: Chief Inspector Lawless^fi^Komisario Pamppu^N^^
+	Line 439: 	Line 3045: Chief Inspector Lawless^fi^Tarkastaja Ratstrade^N^^
+	Line 440: 	Line 3046: Chief Inspector Lawless^fi^Tarkastaja Rotstrade^N^^
+	Line 441: 	Line 3070: Chip^fi^Tiku^Y^^
+	Line 442: 	Line 3086: Chip Gearloose^fi^Veza^Y^^
+	Line 443: 	Line 3091: Chip the cup^fi^Kippo^Y^^
+	Line 444: 	Line 3111: Chisel McSue^fi^Lipi Luikuri^Y^^
+	Line 447: 	Line 3126: Christopher^fi^Christopher Lair^Y^^
+	Line 448: 	Line 3132: Chronoduck^fi^Kronosorsa^Y^^
+	Line 449: 	Line 3140: Chuckles^fi^Virnu^Y^^
+	Line 450: 	Line 3142: Chum^fi^Poiju^Y^^
+	Line 451: 	Line 3145: Chunk^fi^Jysky^Y^^
+	Line 452: 	Line 3150: Churchmouse^fi^Kapteeni Kirkonrotta^Y^^
+	Line 453: 	Line 3151: Churchmouse^fi^Justus Kirkonrotta^N^^
+	Line 454: 	Line 3167: Cicci Snobby^fi^Keimo "Ceccu" Ahnasto^Y^^
+	Line 455: 	Line 3168: Cicci Snobby^fi^Hugo Hienonen^N^^
+	Line 456: 	Line 3169: Cicci Snobby^fi^Kreivi Keikari^N^^
+	Line 457: 	Line 3174: Cinda^fi^Cinda^Y^^
+	Line 458: 	Line 3179: Cinderella's fairy godmother^fi^Haltijatarkummi^Y^^
+	Line 459: 	Line 3186: Cinderella's prince^fi^Tuhkimon prinssi^Y^^
+	Line 460: 	Line 3196: Cinnamon Teal^fi^Sinelmä Sorsa^Y^^
+	Line 461: 	Line 3201: Cissy Swann^fi^Kielo Kenokaula^Y^^
+	Line 462: 	Line 3202: Cissy Swann^fi^Jannika Joutsen^N^^
+	Line 463: 	Line 3207: Claire Voyant^fi^Aino Pussinen^Y^^
+	Line 467: 	Line 3219: Clara Cluck^fi^Klaara Kotko^Y^^
+	Line 468: 	Line 3236: Clarg^fi^Klark^Y^^
+	Line 469: 	Line 3243: Clarion^fi^Kuningatar Okariina^Y^^
+	Line 470: 	Line 3270: Cleo^fi^Kleio^Y^^
+	Line 471: 	Line 3271: Cleo^fi^Cleo^N^^
+	Line 472: 	Line 3287: Clerkly^fi^Säästöpää^Y^^
+	Line 473: 	Line 3301: Clint^fi^SÄTKY^Y^^
+	Line 474: 	Line 3309: Clinton Coot^fi^Kornelius Ankanpää^Y^^
+	Line 475: 	Line 3321: Clopin^fi^Clopin^Y^^
+	Line 476: 	Line 3329: Coach from Riverside Rovers^fi^Koutsi^Y^^
+	Line 477: 	Line 3337: Coachman^fi^Ajuri^Y^^
+	Line 478: 	Line 3338: Coachman^fi^Vaunujen ajaja^N^^
+	Line 479: 	Line 3351: Cody^fi^Toni^Y^^
+	Line 480: 	Line 3357: Cogsworth^fi^Könni^Y^^
+	Line 481: 	Line 3366: Colette Tatou^fi^Colette Tatou^Y^^
+	Line 482: 	Line 3374: Colonel Bassett^fi^Eversti Passeli^Y^^
+	Line 483: 	Line 3380: Colonel Hathi^fi^Eversti Hathi^Y^^
+	Line 484: 	Line 3388: Colonel Philcher^fi^Kaarlo Kolonia^Y^^
+	Line 485: 	Line 3389: Colonel Philcher^fi^Eversti Kolonia^N^^
+	Line 486: 	Line 3402: Cometa Beta^fi^Pyrstötähti Veka^Y^^
+	Line 487: 	Line 3407: Cometa Teta^fi^Pyrstötähti Reka^Y^^
+	Line 488: 	Line 3412: Commandante^fi^Kapteeni Monasterio^Y^^
+	Line 489: 	Line 3413: Commandante^fi^Komendantti Monastario^N^^
+	Line 490: 	Line 3422: Commissario Pinko^fi^Komisario Luikko^Y^^
+	Line 491: 	Line 3431: Control Seven^fi^Valvoja Seitsemän^Y^^
+	Line 492: 	Line 3432: Coon kids^fi^Pepe Pesukarhu^Y^^
+	Line 493: 	Line 3437: Copernico Pitagorico^fi^Abel Pellôthon^Y^^
+	Line 494: 	Line 3444: Copper^fi^Tessu^Y^^
+	Line 495: 	Line 3457: Copperhead McViper^fi^Kyösti McKyy^Y^^
+	Line 496: 	Line 3459: Coral^fi^Koralli^Y^^
+	Line 497: 	Line 3463: Cornelia^fi^Cornelia Landon^Y^^
+	Line 498: 	Line 3478: Cornelius Coot^fi^Julle Ankanpää^Y^^
+	Line 499: 	Line 3499: Cotton^fi^Cotton^Y^^
+	Line 500: 	Line 3507: Count Gryphon^fi^Kreivi Pihvi^Y^^
+	Line 501: 	Line 3513: Count de Sheckels^fi^Kreivi Mikreeni^Y^^
+	Line 502: 	Line 3514: Count de Sheckels^fi^Kreivi Ronski^N^^
+	Line 503: 	Line 3526: Courtney Grumper^fi^Courtney Grumper^Y^^
+	Line 504: 	Line 3534: Cousin Douglas^fi^Verneri-serkku^Y^^
+	Line 505: 	Line 3535: Cousin Douglas^fi^Verneri Ankka^N^^
+	Line 506: 	Line 3536: Cousin Douglas^fi^Touko-serkku^N^^
+	Line 507: 	Line 3537: Cousin Douglas^fi^Taneli-pikkuserkku^N^^
+	Line 508: 	Line 3545: Cousin Lucky^fi^Hannes Tuurihaukka^Y^^
+	Line 509: 	Line 3561: Creamo Catnera^fi^Peto Petteri^Y^^
+	Line 510: 	Line 3565: Creeper^fi^Rääppä^Y^^
+	Line 511: 	Line 3578: Crime Inc^fi^Rötös Oy^Y^^
+	Line 512: 	Line 3585: Cronocomandante^fi^Aikapoliisin päällikkö^Y^^
+	Line 513: 	Line 3596: Crows^fi^Dumbon korpit^Y^^
+	Line 514: 	Line 3610: Cruella^fi^Julmia Juoninen^Y^^
+	Line 515: 	Line 3611: Cruella^fi^Siira Julmio^N^^
+	Line 516: 	Line 3626: Crush^fi^Tärsky^Y^^
+	Line 517: 	Line 3634: Cubbi^fi^Kimi^Y^^
+	Line 518: 	Line 3649: Curator^fi^Ankallismuseon kuraattori^Y^^
+	Line 519: 	Line 3659: Cuthbert Coot^fi^Kiljuhanhi-serkku^Y^^
+	Line 520: 	Line 3660: Cuthbert Coot^fi^Serkku Kiljuhanhi^N^^
+	Line 521: 	Line 3672: Cyanide Charlie^fi^Syanidi-Santtu^Y^^
+	Line 522: 	Line 3676: Cyril Chipmunk^fi^Ossi Orava^Y^^
+	Line 523: 	Line 3681: Cyril McDuck^fi^Aatu Ankka^Y^^
+	Line 524: 	Line 3690: D+D^fi^Aku ja Iines^Y^^
+	Line 525: 	Line 3707: D+F^fi^Aku ja Touho^Y^^
+	Line 526: 	Line 3721: D+N^fi^Aku ja pojat^Y^^
+	Line 527: 	Line 3735: D+S^fi^Aku ja Roope^Y^^
+	Line 528: 	Line 3760: DA^fi^Iines Ankka^Y^^
+	Line 529: 	Line 3797: DAD^fi^Iines Ankan päiväkirja^Y^^
+	Line 530: 	Line 3810: DAb^fi^Iines vauvana^Y^^
+	Line 531: 	Line 3825: DB^fi^Disney-vauvat^Y^^
+	Line 532: 	Line 3851: DD^fi^Aku Ankka^Y^^
+	Line 533: 	Line 3852: DD^fi^Aku Fauntleroy Ankka^N^^
+	Line 534: 	Line 3853: DD^fi^Ankka Lampinen^N^^
+	Line 535: 	Line 3854: DD^fi^Setä Aaron^N^^
+	Line 537: 	Line 3899: DDb^fi^Aku vauvana^Y^^
+	Line 538: 	Line 3914: DMM^fi^Iloiset veitikat^Y^^
+	Line 539: 	Line 3928: DR^fi^Don Rosa^Y^^
+	Line 540: 	Line 3940: DT^fi^Ankronikka^Y^^
+	Line 541: 	Line 3941: DT^fi^DuckTales^N^^
+	Line 542: 	Line 3964: DUM^fi^Dumbo^Y^^
+	Line 543: 	Line 3980: DUM's mother^fi^Rouva Jumbo^Y^^
+	Line 544: 	Line 3990: Daddy Stork^fi^Hannu Haikara^Y^^
+	Line 545: 	Line 3991: Daddy Stork^fi^Kurki Koipinen^N^^
+	Line 546: 	Line 3992: Daddy Stork^fi^Heikki Haikara^N^^
+	Line 547: 	Line 4007: Daisy's niece Dottie^fi^Miina^Y^^
+	Line 548: 	Line 4019: Dale^fi^Taku^Y^^
+	Line 549: 	Line 4035: Dallben^fi^Dallben^Y^^
+	Line 550: 	Line 4038: Dallben's cat^fi^Dallbenin kissa^Y^^
+	Line 551: 	Line 4046: Dalmatians^fi^101 dalmatialaista^Y^^
+	Line 552: 	Line 4064: Daltons^fi^Daltonit^Y^^
+	Line 553: 	Line 4077: Dan Woodstein^fi^Dan^Y^^
+	Line 554: 	Line 4078: Dan Woodstein^fi^Kauno Käppänä^N^^
+	Line 555: 	Line 4083: Dan the dogcatcher^fi^Rami^Y^^
+	Line 556: 	Line 4094: Daphne Duck^fi^Dora Hanhi^Y^^
+	Line 557: 	Line 4095: Daphne Duck^fi^Dora Ankka^N^^
+	Line 558: 	Line 4107: Darbus^fi^Darbus^Y^^
+	Line 559: 	Line 4109: Dark Mother^fi^Varjojen äiti^Y^^
+	Line 560: 	Line 4128: Darkwing^fi^Varjoankka^Y^^
+	Line 561: 	Line 4139: Darla Sherman^fi^Klaara^Y^^
+	Line 562: 	Line 4144: Darling^fi^Pepin emäntä^Y^^
+	Line 563: 	Line 4148: Dash^fi^Dash^Y^^
+	Line 564: 	Line 4151: Dash Parr^fi^Esa Vaara^Y^^
+	Line 565: 	Line 4152: Dash Parr^fi^Esalias Vaara^N^^
+	Line 566: 	Line 4157: Dave^fi^Kaivaja-Dave^Y^^
+	Line 567: 	Line 4161: Davy Crockett^fi^Davy Crockett^Y^^
+	Line 568: 	Line 4170: Davy Jones^fi^Davy Jones^Y^^
+	Line 569: 	Line 4173: Dean Collins^fi^Dean Collins^Y^^
+	Line 570: 	Line 4177: Deb^fi^Meri^Y^^
+	Line 571: 	Line 4185: Della Duck^fi^Della Ankka^Y^^
+	Line 572: 	Line 4186: Della Duck^fi^Dumbella Ankka^N^^
+	Line 573: 	Line 4187: Della Duck^fi^Sanelma^N^^
+	Line 574: 	Line 4198: Dempsey^fi^Laikku^Y^^
+	Line 575: 	Line 4202: Denahi^fi^Denahi^Y^^
+	Line 576: 	Line 4206: Denise Van Duck^fi^Eveliina Ankka^Y^^
+	Line 577: 	Line 4210: Destiny the whale shark^fi^Destiny^Y^^
+	Line 578: 	Line 4217: Detectives^fi^Roopen vakoojat Vesuviuksella^Y^^
+	Line 579: 	Line 4230: Dexter Dingus^fi^Pasi Pikkuaivo^Y^^
+	Line 580: 	Line 4236: Dick Tracy^fi^Dick Tracy^Y^^
+	Line 581: 	Line 4240: Diecidecimi^fi^Täyskymppi^Y^^
+	Line 582: 	Line 4243: Diego^fi^Don Diego de la Vega^Y^^
+	Line 583: 	Line 4270: Dimwitty^fi^Toope Ankka^Y^^
+	Line 584: 	Line 4284: Dinah the cat^fi^Killi^Y^^
+	Line 585: 	Line 4294: Dingus McDuck^fi^Kalle McAnkka^Y^^
+	Line 586: 	Line 4295: Dingus McDuck^fi^Kalle Ankanpää^N^^
+	Line 587: 	Line 4304: Dinkie^fi^Nauku^Y^^
+	Line 588: 	Line 4309: Dinky and Boomer^fi^Näpsä ja Nakkeli^Y^^
+	Line 589: 	Line 4314: Dinosaur^fi^Dinosaurus^Y^^
+	Line 590: 	Line 4318: Dinosaurs^fi^Dinosaurus^Y^^
+	Line 591: 	Line 4327: Dirty Bill^fi^Inha-Ville^Y^^
+	Line 592: 	Line 4328: Dirty Bill^fi^Moska-Ville^N^^
+	Line 593: 	Line 4336: Djali^fi^Djali^Y^^
+	Line 594: 	Line 4341: Django^fi^Django^Y^^
+	Line 595: 	Line 4346: Dobbin^fi^Lotta^Y^^
+	Line 596: 	Line 4357: Doberman^fi^Kapteeni Koiramo^Y^^
+	Line 597: 	Line 4358: Doberman^fi^Kersantti Kuulas^N^^
+	Line 598: 	Line 4359: Doberman^fi^Eversti Vipu^N^^
+	Line 599: 	Line 4360: Doberman^fi^Kapteeni Kuono^N^^
+	Line 600: 	Line 4361: Doberman^fi^Kenraali Kuukas^N^^
+	Line 601: 	Line 4374: Doc^fi^Viisas^Y^^
+	Line 602: 	Line 4389: Doc Crane^fi^Tohtori Kurki^Y^^
+	Line 603: 	Line 4390: Doc Crane^fi^Tohtori Korppi^N^^
+	Line 607: 	Line 4394: Doc Finkelstein^fi^Tohtori Kammo^Y^^
+	Line 608: 	Line 4394: Doc Finkelstein^fi^Tohtori Kammo^Y^^
+	Line 609: 	Line 4395: Doc Finkelstein^fi^Tohtori Keljumo^N^^
+	Line 610: 	Line 4395: Doc Finkelstein^fi^Tohtori Keljumo^N^^
+	Line 611: 	Line 4396: Doc Finkelstein^fi^Tohtori Lieronen^N^^
+	Line 612: 	Line 4396: Doc Finkelstein^fi^Tohtori Lieronen^N^^
+	Line 613: 	Line 4397: Doc Finkelstein^fi^Paroni Keljumo^N^^
+	Line 614: 	Line 4397: Doc Finkelstein^fi^Paroni Keljumo^N^^
+	Line 615: 	Line 4398: Doc Finkelstein^fi^Lipevä^N^^
+	Line 616: 	Line 4398: Doc Finkelstein^fi^Lipevä^N^^
+	Line 617: 	Line 4399: Doc Finkelstein^fi^Professori Jaska Juksari^N^^
+	Line 618: 	Line 4399: Doc Finkelstein^fi^Professori Jaska Juksari^N^^
+	Line 625: 	Line 4405: Doc Hudson^fi^Doc Hudson^Y^^
+	Line 626: 	Line 4412: Doctor Stat^fi^Tohtori Staasi^Y^^
+	Line 627: 	Line 4418: Doctor with beard^fi^Tohtori Huilu^Y^^
+	Line 628: 	Line 4426: Dodger^fi^Filuri^Y^^
+	Line 629: 	Line 4426: Dodger^fi^Filuri^Y^^
+	Line 630: 	Line 4433: Dodo^fi^Dodo^Y^^
+	Line 631: 	Line 4442: Doe Boys^fi^Retuperän veljekset Veikko ja Rauno^Y^^
+	Line 632: 	Line 4458: Dolly^fi^Maija^Y^^
+	Line 633: 	Line 4461: Dolly Papera^fi^Roosa-neiti^Y^^
+	Line 634: 	Line 4468: Dolly Paprika^fi^Roosa Pippuri^Y^^
+	Line 635: 	Line 4471: Don Jollio^fi^Don Jupelo^Y^^
+	Line 636: 	Line 4472: Don Jollio^fi^Don Hurmuri^N^^
+	Line 637: 	Line 4477: Don Karnage^fi^Rosvo-Rudolf^Y^^
+	Line 638: 	Line 4485: Don Poocho^fi^Don Rollo^Y^^
+	Line 639: 	Line 4489: Donald Quest^fi^Donald Quest^Y^^
+	Line 640: 	Line 4492: Donald's black cat^fi^Pihvi^Y^^
+	Line 641: 	Line 4506: Donna Duck from 1951^fi^Donna Ankka^Y^^
+	Line 642: 	Line 4513: Doofus^fi^Sulo Sählä^Y^^
+	Line 643: 	Line 4532: Dopey^fi^Vilkas^Y^^
+	Line 644: 	Line 4533: Dopey^fi^Pikke^N^^
+	Line 645: 	Line 4547: Doppio G^fi^Tupla-G^Y^^
+	Line 646: 	Line 4548: Doppio G^fi^Giorgio Gemini^N^^
+	Line 647: 	Line 4557: Doppioscherzo^fi^Tauno Tuplajekku^Y^^
+	Line 648: 	Line 4558: Doppioscherzo^fi^Viki Vikkelä^N^^
+	Line 649: 	Line 4573: Dory^fi^Dori^Y^^
+	Line 650: 	Line 4578: Dot^fi^Dot^Y^^
+	Line 651: 	Line 4580: Dottor Duckson^fi^Ankson^Y^^
+	Line 652: 	Line 4582: Dottor Fu Man Etchù^fi^Fu Man Tshiu^Y^^
+	Line 653: 	Line 4587: Doublex^fi^Dupleks^Y^^
+	Line 654: 	Line 4588: Doublex^fi^Professori Mikronen^N^^
+	Line 655: 	Line 4609: Downy O'Drake^fi^Lauha McAnkka^Y^^
+	Line 656: 	Line 4610: Downy O'Drake^fi^Lauha Lapasorsa^N^^
+	Line 657: 	Line 4611: Downy O'Drake^fi^Lauha MacAnkka^N^^
+	Line 658: 	Line 4624: Dr Teeth^fi^Dr. Teeth^Y^^
+	Line 659: 	Line 4627: Dr. Dark^fi^Tohtori Tärvä^Y^^
+	Line 660: 	Line 4632: Dr. Dawson^fi^Tohtori Dawson^Y^^
+	Line 661: 	Line 4633: Dr. Dawson^fi^David Q. Dawson^N^^
+	Line 662: 	Line 4641: Dr. Doofenshmirtz^fi^Tohtori Tollontyö^Y^^
+	Line 663: 	Line 4642: Dr. Doofenshmirtz^fi^Heinz Tollontyö^N^^
+	Line 664: 	Line 4647: Dr. Doppler^fi^Tohtori Doppler^Y^^
+	Line 665: 	Line 4649: Dr. Drakken^fi^Tohtori Traagi^Y^^
+	Line 666: 	Line 4656: Dr. Everett Koppenhooper^fi^Tohtori Eevertti Kopinhöper^Y^^
+	Line 667: 	Line 4657: Dr. Everett Koppenhooper^fi^Tohtori Eevert Kopinhöper^N^^
+	Line 668: 	Line 4667: Dr. Hach-Mac^fi^Hak Kermak^Y^^
+	Line 669: 	Line 4673: Dr. Philip Sherman^fi^Hammaslääkäri^Y^^
+	Line 670: 	Line 4682: Dr. Syclocks^fi^Tohtori Aikarauta^Y^^
+	Line 671: 	Line 4685: Dr. Tempo^fi^Professori Hallakainen^Y^^
+	Line 672: 	Line 4687: Dr. Winx^fi^Tohtori Unto Vinksa^Y^^
+	Line 674: 	Line 4694: Dr. X^fi^Herra X^Y^^
+	Line 675: 	Line 4707: Drake Mallard^fi^Urho Sorsimo^Y^^
+	Line 676: 	Line 4722: Duchess^fi^Herttuatar^Y^^
+	Line 677: 	Line 4731: Duckies headmaster^fi^Rehtori Kiljukaula^Y^^
+	Line 678: 	Line 4737: Ducklair^fi^Everett Ducklair^Y^^
+	Line 679: 	Line 4747: Ducklas Fairbarks^fi^Ducklas Fairbarks^Y^^
+	Line 680: 	Line 4752: Duckworth^fi^Ankenström^Y^^
+	Line 681: 	Line 4764: Ducky Bird^fi^Netta^Y^^
+	Line 682: 	Line 4771: Due^fi^Kaksi^Y^^
+	Line 683: 	Line 4778: Duepiedi^fi^Hovila^Y^^
+	Line 684: 	Line 4783: Duff Killigan^fi^Duff Killigan^Y^^
+	Line 685: 	Line 4787: Dug^fi^Dogi^Y^^
+	Line 686: 	Line 4792: Duke Varlott^fi^Herttua de Liero^Y^^
+	Line 687: 	Line 4793: Duke Varlott^fi^Kreivi Jalopää^N^^
+	Line 688: 	Line 4794: Duke Varlott^fi^Herttua Kiero^N^^
+	Line 689: 	Line 4798: Duke de la Puche^fi^Kirppulan herttua^Y^^
+	Line 690: 	Line 4799: Duke de la Puche^fi^Paroni Pinko^N^^
+	Line 691: 	Line 4801: Duke of Weselton^fi^Weseltonin herttua^Y^^
+	Line 692: 	Line 4805: Dulcie^fi^Dulcie^Y^^
+	Line 693: 	Line 4806: Dulcie^fi^Olivia^N^^
+	Line 695: 	Line 4819: Dum-Dum^fi^Paksi^Y^^
+	Line 696: 	Line 4820: Dum-Dum^fi^Otto^N^^
+	Line 697: 	Line 4821: Dum-Dum^fi^Leo^N^^
+	Line 698: 	Line 4831: Dumb the robot^fi^Kollo^Y^^
+	Line 699: 	Line 4837: Dumptruck^fi^Katujyrä^Y^^
+	Line 700: 	Line 4845: Dustibones^fi^Professori Tomuluinen^Y^^
+	Line 701: 	Line 4846: Dustibones^fi^Toivo Tomuluinen^N^^
+	Line 702: 	Line 4847: Dustibones^fi^Epeli Kuivakisko^N^^
+	Line 703: 	Line 4848: Dustibones^fi^Kuivakallo^N^^
+	Line 704: 	Line 4849: Dustibones^fi^Pölypää^N^^
+	Line 705: 	Line 4850: Dustibones^fi^Muinomieli^N^^
+	Line 706: 	Line 4851: Dustibones^fi^Luunappi^N^^
+	Line 707: 	Line 4852: Dustibones^fi^Professori Samuli Siru^N^^
+	Line 708: 	Line 4864: Dutch medicine man^fi^Poppamies^Y^^
+	Line 709: 	Line 4878: EB^fi^Eka Vekara^Y^^
+	Line 713: 	Line 4904: EE^fi^Velmu Viurusilmä^Y^^
+	Line 714: 	Line 4928: ELL^fi^Kuru Korppi^Y^^
+	Line 715: 	Line 4954: Easter Bunny^fi^Pääsiäispupu^Y^^
+	Line 716: 	Line 4963: Ebenezer Higglesby^fi^Einari Mutka^Y^^
+	Line 717: 	Line 4964: Ebenezer Higglesby^fi^Einari U. Mutka^N^^
+	Line 718: 	Line 4965: Ebenezer Higglesby^fi^Reino Rautahuuli^N^^
+	Line 719: 	Line 4969: Ecks^fi^Eks^Y^^
+	Line 720: 	Line 4982: Ed the hyena^fi^Ed^Y^^
+	Line 721: 	Line 4986: Eddie Megget^fi^Eddie Megget^Y^^
+	Line 722: 	Line 5006: Edna Gale^fi^Edna Gale^Y^^
+	Line 723: 	Line 5009: Edna Mode^fi^Eira "E" Kuosi^Y^^
+	Line 724: 	Line 5012: Edward Folkner^fi^Edward Folkner^Y^^
+	Line 725: 	Line 5018: Eema^fi^Eema^Y^^
+	Line 726: 	Line 5028: Eeyore^fi^Ihaa^Y^^
+	Line 727: 	Line 5029: Eeyore^fi^Ii-haa^N^^
+	Line 728: 	Line 5045: Eggetha^fi^Kaneli^Y^^
+	Line 729: 	Line 5052: Egret Heron^fi^Hekku^Y^^
+	Line 730: 	Line 5058: Eider Duck^fi^Unto Ankka^Y^^
+	Line 731: 	Line 5059: Eider Duck^fi^Eetu Ankka^N^^
+	Line 732: 	Line 5072: Eidolon^fi^Odin Eidolon^Y^^
+	Line 733: 	Line 5079: Eilonwy^fi^Elena^Y^^
+	Line 734: 	Line 5087: Einmug^fi^Tohtori Ykskorva^Y^^
+	Line 735: 	Line 5088: Einmug^fi^Armas Ahteri^N^^
+	Line 736: 	Line 5089: Einmug^fi^Kari Katyyri^N^^
+	Line 737: 	Line 5090: Einmug^fi^Tohtori Ihmeinen^N^^
+	Line 738: 	Line 5091: Einmug^fi^Professori Ihmeinen^N^^
+	Line 739: 	Line 5092: Einmug^fi^Tohtori Salavihi^N^^
+	Line 740: 	Line 5102: Einstein^fi^Einstein^Y^^
+	Line 741: 	Line 5106: Elastigirl^fi^Neiti Rajaton^Y^^
+	Line 742: 	Line 5107: Elastigirl^fi^Elli Vaara^N^^
+	Line 743: 	Line 5111: Elektron^fi^Elektron^Y^^
+	Line 744: 	Line 5121: Elga^fi^Rouva Sokeripihti^Y^^
+	Line 745: 	Line 5127: Elinor^fi^Elinor^Y^^
+	Line 746: 	Line 5131: Elizabeth Landon^fi^Elizabeth Landon^Y^^
+	Line 747: 	Line 5136: Elizabeth Swann^fi^Elizabeth Swann^Y^^
+	Line 748: 	Line 5147: Elmer Elephant^fi^Elmo Elefantti^Y^^
+	Line 749: 	Line 5148: Elmer Elephant^fi^Elefantti Elmeri^N^^
+	Line 750: 	Line 5160: Elsa^fi^Elsa^Y^^
+	Line 751: 	Line 5162: Elyon^fi^Elyon^Y^^
+	Line 752: 	Line 5174: Endarno^fi^Endarno^Y^^
+	Line 753: 	Line 5181: Eric Lyndon^fi^Eric Lyndon^Y^^
+	Line 754: 	Line 5193: Esmeralda^fi^Esmeralda^Y^^
+	Line 755: 	Line 5206: Estrella Marina^fi^Meri Virta^Y^^
+	Line 756: 	Line 5214: Etch^fi^Etch^Y^^
+	Line 757: 	Line 5235: Eurasia Tost^fi^Tiina Tietävä^Y^^
+	Line 758: 	Line 5246: Eve^fi^Eve^Y^^
+	Line 759: 	Line 5263: Evrons^fi^Evronit^Y^^
+	Line 760: 	Line 5275: Evrons1^fi^Yksi Evron^Y^^
+	Line 761: 	Line 5285: Ew the white creature^fi^Ew^Y^^
+	Line 764: 	Line 5310: FE^fi^Touho Ankka^Y^^
+	Line 767: 	Line 5350: FLG^fi^Kulta-Into Pii^Y^^
+	Line 768: 	Line 5351: FLG^fi^MacItara^N^^
+	Line 769: 	Line 5352: FLG^fi^Saku Hakku^N^^
+	Line 770: 	Line 5374: Fa Li^fi^Fa Li^Y^^
+	Line 771: 	Line 5381: Fafnir^fi^Kärmes^Y^^
+	Line 772: 	Line 5382: Fafnir^fi^Fafnir^N^^
+	Line 773: 	Line 5389: Fagin^fi^Pultsi^Y^^
+	Line 774: 	Line 5398: Fairfax^fi^Professori Morgan Fairfax^Y^^
+	Line 775: 	Line 5414: Faline^fi^Faline^Y^^
+	Line 776: 	Line 5423: Fang^fi^Fang^Y^^
+	Line 777: 	Line 5429: Fanny Coot^fi^Hanna Hanhi^Y^^
+	Line 778: 	Line 5430: Fanny Coot^fi^Hanna Ankanpää^N^^
+	Line 779: 	Line 5442: Fantobass^fi^Karhukeisari^Y^^
+	Line 780: 	Line 5451: Fantomius^fi^Fantom Ankka^Y^^
+	Line 781: 	Line 5452: Fantomius^fi^Taikaviitta (alkuperäinen)^N^^
+	Line 782: 	Line 5453: Fantomius^fi^Musta Ankka^N^^
+	Line 783: 	Line 5469: Fat Cat^fi^Kollo^Y^^
+	Line 784: 	Line 5487: Fauna^fi^Valotar^Y^^
+	Line 785: 	Line 5488: Fauna^fi^Fauna^N^^
+	Line 787: 	Line 5506: Feather Mallard^fi^Soila Sorsa^Y^^
+	Line 788: 	Line 5514: Feathers^fi^Papunen^Y^^
+	Line 789: 	Line 5520: Felino Felynis^fi^Felix Ilves^Y^^
+	Line 790: 	Line 5525: Fenimore Cook^fi^Konstantin Kokki^Y^^
+	Line 791: 	Line 5536: Fenton Crackshell^fi^Maukka Munankuori^Y^^
+	Line 792: 	Line 5547: Ferb^fi^Ferb Fletcher^Y^^
+	Line 793: 	Line 5555: Ferdinand the bull^fi^Nantti^Y^^
+	Line 794: 	Line 5565: Fergus McDuck^fi^Fergus McAnkka^Y^^
+	Line 795: 	Line 5566: Fergus McDuck^fi^Fergus MacAnkka^N^^
+	Line 796: 	Line 5577: Fergus from Brave^fi^Fergus^Y^^
+	Line 797: 	Line 5581: Fflewddur Fflam^fi^Harpo^Y^^
+	Line 806: 	Line 5589: Fiddler Pig^fi^Veli Viulu^Y^^
+	Line 807: 	Line 5589: Fiddler Pig^fi^Veli Viulu^Y^^
+	Line 818: 	Line 5599: Fidget^fi^Liuhu^Y^^
+	Line 819: 	Line 5599: Fidget^fi^Liuhu^Y^^
+	Line 829: 	Line 5607: Fido^fi^Poke^Y^^
+	Line 830: 	Line 5607: Fido^fi^Poke^Y^^
+	Line 840: 	Line 5614: Fifer Pig^fi^Veli Huilu^Y^^
+	Line 841: 	Line 5614: Fifer Pig^fi^Veli Huilu^Y^^
+	Line 861: 	Line 5625: Fifi the Peke^fi^Liila^Y^^
+	Line 862: 	Line 5625: Fifi the Peke^fi^Liila^Y^^
+	Line 863: 	Line 5625: Fifi the Peke^fi^Liila^Y^^
+	Line 894: 	Line 5634: Fifi the poodle^fi^Fifi^Y^^
+	Line 895: 	Line 5634: Fifi the poodle^fi^Fifi^Y^^
+	Line 896: 	Line 5634: Fifi the poodle^fi^Fifi^Y^^
+	Line 897: 	Line 5634: Fifi the poodle^fi^Fifi^Y^^
+	Line 898: 	Line 5634: Fifi the poodle^fi^Fifi^Y^^
+	Line 910: 	Line 5640: Figaro^fi^Figaro^Y^^
+	Line 911: 	Line 5640: Figaro^fi^Figaro^Y^^
+	Line 912: 	Line 5640: Figaro^fi^Figaro^Y^^
+	Line 936: 	Line 5657: Fillmore^fi^Klainari^Y^^
+	Line 937: 	Line 5657: Fillmore^fi^Klainari^Y^^
+	Line 949: 	Line 5665: Finch^fi^Höytylä^Y^^
+	Line 950: 	Line 5665: Finch^fi^Höytylä^Y^^
+	Line 956: 	Line 5669: Finding Dory^fi^Doria etsimässä^Y^^
+	Line 957: 	Line 5669: Finding Dory^fi^Doria etsimässä^Y^^
+	Line 958: 	Line 5670: Finding Nemo^fi^Nemoa etsimässä^Y^^
+	Line 959: 	Line 5670: Finding Nemo^fi^Nemoa etsimässä^Y^^
+	Line 963: 	Line 5673: Finney^fi^Finney^Y^^
+	Line 964: 	Line 5673: Finney^fi^Finney^Y^^
+	Line 965: 	Line 5673: Finney^fi^Finney^Y^^
+	Line 973: 	Line 5678: Fira^fi^Fira^Y^^
+	Line 974: 	Line 5678: Fira^fi^Fira^Y^^
+	Line 975: 	Line 5678: Fira^fi^Fira^Y^^
+	Line 1004: 	Line 5697: Fix-It Felix Jr.^fi^Fixari-Felix Jr.^Y^^
+	Line 1005: 	Line 5697: Fix-It Felix Jr.^fi^Fixari-Felix Jr.^Y^^
+	Line 1006: 	Line 5697: Fix-It Felix Jr.^fi^Fixari-Felix Jr.^Y^^
+	Line 1007: 	Line 5701: Flagstarr^fi^Luutnantti Maria Liehuletti^Y^^
+	Line 1008: 	Line 5706: Flat^fi^Arvo^Y^^
+	Line 1010: 	Line 5713: Flaversham^fi^Lelutehtailija Hiiro Leikinheimo^Y^^
+	Line 1011: 	Line 5718: Flik^fi^Flik^Y^^
+	Line 1012: 	Line 5730: Flit^fi^Flint^Y^^
+	Line 1013: 	Line 5737: Flo^fi^Floora^Y^^
+	Line 1015: 	Line 5741: Floating Warlock^fi^Kelluva velho^Y^^
+	Line 1016: 	Line 5747: Flora^fi^Päivätär^Y^^
+	Line 1017: 	Line 5748: Flora^fi^Flora^N^^
+	Line 1018: 	Line 5749: Flora^fi^Floora^N^^
+	Line 1019: 	Line 5761: Flotsam and Jetsam^fi^Kiero ja Liero^Y^^
+	Line 1020: 	Line 5771: Flounder^fi^Pärsky^Y^^
+	Line 1021: 	Line 5784: Flower^fi^Kukka^Y^^
+	Line 1023: 	Line 5795: Fluff^fi^Haiven^Y^^
+	Line 1024: 	Line 5801: Fluke the sea lion^fi^Säkä^Y^^
+	Line 1025: 	Line 5810: Fly King^fi^Kärpäskuningas^Y^^
+	Line 1026: 	Line 5811: Fly King^fi^Kärpästen kuningas^N^^
+	Line 1027: 	Line 5812: Flynn Rider^fi^Flynn Rider^Y^^
+	Line 1028: 	Line 5818: Foola Zoola^fi^Poppamies Fuula Zuula^Y^^
+	Line 1029: 	Line 5819: Foola Zoola^fi^Fuula Tsuula^N^^
+	Line 1031: 	Line 5831: Forest sheriff^fi^Paavo Poliisi^Y^^
+	Line 1032: 	Line 5837: Foul Fellows' Club^fi^Kelmien kerho^Y^^
+	Line 1033: 	Line 5848: Foulfellow^fi^Rehti Repo^Y^^
+	Line 1034: 	Line 5849: Foulfellow^fi^Mikko Repolainen^N^^
+	Line 1035: 	Line 5850: Foulfellow^fi^Rehti-Repo^N^^
+	Line 1036: 	Line 5851: Foulfellow^fi^J. Worthington^N^^
+	Line 1037: 	Line 5852: Foulfellow^fi^Kettu Vinosilmä^N^^
+	Line 1038: 	Line 5853: Foulfellow^fi^Veijarikettu^N^^
+	Line 1040: 	Line 5866: Foxy Loxy^fi^Ringa Repo^Y^^
+	Line 1041: 	Line 5870: Fozzie Bear^fi^Fozzie^Y^^
+	Line 1042: 	Line 5875: Frances Jameson^fi^Frances Jameson^Y^^
+	Line 1043: 	Line 5881: Francis^fi^Francis^Y^^
+	Line 1044: 	Line 5895: Frank the journalist^fi^Risto^Y^^
+	Line 1045: 	Line 5905: Fred^fi^Fred^Y^^
+	Line 1046: 	Line 5909: Friar Tuck^fi^Munkki Tuck^Y^^
+	Line 1047: 	Line 5922: Friday^fi^Perjantai^Y^^
+	Line 1048: 	Line 5931: Friend Owl^fi^Pöllövaari^Y^^
+	Line 1051: 	Line 5941: Frollo^fi^Claude Frollo^Y^^
+	Line 1052: 	Line 5965: Frozen^fi^Frozen^Y^^
+	Line 1053: 	Line 5967: Frozone^fi^Hyytäjä^Y^^
+	Line 1054: 	Line 5968: Frozone^fi^Julius Väre^N^^
+	Line 1055: 	Line 5974: Frump^fi^Rehtori Ärmy^Y^^
+	Line 1056: 	Line 5978: Fu Dog^fi^Fu^Y^^
+	Line 1057: 	Line 5985: Fulldrip Pulpbugle^fi^Armas-Eetu Hilpari^Y^^
+	Line 1058: 	Line 5994: Fulton Gearloose^fi^Pietari Peloton^Y^^
+	Line 1059: 	Line 5995: Fulton Gearloose^fi^Joonas Peloton^N^^
+	Line 1061: 	Line 6000: Fussmore^fi^Herra Rustonen^Y^^
+	Line 1062: 	Line 6009: GB^fi^Karhuvaari^Y^^
+	Line 1063: 	Line 6034: GD^fi^Mummo Ankka^Y^^
+	Line 1064: 	Line 6035: GD^fi^Kaino-Vieno Ankka^N^^
+	Line 1065: 	Line 6036: GD^fi^Kaino-Vieno Ankanpää^N^^
+	Line 1066: 	Line 6071: GD's bull^fi^Nantti^Y^^
+	Line 1067: 	Line 6091: GIL^fi^Pikku-Pelle^Y^^
+	Line 1068: 	Line 6113: GJ^fi^Huli ja Vili^Y^^
+	Line 1071: 	Line 6141: GL^fi^Hannu Hanhi^Y^^
+	Line 1072: 	Line 6167: GLb^fi^Hannu vauvana^Y^^
+	Line 1073: 	Line 6194: GO^fi^Hessu^Y^^
+	Line 1074: 	Line 6195: GO^fi^Hessu Hopo^N^^
+	Line 1079: 	Line 6234: GO's girlfriend Lulubelle^fi^Helinä^Y^^
+	Line 1080: 	Line 6241: GOb^fi^Hessu vauvana^Y^^
+	Line 1081: 	Line 6263: GU^fi^Hansu^Y^^
+	Line 1082: 	Line 6264: GU^fi^Hansu Hanhi^N^^
+	Line 1083: 	Line 6265: GU^fi^Hannu Hanhi^N^^
+	Line 1084: 	Line 6288: GUM^fi^Kumi-Kalle^Y^^
+	Line 1085: 	Line 6301: GUb^fi^Hansu vauvana^Y^^
+	Line 1086: 	Line 6325: GY^fi^Pelle Peloton^Y^^
+	Line 1090: 	Line 6370: GY's mother^fi^Pelle Pelottoman äiti^Y^^
+	Line 1092: 	Line 6380: GY's thinking cap^fi^Pelle Pelottoman mietintämyssy^Y^^
+	Line 1093: 	Line 6392: GYb^fi^Pelle Peloton vauvana^Y^^
+	Line 1095: 	Line 6408: Gabriella Montez^fi^Gabriella Montez^Y^^
+	Line 1096: 	Line 6418: Gadget^fi^Vinkki^Y^^
+	Line 1098: 	Line 6429: Gaetan Moliere^fi^Gaetan "Myyrä" Moliere^Y^^
+	Line 1099: 	Line 6434: Gallien^fi^XZ 1^Y^^
+	Line 1100: 	Line 6441: Gangs^fi^Ankkalinnan rikollisjengit^Y^^
+	Line 1101: 	Line 6442: Gangs^fi^Rokkikunkut^N^^
+	Line 1102: 	Line 6443: Gangs^fi^Legioona^N^^
+	Line 1103: 	Line 6450: Garcia^fi^Garcia^Y^^
+	Line 1104: 	Line 6467: Garé Barks^fi^Garé Barks^Y^^
+	Line 1105: 	Line 6474: Gaston^fi^Gaston^Y^^
+	Line 1106: 	Line 6482: Gastone Paperotto^fi^Pikku-Hannu^Y^^
+	Line 1107: 	Line 6498: Gedeone^fi^Teodor Ankka^Y^^
+	Line 1108: 	Line 6509: Geena^fi^Lala^Y^^
+	Line 1109: 	Line 6525: Genialina Edy Son^fi^Hanhikki^Y^^
+	Line 1110: 	Line 6534: Genie^fi^Henki^Y^^
+	Line 1111: 	Line 6551: Geno and Gurri^fi^Bambin lapset^Y^^
+	Line 1112: 	Line 6554: George Banks^fi^Yrjö Pankki^Y^^
+	Line 1113: 	Line 6565: George of the Jungle^fi^Viidakon Ykä^Y^^
+	Line 1114: 	Line 6573: Georgette^fi^Rusetti^Y^^
+	Line 1115: 	Line 6579: Gepetto^fi^Gepetto^Y^^
+	Line 1116: 	Line 6580: Gepetto^fi^Geppetto^N^^
+	Line 1117: 	Line 6593: Geraldina^fi^Geraldiina^Y^^
+	Line 1118: 	Line 6594: Gerda from Frozen^fi^Gerda^Y^^
+	Line 1119: 	Line 6598: Geronimo^fi^Pikku Puuma^Y^^
+	Line 1120: 	Line 6609: Gertie^fi^Gertrud^Y^^
+	Line 1121: 	Line 6618: Gertie Gabble^fi^Kerttu^Y^^
+	Line 1122: 	Line 6624: Gertrude Gadwall^fi^Olga Ankanpää^Y^^
+	Line 1123: 	Line 6625: Gertrude Gadwall^fi^Olga Uivelo^N^^
+	Line 1124: 	Line 6643: Giada^fi^Marie^Y^^
+	Line 1125: 	Line 6659: Gibbs^fi^Joshamee Gibbs^Y^^
+	Line 1126: 	Line 6666: Gideon^fi^Kimi^Y^^
+	Line 1127: 	Line 6667: Gideon^fi^Murri^N^^
+	Line 1128: 	Line 6668: Gideon^fi^Gideon^N^^
+	Line 1129: 	Line 6676: Gideon from W.I.T.C.H.^fi^Gideon^Y^^
+	Line 1130: 	Line 6684: Gilded Man^fi^El Dorado^Y^^
+	Line 1131: 	Line 6696: Gilford Gadwaddle^fi^Herra Taalala^Y^^
+	Line 1132: 	Line 6697: Gilford Gadwaddle^fi^Herra Tiukkanen^N^^
+	Line 1133: 	Line 6700: Gill^fi^Gill^Y^^
+	Line 1134: 	Line 6705: Gilor Borax^fi^Räyhä Rutto^Y^^
+	Line 1135: 	Line 6708: Ginger^fi^Ginger^Y^^
+	Line 1136: 	Line 6709: Gingerbread from Cookieland^fi^Piparipoika^Y^^
+	Line 1137: 	Line 6710: Giorgio Cavazzano^fi^Giorgio Cavazzano^Y^^
+	Line 1138: 	Line 6715: Gizmo^fi^H-Äkä^Y^^
+	Line 1139: 	Line 6716: Gizmo^fi^H. Äkä^N^^
+	Line 1140: 	Line 6717: Gizmo^fi^Herkko^N^^
+	Line 1141: 	Line 6736: Gizmoduck^fi^Turboankka^Y^^
+	Line 1142: 	Line 6737: Gizmoduck^fi^Roboankka^N^^
+	Line 1143: 	Line 6752: Gloomy^fi^Alakulo^Y^^
+	Line 1144: 	Line 6753: Gloomy^fi^Tommi^N^^
+	Line 1145: 	Line 6758: Gloria^fi^Lissu^Y^^
+	Line 1146: 	Line 6767: Gloria Del Orta^fi^Gloria Del Orto^Y^^
+	Line 1147: 	Line 6769: Gloria Gump^fi^Gloria Gump^Y^^
+	Line 1148: 	Line 6772: Gloria Squackson^fi^Gloria Skvaakson^Y^^
+	Line 1149: 	Line 6776: Glory-Bee^fi^Helinä^Y^^
+	Line 1150: 	Line 6788: Gneezles^fi^Punkerot^Y^^
+	Line 1151: 	Line 6794: Go Go Tomago^fi^GoGo Tomago^Y^^
+	Line 1152: 	Line 6798: Godmothers^fi^Kolme hyvää haltiatarta^Y^^
+	Line 1154: 	Line 6815: Goldie^fi^Kultu Kimallus^Y^^
+	Line 1155: 	Line 6816: Goldie^fi^Kultu O'Kimmel^N^^
+	Line 1156: 	Line 6846: Gomes^fi^Gomes^Y^^
+	Line 1157: 	Line 6847: Gomes^fi^Rauli^N^^
+	Line 1158: 	Line 6855: Gonzo^fi^Gonzo^Y^^
+	Line 1159: 	Line 6857: Goo the mongoose^fi^Singaporen Singa^Y^^
+	Line 1160: 	Line 6864: Gooch Gorilla^fi^Jori^Y^^
+	Line 1161: 	Line 6865: Gooch Gorilla^fi^Kalle Gorilla^N^^
+	Line 1162: 	Line 6870: Goof Troop^fi^Hopon poppoo^Y^^
+	Line 1163: 	Line 6886: Goostave Gander^fi^Hjalmar Hanhi^Y^^
+	Line 1164: 	Line 6898: Gopher^fi^Masa Myyrä^Y^^
+	Line 1165: 	Line 6899: Gopher^fi^Myyrä^N^^
+	Line 1166: 	Line 6913: Gorthan^fi^Gorthan^Y^^
+	Line 1167: 	Line 6924: Gosalyn Waddlemeyer^fi^Mimosa^Y^^
+	Line 1168: 	Line 6925: Gosalyn Waddlemeyer^fi^Mimosa Aivohanhi^N^^
+	Line 1169: 	Line 6938: Gotrocks^fi^Herra Karaatti^Y^^
+	Line 1170: 	Line 6944: Gotrocks from DD 115^fi^Äveriö^Y^^
+	Line 1171: 	Line 6949: Grace the cow^fi^Grace^Y^^
+	Line 1172: 	Line 6954: Grace the fairy^fi^Grace^Y^^
+	Line 1173: 	Line 6959: Grammi^fi^Mimmi^Y^^
+	Line 1174: 	Line 6968: Grande Bluff^fi^Angus^Y^^
+	Line 1175: 	Line 6974: Grandma Wolf^fi^Rouva Susi^Y^^
+	Line 1176: 	Line 6975: Grandma Wolf^fi^Sepe Suden äiti^N^^
+	Line 1177: 	Line 6976: Grandma Wolf^fi^Pikku Hukan mummi^N^^
+	Line 1178: 	Line 6987: Grandmother Willow^fi^Kaarnamuori^Y^^
+	Line 1179: 	Line 6994: Grandpa Bunny^fi^Pupuvaari Pitkäkorva^Y^^
+	Line 1180: 	Line 6997: Grandpa Chipmunk^fi^Oravavaari^Y^^
+	Line 1181: 	Line 7014: Granny Beagle^fi^Karhumuori^Y^^
+	Line 1182: 	Line 7023: Granny De Spell^fi^Elvi-mummi^Y^^
+	Line 1183: 	Line 7024: Granny De Spell^fi^Karalda-täti^N^^
+	Line 1184: 	Line 7040: Great Auntie Nott^fi^Et-täti^Y^^
+	Line 1185: 	Line 7054: Gregor^fi^Justus^Y^^
+	Line 1186: 	Line 7064: Gremlin Gus^fi^Masinisti Masa^Y^^
+	Line 1187: 	Line 7074: Greta Glamor^fi^Lulu Lumotar^Y^^
+	Line 1188: 	Line 7075: Greta Reginald^fi^Greta Reginald^Y^^
+	Line 1189: 	Line 7081: Gretchen Grebe^fi^Gerda Hanhi^Y^^
+	Line 1190: 	Line 7082: Gretchen Grebe^fi^Gerda Uikku^N^^
+	Line 1192: 	Line 7091: Griffy^fi^Aarni^Y^^
+	Line 1193: 	Line 7097: Grimblebore^fi^Tripledore^Y^^
+	Line 1194: 	Line 7101: Grimsby^fi^Kristian^Y^^
+	Line 1195: 	Line 7107: Groob^fi^Kruup^Y^^
+	Line 1196: 	Line 7113: Growlio^fi^Gorilla Köriläs^Y^^
+	Line 1197: 	Line 7120: Grrodon^fi^Grrodon^Y^^
+	Line 1214: 	Line 7141: Grugno^fi^Tassu^Y^^
+	Line 1215: 	Line 7142: Grugno^fi^Rousku^N^^
+	Line 1216: 	Line 7150: Grumpy^fi^Jörö^Y^^
+	Line 1217: 	Line 7151: Grumpy^fi^Nikke^N^^
+	Line 1218: 	Line 7168: Guido from Cars^fi^Guido^Y^^
+	Line 1219: 	Line 7181: Gummi Bears^fi^Kummikarhut^Y^^
+	Line 1220: 	Line 7194: Gunni Helm^fi^Hemmo Hattu^Y^^
+	Line 1221: 	Line 7199: Gurgi^fi^Purri^Y^^
+	Line 1222: 	Line 7203: Gurgle^fi^Kurlu^Y^^
+	Line 1223: 	Line 7209: Gus from GJ^fi^Huli^Y^^
+	Line 1224: 	Line 7232: Gypsy queen^fi^Mustalaiskuningatar^Y^^
+	Line 1225: 	Line 7239: HAZ^fi^Hekla Velho^Y^^
+	Line 1226: 	Line 7265: HDL^fi^Tupu, Hupu ja Lupu^Y^^
+	Line 1227: 	Line 7266: HDL^fi^Tupu, Hupu ja Lupu Ankka^N^^
+	Line 1228: 	Line 7267: HDL^fi^Teodor, Hubert ja Ludwig Ankka^N^^
+	Line 1229: 	Line 7268: HDL^fi^Kalle, Valle ja Palle^N^^
+	Line 1230: 	Line 7269: HDL^fi^Huke, Tupu ja Jupe^N^^
+	Line 1233: 	Line 7312: HDL's father^fi^Tupun, Hupun ja Lupun isä^Y^^
+	Line 1234: 	Line 7323: HDL1^fi^Yksi Akun sukulaispojista^Y^^
+	Line 1235: 	Line 7338: HDL2^fi^Kaksi Akun sukulaispojista^Y^^
+	Line 1236: 	Line 7351: HDL4^fi^Neljä Akun sukulaispoikaa^Y^^
+	Line 1237: 	Line 7352: HDL4^fi^Rupu Ankka^N^^
+	Line 1239: 	Line 7373: HH^fi^Polle Koninkaulus^Y^^
+	Line 1240: 	Line 7374: HH^fi^Polle Konikaulus^N^^
+	Line 1241: 	Line 7407: HLP^fi^Pikku apulainen^Y^^
+	Line 1243: 	Line 7432: Hades^fi^Hades^Y^^
+	Line 1244: 	Line 7448: Haley^fi^Haley Long^Y^^
+	Line 1245: 	Line 7452: Halinor^fi^Halinor^Y^^
+	Line 1246: 	Line 7457: Hamm^fi^Röh^Y^^
+	Line 1247: 	Line 7463: Hank^fi^Hanski^Y^^
+	Line 1248: 	Line 7465: Hank the octopus^fi^Hank^Y^^
+	Line 1249: 	Line 7470: Hans from Frozen^fi^Prinssi Hans^Y^^
+	Line 1250: 	Line 7475: Happy^fi^Lystikäs^Y^^
+	Line 1251: 	Line 7476: Happy^fi^Rikke^N^^
+	Line 1252: 	Line 7490: Hardrock Joe^fi^Kalliosolan Jake^Y^^
+	Line 1253: 	Line 7491: Harold Hale^fi^Harold Hale^Y^^
+	Line 1254: 	Line 7496: Harvey Slimerick^fi^Harvey Slimerick^Y^^
+	Line 1255: 	Line 7499: Hathi Jr.^fi^Kolari^Y^^
+	Line 1256: 	Line 7505: Hay Lin^fi^Hay Lin^Y^^
+	Line 1257: 	Line 7517: Head^fi^Tohtori Kaviaari^Y^^
+	Line 1258: 	Line 7524: Head H^fi^Heka-H^Y^^
+	Line 1259: 	Line 7528: Heihei^fi^Heihei^Y^^
+	Line 1260: 	Line 7531: Helga Sinclair^fi^Helga Sinclair^Y^^
+	Line 1261: 	Line 7536: Hen Wen^fi^Hennikki^Y^^
+	Line 1262: 	Line 7542: Henry J. Lasswell^fi^Henry J. Lasswell^Y^^
+	Line 1263: 	Line 7546: Henry J. Waternoose^fi^Rumilus^Y^^
+	Line 1264: 	Line 7551: Henry Reginald^fi^Henry Reginald^Y^^
+	Line 1265: 	Line 7556: Hera^fi^Hera^Y^^
+	Line 1266: 	Line 7575: Herbert^fi^Joppe^Y^^
+	Line 1267: 	Line 7589: Herbert Jameson^fi^Herbert Jameson^Y^^
+	Line 1268: 	Line 7593: Herbie^fi^Riemukupla^Y^^
+	Line 1269: 	Line 7599: Hercule Paperot^fi^Ankule Roipot^Y^^
+	Line 1270: 	Line 7607: Hercules^fi^Herkules^Y^^
+	Line 1271: 	Line 7628: Herois^fi^Supersankarien kerho^Y^^
+	Line 1272: 	Line 7632: Hi See^fi^Sing Ma^Y^^
+	Line 1273: 	Line 7634: High School Musical^fi^High School Musical^Y^^
+	Line 1274: 	Line 7638: Hintermann^fi^Hintermann^Y^^
+	Line 1275: 	Line 7644: Hiro Hamada^fi^Hiro Hamada^Y^^
+	Line 1276: 	Line 7649: Hobi^fi^Herra Haituva^Y^^
+	Line 1277: 	Line 7656: Hocus^fi^Hokkus^Y^^
+	Line 1279: 	Line 7662: Holsworthy Hog^fi^Kunto Kärsäkäs^Y^^
+	Line 1280: 	Line 7663: Holsworthy Hog^fi^Kenraaliluutnantti Usko Uljas^N^^
+	Line 1281: 	Line 7669: Home on the Range^fi^Lehmäjengi^Y^^
+	Line 1284: 	Line 7674: Honest John Filch^fi^Matti Matomaa^Y^^
+	Line 1285: 	Line 7674: Honest John Filch^fi^Matti Matomaa^Y^^
+	Line 1287: 	Line 7677: Honey Lemon^fi^Honey Lemon^Y^^
+	Line 1288: 	Line 7681: Honeybear^fi^Mesimarja^Y^^
+	Line 1289: 	Line 7689: Honker^fi^Tero^Y^^
+	Line 1291: 	Line 7703: Hook^fi^Kapteeni Koukku^Y^^
+	Line 1292: 	Line 7722: Hoppy the kangaroo^fi^Kenguru Kassius^Y^^
+	Line 1293: 	Line 7728: Horace Badun^fi^Lennu^Y^^
+	Line 1294: 	Line 7734: Horned King^fi^Hornansarvi^Y^^
+	Line 1295: 	Line 7737: Horseberg^fi^Horseberg^Y^^
+	Line 1296: 	Line 7743: Hortense McDuck^fi^Hortensia McAnkka^Y^^
+	Line 1297: 	Line 7744: Hortense McDuck^fi^Hortensia MacAnkka^N^^
+	Line 1298: 	Line 7757: Hortense the horse^fi^Hortensia^Y^^
+	Line 1299: 	Line 7775: Hotneige^fi^Komisario Vihinen^Y^^
+	Line 1300: 	Line 7776: Hotneige^fi^Komisario Harri Hönttä^N^^
+	Line 1301: 	Line 7787: Howard Rockerduck^fi^Howard Pennonen^Y^^
+	Line 1302: 	Line 7809: Humperdink Duck^fi^Hepsu Ankka^Y^^
+	Line 1303: 	Line 7810: Humperdink Duck^fi^Jooseppi Ankka^N^^
+	Line 1304: 	Line 7827: Humphrey Bear^fi^Körmy Karhu^Y^^
+	Line 1305: 	Line 7828: Humphrey Bear^fi^Lätty^N^^
+	Line 1307: 	Line 7841: Humpty Dumpty^fi^Tyyris Tyllerö^Y^^
+	Line 1308: 	Line 7843: Huntsman from SW^fi^Metsästäjä-Matti^Y^^
+	Line 1309: 	Line 7844: Huntsman from SW^fi^Humbert^N^^
+	Line 1310: 	Line 7849: Huskie^fi^Joonas^Y^^
+	Line 1311: 	Line 7856: Hustler Duck^fi^Kähmy Ankka^Y^^
+	Line 1312: 	Line 7867: Hyenas^fi^Hyeenat Shenzi, Banzai ja Ed^Y^^
+	Line 1313: 	Line 7874: Hyrrr^fi^Kenraali Hyrk^Y^^
+	Line 1314: 	Line 7887: IP^fi^Indiana Hopo^Y^^
+	Line 1315: 	Line 7904: Iago^fi^Jago^Y^^
+	Line 1316: 	Line 7916: Icarus^fi^Ikarus^Y^^
+	Line 1317: 	Line 7925: Ice^fi^Pyry^Y^^
+	Line 1318: 	Line 7926: Ice^fi^Herra Lumiukko^N^^
+	Line 1319: 	Line 7932: Igor Blov^fi^Igor Molski^Y^^
+	Line 1321: 	Line 7934: Igor from X-Mickey^fi^Näkymätön postimies Pete^Y^^
+	Line 1322: 	Line 7935: Igor from X-Mickey^fi^Igor^N^^
+	Line 1323: 	Line 7942: Igore Coneagle^fi^Nappe Nipari^Y^^
+	Line 1324: 	Line 7948: Igthorn^fi^Lierto^Y^^
+	Line 1325: 	Line 7965: Il grande capo di Agenzia^fi^Toimiston pääjohtaja^Y^^
+	Line 1328: 	Line 7968: Il perfido Bingo^fi^Ratte Bandido^Y^^
+	Line 1329: 	Line 7968: Il perfido Bingo^fi^Ratte Bandido^Y^^
+	Line 1330: 	Line 7969: Il perfido Bingo^fi^Ratte Suuri^N^^
+	Line 1331: 	Line 7969: Il perfido Bingo^fi^Ratte Suuri^N^^
+	Line 1336: 	Line 7978: Imbianchino Mascherato^fi^Metakkamies^Y^^
+	Line 1337: 	Line 7985: Imperatore^fi^Keisari Evron^Y^^
+	Line 1338: 	Line 7992: Inky^fi^Noki^Y^^
+	Line 1339: 	Line 7993: Inky^fi^Tassu^N^^
+	Line 1340: 	Line 7994: Inky^fi^Pikku-Musta^N^^
+	Line 1341: 	Line 7999: Inquinator^fi^Saastuttaja^Y^^
+	Line 1342: 	Line 8013: Intellectual-176^fi^Intellektuelli-176^Y^^
+	Line 1343: 	Line 8014: Intellectual-176^fi^176-Lukutoukka^N^^
+	Line 1344: 	Line 8015: Intellectual-176^fi^Älyniekka 176^N^^
+	Line 1345: 	Line 8016: Intellectual-176^fi^I-176^N^^
+	Line 1346: 	Line 8024: Ira^fi^Ira^Y^^
+	Line 1347: 	Line 8028: Ireyon^fi^Ireyon^Y^^
+	Line 1348: 	Line 8035: Irina Von Paperov^fi^Irina^Y^^
+	Line 1349: 	Line 8036: Iris^fi^Iris^Y^^
+	Line 1350: 	Line 8039: Irma^fi^Irma Lair^Y^^
+	Line 1351: 	Line 8046: Irma Boots^fi^Irma Entteri^Y^^
+	Line 1352: 	Line 8048: Iron Ciccius^fi^Rautahansu^Y^^
+	Line 1353: 	Line 8056: Isabella Garcia-Shapiro^fi^Isabella Garcia-Shapiro^Y^^
+	Line 1354: 	Line 8061: Isidor^fi^Isidor^Y^^
+	Line 1355: 	Line 8068: Itzy Bitzy^fi^Paroni^Y^^
+	Line 1356: 	Line 8080: Izzy^fi^Immu^Y^^
+	Line 1357: 	Line 8081: Izzy^fi^Viikari^N^^
+	Line 1358: 	Line 8100: JC^fi^Samu Sirkka^Y^^
+	Line 1359: 	Line 8101: JC^fi^Sirri Kotisirkka^N^^
+	Line 1360: 	Line 8102: JC^fi^Jiminy Cricket^N^^
+	Line 1361: 	Line 8138: JOC^fi^Jose Carioca^Y^^
+	Line 1362: 	Line 8139: JOC^fi^José Carioca^N^^
+	Line 1363: 	Line 8160: JUN^fi^Viidakkokirja^Y^^
+	Line 1365: 	Line 8184: JW^fi^Sudenpennut^Y^^
+	Line 1368: 	Line 8221: JW hound^fi^Kenraali Nuuh^Y^^
+	Line 1369: 	Line 8222: JW hound^fi^Lupsu^N^^
+	Line 1371: 	Line 8236: JWAlvin^fi^Tarmo^Y^^
+	Line 1372: 	Line 8245: Jack Jammer^fi^Mika Hamara^Y^^
+	Line 1373: 	Line 8247: Jack Sparrow^fi^Veli Varpunen^Y^^
+	Line 1374: 	Line 8248: Jack Sparrow^fi^Varpu Vekkuli^N^^
+	Line 1375: 	Line 8249: Jack Sparrow^fi^Varpu Valpas^N^^
+	Line 1376: 	Line 8250: Jack Sparrow^fi^Jaakko Varpunen^N^^
+	Line 1377: 	Line 8251: Jack Sparrow^fi^Ville Varpunen^N^^
+	Line 1378: 	Line 8256: Jack Sparrow the pirate^fi^Jack Sparrow^Y^^
+	Line 1379: 	Line 8266: Jack-Jack Parr^fi^Jaska Vaara^Y^^
+	Line 1380: 	Line 8268: Jackie Gilligan^fi^Jackie Gilligan^Y^^
+	Line 1381: 	Line 8275: Jackson^fi^Eikka^Y^^
+	Line 1382: 	Line 8284: Jacques the shrimp^fi^Jacques^Y^^
+	Line 1383: 	Line 8289: Jafar^fi^Jafar^Y^^
+	Line 1384: 	Line 8303: Jake^fi^Jake^Y^^
+	Line 1385: 	Line 8307: Jake Long^fi^Jake Long^Y^^
+	Line 1386: 	Line 8313: Jake McDuck^fi^Jake McAnkka^Y^^
+	Line 1387: 	Line 8314: Jake McDuck^fi^Jake MacAnkka^N^^
+	Line 1388: 	Line 8315: Jake McDuck^fi^Ewan MacAnkka^N^^
+	Line 1389: 	Line 8328: James^fi^Aalto^Y^^
+	Line 1390: 	Line 8333: James Norrington^fi^James Norrington^Y^^
+	Line 1391: 	Line 8339: James Tond^fi^Jaakko Pöntinen^Y^^
+	Line 1392: 	Line 8340: James Tond^fi^Jaakko Pynttä^N^^
+	Line 1393: 	Line 8345: Jan Clayton^fi^Komisario Jan Clayton^Y^^
+	Line 1394: 	Line 8347: Jana^fi^Jana^Y^^
+	Line 1395: 	Line 8354: Jane^fi^Jane^Y^^
+	Line 1396: 	Line 8362: Jane Banks^fi^Anna Pankki^Y^^
+	Line 1397: 	Line 8364: Jane from Peter Pan^fi^Jaana^Y^^
+	Line 1398: 	Line 8372: Janson^fi^Janson^Y^^
+	Line 1399: 	Line 8380: Jaq^fi^Vili^Y^^
+	Line 1400: 	Line 8397: Jasmine^fi^Jasmine^Y^^
+	Line 1401: 	Line 8412: Jasper Badun^fi^Jannu^Y^^
+	Line 1402: 	Line 8420: Jay J^fi^Jori J^Y^^
+	Line 1403: 	Line 8429: Jay from Paperino Paperotto^fi^Jare^Y^^
+	Line 1404: 	Line 8438: Jedge Owl^fi^Tuomari Pöllö (Takametsä-sarjoissa)^Y^^
+	Line 1405: 	Line 8439: Jedge Owl^fi^Pöllö Tuomari^N^^
+	Line 1406: 	Line 8440: Jedge Owl^fi^Huupertti Huuhkaja^N^^
+	Line 1407: 	Line 8443: Jen Yu^fi^Li Yu^Y^^
+	Line 1408: 	Line 8445: Jenny Grunt^fi^Jenni^Y^^
+	Line 1409: 	Line 8448: Jenny from Oliver^fi^Jenni^Y^^
+	Line 1411: 	Line 8452: Jenny the fish^fi^Jenni^Y^^
+	Line 1412: 	Line 8452: Jenny the fish^fi^Jenni^Y^^
+	Line 1413: 	Line 8453: Jeremy Johnson^fi^Jeremy Johnson^Y^^
+	Line 1414: 	Line 8455: Jeremy from X-Mickey^fi^Jeremy^Y^^
+	Line 1415: 	Line 8463: Jessica^fi^Jessica Rabbit^Y^^
+	Line 1416: 	Line 8473: Jessie^fi^Jessie^Y^^
+	Line 1417: 	Line 8479: Jim Cocorina^fi^Aatos Hämärä^Y^^
+	Line 1418: 	Line 8483: Jim Hawkins from Treasure Planet^fi^Jim Hawkins^Y^^
+	Line 1419: 	Line 8485: Jim Possible^fi^Jim Possible^Y^^
+	Line 1420: 	Line 8491: Jinx^fi^Pelle^Y^^
+	Line 1421: 	Line 8496: Joan Lin^fi^Joan Lin^Y^^
+	Line 1422: 	Line 8505: Joao^fi^Juan^Y^^
+	Line 1423: 	Line 8506: Joao^fi^João^N^^
+	Line 1424: 	Line 8507: Joao^fi^Joao^N^^
+	Line 1425: 	Line 8522: Jock^fi^Tupsu^Y^^
+	Line 1426: 	Line 8536: Joe Piper^fi^Helmeri Piippu^Y^^
+	Line 1427: 	Line 8537: Joe Piper^fi^Jooseppi Toope^N^^
+	Line 1428: 	Line 8548: Joel McTiennan^fi^Joel McTiennan^Y^^
+	Line 1429: 	Line 8552: Joel Wright^fi^Joel Wright^Y^^
+	Line 1430: 	Line 8559: John Darling^fi^Jukka^Y^^
+	Line 1431: 	Line 8560: John Darling^fi^Jukka Darling^N^^
+	Line 1432: 	Line 8567: John Silver^fi^John Silver^Y^^
+	Line 1433: 	Line 8571: John Smith^fi^John Smith^Y^^
+	Line 1434: 	Line 8590: Jonathan Laramie^fi^Jooseppi Mullikka^Y^^
+	Line 1435: 	Line 8594: Jonathan Mouse^fi^Juhana Hiironen^Y^^
+	Line 1436: 	Line 8595: Jonathan Mouse^fi^Karolus von Rotta^N^^
+	Line 1437: 	Line 8609: Jones^fi^Teppo Tulppu^Y^^
+	Line 1438: 	Line 8610: Jones^fi^Muristo^N^^
+	Line 1439: 	Line 8611: Jones^fi^Herra Kiukkuri^N^^
+	Line 1440: 	Line 8612: Jones^fi^J. Janttu^N^^
+	Line 1441: 	Line 8613: Jones^fi^Kapteeni Kaarlo Kiiski^N^^
+	Line 1442: 	Line 8640: Jones's nephew^fi^Kalle^Y^^
+	Line 1443: 	Line 8645: Joshua Strongbear Sweet^fi^Joshua "Kiva" Sweet^Y^^
+	Line 1445: 	Line 8650: Juanella Van Damm^fi^Alina van Välke^Y^^
+	Line 1446: 	Line 8651: Juanella Van Damm^fi^Alina Von Välke^N^^
+	Line 1447: 	Line 8658: Judge Morris^fi^Tuomari Pikku-Aku tarinoissa^Y^^
+	Line 1448: 	Line 8661: Judy Hopps^fi^Judy Hopps^Y^^
+	Line 1449: 	Line 8662: Juf Clara^fi^Klaara-neiti^Y^^
+	Line 1450: 	Line 8663: Juffrouw Knol^fi^Neiti Nauris^Y^^
+	Line 1451: 	Line 8669: June Bug^fi^Suvi^Y^^
+	Line 1452: 	Line 8685: Junior Bug^fi^Pyry^Y^^
+	Line 1453: 	Line 8686: Junior Bug^fi^Pasi^N^^
+	Line 1454: 	Line 8687: Junior Bug^fi^Mauri^N^^
+	Line 1455: 	Line 8698: Jute^fi^Juke^Y^^
+	Line 1456: 	Line 8706: Kaa^fi^Kaa^Y^^
+	Line 1457: 	Line 8716: Kadma^fi^Kadma^Y^^
+	Line 1458: 	Line 8719: Kai from Frozen^fi^Kai^Y^^
+	Line 1459: 	Line 8735: Kandor^fi^Kandor^Y^^
+	Line 1460: 	Line 8743: Kanga^fi^Kengu^Y^^
+	Line 1461: 	Line 8758: Kapitein Goudkaper^fi^Kapteeni Piraattipunkki^Y^^
+	Line 1462: 	Line 8759: Kapitein Goudkaper^fi^Kapteeni Kultakuoriainen^N^^
+	Line 1463: 	Line 8761: Kari Korhonen^fi^Kari Korhonen^Y^^
+	Line 1464: 	Line 8762: Karl Ibsen^fi^Karl Ibsen^Y^^
+	Line 1465: 	Line 8767: Karlissya^fi^Karlissa^Y^^
+	Line 1466: 	Line 8774: Karmilla^fi^Karmilla^Y^^
+	Line 1467: 	Line 8779: Kat Nipp^fi^Katti^Y^^
+	Line 1468: 	Line 8786: Katarina Kodorofsky^fi^Katarina^Y^^
+	Line 1469: 	Line 8790: Kate Jameson^fi^Kate Jameson^Y^^
+	Line 1470: 	Line 8794: Katie Mallard^fi^Kaarina Kivinokka^Y^^
+	Line 1471: 	Line 8795: Katie Mallard^fi^Keittiöveitsi-Kaisu^N^^
+	Line 1472: 	Line 8798: Katy^fi^Kati^Y^^
+	Line 1473: 	Line 8803: Kay K^fi^Kia K^Y^^
+	Line 1474: 	Line 8804: Kay K^fi^Anna-Vieno^N^siviilinimi^
+	Line 1475: 	Line 8815: Kelsi Nielsen^fi^Kelsi Nielsen^Y^^
+	Line 1476: 	Line 8818: Ken Okosawa^fi^Ken Hanhisawa^Y^^
+	Line 1477: 	Line 8820: Ken from Toy Story^fi^Ken^Y^^
+	Line 1478: 	Line 8824: Kenai^fi^Kenai^Y^^
+	Line 1479: 	Line 8831: Kent Powers^fi^Kent Powers^Y^^
+	Line 1480: 	Line 8842: Kermit^fi^Kermit^Y^^
+	Line 1481: 	Line 8848: Kessel^fi^Kolvi^Y^^
+	Line 1482: 	Line 8853: Kevin^fi^Jore^Y^^
+	Line 1483: 	Line 8866: Khor^fi^Khor^Y^^
+	Line 1484: 	Line 8878: Kiara^fi^Kiara^Y^^
+	Line 1485: 	Line 8887: Kida^fi^Prinsessa Kidagakash^Y^^
+	Line 1486: 	Line 8892: Kim Possible^fi^Kim Possible^Y^^
+	Line 1487: 	Line 8900: Kim's dad^fi^James Possible^Y^^
+	Line 1488: 	Line 8903: Kim's mom^fi^Maria Ann Possible^Y^^
+	Line 1489: 	Line 8907: King^fi^King^Y^^
+	Line 1490: 	Line 8908: King^fi^Kinko^N^^
+	Line 1491: 	Line 8912: King Bob^fi^"Kuningas" Bob^Y^^
+	Line 1493: 	Line 8915: King Ducklien^fi^Kuningas Astroankka^Y^^
+	Line 1494: 	Line 8928: King Jujube^fi^Kuningas Jujube^Y^^
+	Line 1495: 	Line 8929: King Jujube^fi^Kuningas Jujupatti^N^^
+	Line 1496: 	Line 8938: King Lion^fi^Kuningas Leijona^Y^^
+	Line 1497: 	Line 8939: King Lion^fi^Leo Leijona^N^^
+	Line 1498: 	Line 8940: King Lion^fi^Kuningas Leo^N^^
+	Line 1499: 	Line 8950: King Louie^fi^Kuningas Louie^Y^^
+	Line 1500: 	Line 8965: King Michael XIV^fi^Kuningas Hiiri XIV^Y^^
+	Line 1501: 	Line 8966: King Michael XIV^fi^Kuningashiiri^N^^
+	Line 1502: 	Line 8967: King Michael XIV^fi^Hiiri XIV^N^^
+	Line 1503: 	Line 8968: King Michael XIV^fi^Hiirikuningas^N^^
+	Line 1504: 	Line 8981: King Stefan^fi^Kuningas Stefanus^Y^^
+	Line 1505: 	Line 8991: King Triton^fi^Kuningas Triton^Y^^
+	Line 1506: 	Line 9006: King of Hearts^fi^Herttakuningas^Y^^
+	Line 1507: 	Line 9014: King of Rippan Taro^fi^Kuningas Massama Kea^Y^^
+	Line 1508: 	Line 9024: Kit^fi^Kai Kaakuri^Y^^
+	Line 1509: 	Line 9025: Kit^fi^Kai Kaakkuri^N^^
+	Line 1510: 	Line 9026: Kit^fi^Pasi^N^^
+	Line 1511: 	Line 9034: Kitty Duckis^fi^Lotta Vankkanen^Y^^
+	Line 1512: 	Line 9035: Kitty Duckis^fi^Kati^N^^
+	Line 1513: 	Line 9038: Kniftar^fi^Sulatak^Y^^
+	Line 1514: 	Line 9044: Koda^fi^Koda^Y^^
+	Line 1515: 	Line 9055: Kolik^fi^Katarriina Karski^Y^^
+	Line 1516: 	Line 9060: Korinna^fi^Korinna Ducklair^Y^^
+	Line 1517: 	Line 9067: Kovu^fi^Kovu^Y^^
+	Line 1518: 	Line 9071: Kraken^fi^Kraken^Y^^
+	Line 1519: 	Line 9075: Krang^fi^Krank^Y^^
+	Line 1520: 	Line 9079: Krankle Gorb^fi^Ketku Suhari^Y^^
+	Line 1521: 	Line 9083: Kranz^fi^Professori Kaivanto^Y^^
+	Line 1522: 	Line 9096: Kristoff^fi^Kristoff^Y^^
+	Line 1523: 	Line 9100: Kron^fi^Kron^Y^^
+	Line 1524: 	Line 9111: Kronk^fi^Kronk^Y^^
+	Line 1525: 	Line 9115: Kurt^fi^Kurt van Buren^Y^^
+	Line 1526: 	Line 9120: Kuzco^fi^Kuzco^Y^^
+	Line 1527: 	Line 9127: Kyto^fi^Kyto^Y^^
+	Line 1528: 	Line 9131: L'Organizzazione^fi^Järjestö (00 Tuplanolla-sarjoissa)^Y^^
+	Line 1529: 	Line 9145: LH^fi^Pikku Hiawatha^Y^^
+	Line 1530: 	Line 9173: LH's mother^fi^Mokkasiina^Y^^
+	Line 1531: 	Line 9183: LH's rival cousin^fi^Tuulenpyörre^Y^^
+	Line 1532: 	Line 9184: LH's rival cousin^fi^Nopsajalka^N^^
+	Line 1533: 	Line 9193: LMQ^fi^Heimo Huima^Y^^
+	Line 1534: 	Line 9224: LVD^fi^Taavi Ankka^Y^^
+	Line 1535: 	Line 9225: LVD^fi^Pekko Ankkala^N^^
+	Line 1536: 	Line 9226: LVD^fi^Ludvig Ankka^N^^
+	Line 1537: 	Line 9255: LVD's joke robot^fi^Taavi Ankan vitsirobotti^Y^^
+	Line 1538: 	Line 9271: LW^fi^Pikku Hukka^Y^^
+	Line 1539: 	Line 9272: LW^fi^Pikku Paha Hukka^N^^
+	Line 1540: 	Line 9301: Lady^fi^Kaunotar^Y^^
+	Line 1541: 	Line 9302: Lady^fi^Tipsu^N^^
+	Line 1542: 	Line 9316: Lady Kluck^fi^Rouva Kotkot^Y^^
+	Line 1543: 	Line 9327: Lady Paperina^fi^Iines-neito^Y^^
+	Line 1544: 	Line 9334: Lady Senape^fi^Lady Sinappi^Y^^
+	Line 1545: 	Line 9338: Lafayette^fi^Lafayette^Y^^
+	Line 1546: 	Line 9355: Lambert the sheepish lion^fi^Lampus^Y^^
+	Line 1547: 	Line 9364: Lampwick^fi^Lamppusydän^Y^^
+	Line 1548: 	Line 9365: Lampwick^fi^Lamppu^N^^
+	Line 1549: 	Line 9366: Lampwick^fi^Veeku^N^^
+	Line 1550: 	Line 9373: Lanky Man^fi^Luihumies^Y^^
+	Line 1551: 	Line 9374: Lanky Man's 1st helper boy^fi^Hirnaus^Y^^
+	Line 1552: 	Line 9375: Lanky Man's short 2nd helper boy^fi^Tylsimys^Y^^
+	Line 1553: 	Line 9376: Lanky Man's tall 3rd helper boy^fi^Typerys^Y^^
+	Line 1554: 	Line 9386: Lara Bell^fi^Laura Puro^Y^^
+	Line 1555: 	Line 9392: Lardello^fi^Jösse^Y^^
+	Line 1556: 	Line 9401: Larkies^fi^Harpyiat^Y^^
+	Line 1557: 	Line 9406: Lattuga^fi^Vihannes^Y^^
+	Line 1558: 	Line 9411: Laura Steedson^fi^Laura Steedson^Y^^
+	Line 1559: 	Line 9413: Laurent^fi^Laurent Hampton^Y^^
+	Line 1560: 	Line 9427: Lawson^fi^Lawson^Y^^
+	Line 1561: 	Line 9431: Lazy Jack^fi^Laiska-Jaakko^Y^^
+	Line 1562: 	Line 9438: Leah^fi^Leah^Y^^
+	Line 1563: 	Line 9439: Lena^fi^Leena^Y^^
+	Line 1564: 	Line 9441: Lenny Grunt^fi^Lenni^Y^^
+	Line 1565: 	Line 9444: Leo Van Cortex^fi^Make Mutu^Y^^
+	Line 1567: 	Line 9446: Leonard from MED^fi^Viljami^Y^^
+	Line 1568: 	Line 9448: Leopold Millighan^fi^Leopold Millighan^Y^^
+	Line 1569: 	Line 9464: Li'l Bunny^fi^Pikku kani^Y^^
+	Line 1570: 	Line 9468: Li'l Davy^fi^Pikku Davy^Y^^
+	Line 1571: 	Line 9478: Li'l Puma^fi^Pikku Puuma^Y^^
+	Line 1572: 	Line 9482: Liam^fi^Liam^Y^^
+	Line 1573: 	Line 9484: Librus^fi^Kirre^Y^^
+	Line 1574: 	Line 9489: Lightning McQueen^fi^Salama McQueen^Y^^
+	Line 1575: 	Line 9496: Lilian^fi^Lilian Landon^Y^^
+	Line 1576: 	Line 9502: Lilo^fi^Lilo^Y^^
+	Line 1577: 	Line 9510: Lily the fairy^fi^Lily^Y^^
+	Line 1578: 	Line 9515: Linda Flynn-Fletcher^fi^Linda Flynn-Fletcher^Y^^
+	Line 1579: 	Line 9526: Linguini^fi^Alfredo Linguini^Y^^
+	Line 1580: 	Line 9529: Lionel Cook^fi^Lionel Cook^Y^^
+	Line 1581: 	Line 9534: Lisel^fi^Lisel^Y^^
+	Line 1582: 	Line 9540: Little Caesar^fi^Little Caesar^Y^^
+	Line 1583: 	Line 9549: Little John^fi^Pikku-John^Y^^
+	Line 1584: 	Line 9558: Little Martha^fi^Pikku Martha^Y^^
+	Line 1585: 	Line 9561: Little Minnehaha^fi^Minnehaha^Y^^
+	Line 1586: 	Line 9562: Little Minnehaha^fi^Tähtisilmä^N^^
+	Line 1587: 	Line 9576: Little Toot^fi^Pikku Purtilo^Y^^
+	Line 1588: 	Line 9590: Liz Zago^fi^Lissu^Y^^
+	Line 1589: 	Line 9591: Liz Zago^fi^Lissu Riekkonen^N^^
+	Line 1590: 	Line 9600: Lizzie from Cars^fi^Lizzie^Y^^
+	Line 1591: 	Line 9603: Lloyd in Space^fi^Olli avaruudessa^Y^^
+	Line 1592: 	Line 9613: Lola Duck^fi^Lola Liirto^Y^^
+	Line 1593: 	Line 9624: Lorac^fi^Prinsessa Lorac^Y^^
+	Line 1595: 	Line 9638: Lord Money^fi^Lordi Money^Y^^
+	Line 1596: 	Line 9639: Lord Money^fi^Lordi Harrap^N^^
+	Line 1597: 	Line 9646: Lord Quackett^fi^Kreivi Höytyvistö^Y^^
+	Line 1598: 	Line 9649: Loretta^fi^Roosa^Y^^
+	Line 1599: 	Line 9653: Lorraine Duckis^fi^Lola Vankkanen^Y^^
+	Line 1600: 	Line 9654: Lorraine Duckis^fi^Lea^N^^
+	Line 1601: 	Line 9657: Lotso^fi^Tuhti^Y^^
+	Line 1602: 	Line 9658: Lotso^fi^Tuhti Karhunhali^N^^
+	Line 1603: 	Line 9665: Lotus Blossom^fi^Lootuskukka^Y^^
+	Line 1604: 	Line 9676: Louis^fi^Veka^Y^^
+	Line 1605: 	Line 9677: Louis^fi^Hansu^N^^
+	Line 1606: 	Line 9678: Louis^fi^Reiska^N^^
+	Line 1607: 	Line 9689: Louis from Princess and the Frog^fi^Louis^Y^^
+	Line 1608: 	Line 9691: Louise Lyndon^fi^Louise Lyndon^Y^^
+	Line 1609: 	Line 9697: Luba^fi^Luba^Y^^
+	Line 1610: 	Line 9704: Lucifer^fi^Lucifer^Y^^
+	Line 1611: 	Line 9705: Lucifer^fi^Hirmu^N^^
+	Line 1612: 	Line 9713: Lucille Bruceburton^fi^Professori Jaana Hyvänen^Y^^
+	Line 1613: 	Line 9738: Luigi from Cars^fi^Luigi^Y^^
+	Line 1614: 	Line 9745: Luis Carlos^fi^Carlos^Y^^
+	Line 1615: 	Line 9752: Luke Goose^fi^Martti Hanhi^Y^^
+	Line 1616: 	Line 9760: Luke Pradd^fi^Luke Pradd^Y^^
+	Line 1617: 	Line 9771: Lulubelle Loon^fi^Aino Ankka^Y^^
+	Line 1618: 	Line 9772: Lulubelle Loon^fi^Aino Kaakkuri^N^^
+	Line 1619: 	Line 9780: Lumiere^fi^Lumiere^Y^^
+	Line 1620: 	Line 9790: Lumpjaw^fi^Mustakuono^Y^^
+	Line 1621: 	Line 9804: Luna-Lu^fi^Sus-Anne^Y^^
+	Line 1622: 	Line 9810: Lusky^fi^Lievistö^Y^^
+	Line 1623: 	Line 9811: Lusky^fi^Kroisos Pennosen sihteeri^N^^
+	Line 1624: 	Line 9812: Lusky^fi^Luski^N^^
+	Line 1625: 	Line 9813: Lusky^fi^Virtanen^N^^
+	Line 1626: 	Line 9814: Lusky^fi^Jippo^N^^
+	Line 1627: 	Line 9815: Lusky^fi^Kissanen^N^^
+	Line 1628: 	Line 9816: Lusky^fi^Luikku^N^^
+	Line 1629: 	Line 9817: Lusky^fi^Alfons^N^^
+	Line 1630: 	Line 9829: Lyla^fi^Lydia^Y^^
+	Line 1631: 	Line 9841: Lyonard D'Aq^fi^Veikko Vaakku^Y^^
+	Line 1632: 	Line 9850: M+D^fi^Mikki ja Aku^Y^^
+	Line 1633: 	Line 9868: M+G^fi^Mikki ja Hessu^Y^^
+	Line 1635: 	Line 9887: M+M^fi^Mikki ja Minni^Y^^
+	Line 1636: 	Line 9902: M+P^fi^Mikki ja Pluto^Y^^
+	Line 1637: 	Line 9923: MAR^fi^Marlin^Y^^
+	Line 1638: 	Line 9940: MCP^fi^Augustus Ankka^Y^^
+	Line 1639: 	Line 9960: MD^fi^Moby Ankka^Y^^
+	Line 1640: 	Line 9989: MDS^fi^Milla Magia^Y^^
+	Line 1641: 	Line 10024: MF^fi^Mortti ja Vertti^Y^^
+	Line 1642: 	Line 10056: MF1^fi^Toinen Mikin sukulaispojista^Y^^
+	Line 1643: 	Line 10068: MF3^fi^Kolme Mikin sukulaispoikaa^Y^^
+	Line 1645: 	Line 10077: MF4^fi^Neljä Mikin sukulaispoikaa^Y^^
+	Line 1647: 	Line 10086: MF6^fi^Kuusi Mikin sukulaispoikaa^Y^^
+	Line 1648: 	Line 10106: MI^fi^Minni Hiiri^Y^^
+	Line 1649: 	Line 10143: MI's niece Minuette^fi^Tipuli^Y^^
+	Line 1650: 	Line 10149: MI's nieces^fi^Tytti ja Titti^Y^^
+	Line 1651: 	Line 10159: MIH^fi^Minni Hollywoodissa^Y^^
+	Line 1652: 	Line 10169: MIM^fi^Matami Mimmi^Y^^
+	Line 1653: 	Line 10198: MIb^fi^Minni vauvana^Y^^
+	Line 1654: 	Line 10211: MK^fi^Ritari Rohkea^Y^^
+	Line 1655: 	Line 10233: MM^fi^Mikki Hiiri^Y^^
+	Line 1656: 	Line 10272: MM's great-grandnephew Norbert^fi^Nortti^Y^^
+	Line 1657: 	Line 10282: MMb^fi^Mikki vauvana^Y^^
+	Line 1658: 	Line 10301: MOE^fi^Parta-Jussi^Y^^
+	Line 1659: 	Line 10302: MOE^fi^Niku Naavaparta^N^^
+	Line 1660: 	Line 10322: MOE's dog^fi^Hannibal^Y^^
+	Line 1661: 	Line 10323: MOE's dog^fi^Jeppe^N^^
+	Line 1663: 	Line 10339: MOV^fi^Lepakkoankka^Y^^
+	Line 1664: 	Line 10350: Ma Beagle^fi^Konnamuori^Y^^
+	Line 1665: 	Line 10362: Mac MacCorker^fi^James^Y^^
+	Line 1666: 	Line 10374: Mack^fi^Mäksä^Y^^
+	Line 1667: 	Line 10378: Macy^fi^Maija^Y^^
+	Line 1668: 	Line 10385: Mad Dog^fi^Hullu Koira^Y^^
+	Line 1669: 	Line 10386: Mad Dog^fi^Hulluhurtta^N^^
+	Line 1671: 	Line 10393: Mad Ducktor^fi^Tohtori Pahamieli^Y^^
+	Line 1672: 	Line 10402: Mad Hatter^fi^Hullu Hatuntekijä^Y^^
+	Line 1673: 	Line 10403: Mad Hatter^fi^Hassu Hattukauppias^N^^
+	Line 1674: 	Line 10422: Madame Medusa^fi^Madam Medusa^Y^^
+	Line 1675: 	Line 10425: Madame Truseau^fi^Madame Mariam^Y^^
+	Line 1676: 	Line 10429: Madeline Mouse^fi^Marjaana Hiiri^Y^^
+	Line 1677: 	Line 10430: Madeline Mouse^fi^Mimmi Kultahiiri^N^^
+	Line 1678: 	Line 10431: Madeline Mouse^fi^Milla Kultahiiri^N^^
+	Line 1679: 	Line 10433: Madison Johnson^fi^Madison Johnson^Y^^
+	Line 1680: 	Line 10437: Madre di Millicent^fi^Lissun äiti^Y^^
+	Line 1681: 	Line 10444: Magda Marshbird^fi^Maatuska Natasha^Y^^
+	Line 1682: 	Line 10454: Maggie the cow^fi^Maggie^Y^^
+	Line 1683: 	Line 10461: Magic Carpet^fi^Taikamatto^Y^^
+	Line 1684: 	Line 10477: Maharajah^fi^Junttapurin Maharadza^Y^^
+	Line 1685: 	Line 10488: Maid Marian^fi^Marian-neito^Y^^
+	Line 1686: 	Line 10497: Maire éléphant^fi^Pormestari Kärsämö^Y^^
+	Line 1687: 	Line 10499: Major Monogram^fi^Majuri Sähkeinen^Y^^
+	Line 1688: 	Line 10500: Major Monogram^fi^Kauno Sähkeinen^N^^
+	Line 1689: 	Line 10502: Major the horse^fi^Polle^Y^^
+	Line 1690: 	Line 10508: Malcolm McDuck^fi^Malcolm McAnkka^Y^^
+	Line 1691: 	Line 10509: Malcolm McDuck^fi^Malcolm MacAnkka^N^^
+	Line 1692: 	Line 10510: Malcolm McDuck^fi^Lordi Pitkänokka^N^^
+	Line 1699: 	Line 10520: Maleficent^fi^Pahatar^Y^^
+	Line 1700: 	Line 10520: Maleficent^fi^Pahatar^Y^^
+	Line 1701: 	Line 10521: Maleficent^fi^Paha Haltijatar^N^^
+	Line 1702: 	Line 10521: Maleficent^fi^Paha Haltijatar^N^^
+	Line 1716: 	Line 10532: Maleficent's raven^fi^Pahattaren korppi^Y^^
+	Line 1717: 	Line 10532: Maleficent's raven^fi^Pahattaren korppi^Y^^
+	Line 1721: 	Line 10541: Mama Crackshell^fi^Rouva Munankuori^Y^^
+	Line 1722: 	Line 10547: Mamma di Tom^fi^Rouva Kaakkuri^Y^^
+	Line 1723: 	Line 10553: Mammy Bammy^fi^Taika-Tiina^Y^^
+	Line 1724: 	Line 10554: Mammy Bammy^fi^Mamma Mäyränen^N^^
+	Line 1725: 	Line 10555: Mammy Bammy^fi^Pupumummu^N^^
+	Line 1726: 	Line 10556: Mammy Bammy^fi^Eini Ennustaja^N^^
+	Line 1727: 	Line 10557: Mammy Bammy^fi^Mimmi Matami^N^^
+	Line 1728: 	Line 10560: Mamuk^fi^Mamuk^Y^^
+	Line 1729: 	Line 10563: Mandy^fi^Mandy Anderson^Y^^
+	Line 1730: 	Line 10570: Manny^fi^Manna^Y^^
+	Line 1731: 	Line 10577: Manuela Danarosa De Doblon y Pesetas^fi^Aurelia Dublones y Pesetas^Y^^
+	Line 1732: 	Line 10578: Maqi^fi^Maqi^Y^^
+	Line 1733: 	Line 10588: March Hare^fi^Jänis^Y^^
+	Line 1734: 	Line 10589: March Hare^fi^Jänö^N^^
+	Line 1735: 	Line 10598: Marcus^fi^Marcus^Y^^
+	Line 1736: 	Line 10601: Marcus Mouse^fi^Hiiri-vaari^Y^^
+	Line 1737: 	Line 10604: Margarita^fi^Margarita^Y^^
+	Line 1738: 	Line 10605: Maria Medina^fi^Maria Medina^Y^^
+	Line 1739: 	Line 10611: Marie^fi^Marie^Y^^
+	Line 1740: 	Line 10618: Mariko^fi^Mariko^Y^^
+	Line 1743: 	Line 10628: Marlin the fish^fi^Marlin^Y^^
+	Line 1744: 	Line 10628: Marlin the fish^fi^Marlin^Y^^
+	Line 1748: 	Line 10633: Maroon^fi^R. K. Maroon^Y^^
+	Line 1749: 	Line 10634: Marshmallow^fi^Vaahtokarkki^Y^^
+	Line 1750: 	Line 10639: Marsupilami^fi^Marsupilami^Y^^
+	Line 1751: 	Line 10645: Martin Tubbs^fi^Martin Tubbs^Y^^
+	Line 1752: 	Line 10654: Martina Ubersetzen^fi^Saija Sanasieppo^Y^^
+	Line 1753: 	Line 10655: Martina Ubersetzen^fi^Rita Raisula^N^^
+	Line 1754: 	Line 10663: Martinez^fi^Señor Martinez^Y^^
+	Line 1755: 	Line 10670: Mary Ann Bringethorn^fi^Viihdetoimittaja Meeri Hypönen^Y^^
+	Line 1756: 	Line 10675: Mary Annette^fi^Mary Annette^Y^^
+	Line 1757: 	Line 10679: Mary Poppins^fi^Maija Poppanen^Y^^
+	Line 1758: 	Line 10684: Mary-Jane Ghigno^fi^Mielikki^Y^^
+	Line 1759: 	Line 10685: Mary-Jane Ghigno^fi^Mielikki Joutsen^N^^
+	Line 1760: 	Line 10690: Marzabar^fi^Marzabar^Y^^
+	Line 1761: 	Line 10697: Master Wix^fi^Nuoriherra Wix^Y^^
+	Line 1762: 	Line 10700: Mata Harrier^fi^Mata Harriet^Y^^
+	Line 1763: 	Line 10709: Mater^fi^Martti^Y^^
+	Line 1764: 	Line 10717: Matilda^fi^Matilda^Y^^
+	Line 1765: 	Line 10725: Matilda McDuck^fi^Matilda McAnkka^Y^^
+	Line 1766: 	Line 10726: Matilda McDuck^fi^Matilda MacAnkka^N^^
+	Line 1767: 	Line 10736: Matt^fi^Matt^Y^^
+	Line 1768: 	Line 10741: Matt Jameson^fi^Matt Jameson^Y^^
+	Line 1769: 	Line 10745: Maui^fi^Maui^Y^^
+	Line 1770: 	Line 10760: Max^fi^Max Hopo^Y^^
+	Line 1771: 	Line 10775: Max Hare^fi^Max Jänönen^Y^^
+	Line 1772: 	Line 10787: Max the bobtail^fi^Max^Y^^
+	Line 1773: 	Line 10795: Max-Max^fi^Max Max^Y^^
+	Line 1774: 	Line 10804: Mayor Bugg^fi^Jätelän pormestari^Y^^
+	Line 1775: 	Line 10805: Mayor Bugg^fi^Pormestari Yrjänä Teppana Öö^N^^
+	Line 1776: 	Line 10810: Mayor Scott^fi^Herra Kotti^Y^^
+	Line 1777: 	Line 10823: McBoo^fi^Viiksi-Vallu^Y^^
+	Line 1778: 	Line 10824: McBoo^fi^Hiski Hirmukoura^N^^
+	Line 1779: 	Line 10825: McBoo^fi^Kauhea Korsto^N^^
+	Line 1781: 	Line 10837: McCoy^fi^Luutnantti McCoy^Y^^
+	Line 1782: 	Line 10850: McViper gang^fi^Sakaalikopla^Y^^
+	Line 1783: 	Line 10863: Medicine man^fi^Poppamies^Y^^
+	Line 1784: 	Line 10874: Meeko^fi^Miiko^Y^^
+	Line 1787: 	Line 10884: Mefistofele^fi^Mefistofeles^Y^^
+	Line 1788: 	Line 10884: Mefistofele^fi^Mefistofeles^Y^^
+	Line 1789: 	Line 10884: Mefistofele^fi^Mefistofeles^Y^^
+	Line 1796: 	Line 10895: Meg^fi^Megara^Y^^
+	Line 1797: 	Line 10908: Megavolt^fi^Megavoltti^Y^^
+	Line 1798: 	Line 10921: Melody^fi^Tytti^Y^^
+	Line 1799: 	Line 10932: Melvin^fi^Mauri Tähtinen^Y^^
+	Line 1800: 	Line 10939: Melvin X. Nickelby^fi^Arvo Rahnasto^Y^^
+	Line 1801: 	Line 10940: Melvin X. Nickelby^fi^Nikke Markkanen^N^^
+	Line 1803: 	Line 10949: Mercedes Pujol^fi^Marika^Y^^
+	Line 1804: 	Line 10950: Mercedes Pujol^fi^Mercedes Pujol^N^^
+	Line 1805: 	Line 10957: Merida^fi^Merida^Y^^
+	Line 1806: 	Line 10962: Merlin^fi^Merlin^Y^^
+	Line 1807: 	Line 10981: Merrywather^fi^Merisää^Y^^
+	Line 1808: 	Line 10987: Merryweather^fi^Tähdetär^Y^^
+	Line 1809: 	Line 10988: Merryweather^fi^Päivänpaiste^N^^
+	Line 1810: 	Line 10989: Merryweather^fi^Ilomieli^N^^
+	Line 1811: 	Line 11002: Meteor Mouse^fi^Meteori Hiiri^Y^^
+	Line 1812: 	Line 11003: Meteor Mouse^fi^Meteorihiiri^N^^
+	Line 1813: 	Line 11005: Michael Banks^fi^Mikko Pankki^Y^^
+	Line 1814: 	Line 11010: Michael Darling^fi^Mikko^Y^^
+	Line 1815: 	Line 11011: Michael Darling^fi^Mikko Darling^N^^
+	Line 1816: 	Line 11019: Michel Souris^fi^Marko Rotta^Y^^
+	Line 1817: 	Line 11021: Michelle^fi^Michelle^Y^^
+	Line 1818: 	Line 11027: Micro-Ducks^fi^Avaruusankat^Y^^
+	Line 1819: 	Line 11036: Midget^fi^Sikari-Sakari^Y^^
+	Line 1820: 	Line 11037: Midget^fi^Pieti Pikkuruinen^N^^
+	Line 1821: 	Line 11038: Midget^fi^Kääkkä^N^^
+	Line 1823: 	Line 11053: Mien Brulbuik^fi^Miina^Y^^
+	Line 1824: 	Line 11063: Mike Morrighan^fi^Miki Tuppén^Y^^
+	Line 1825: 	Line 11072: Mike the monster^fi^Matias "Masi" Pallopää^Y^^
+	Line 1826: 	Line 11083: Miklos^fi^Miklos^Y^^
+	Line 1829: 	Line 11094: Miller^fi^Miller^Y^^
+	Line 1830: 	Line 11102: Millicent^fi^Lissu^Y^^
+	Line 1831: 	Line 11103: Millicent^fi^Pinja^N^^
+	Line 1832: 	Line 11104: Millicent^fi^Liisa^N^^
+	Line 1833: 	Line 11105: Millicent^fi^Liina^N^^
+	Line 1834: 	Line 11116: Millie^fi^Milli^Y^^
+	Line 1835: 	Line 11121: Milo Thatch^fi^Milo Thatch^Y^^
+	Line 1836: 	Line 11129: Minima^fi^Lilli^Y^^
+	Line 1837: 	Line 11130: Minima^fi^Vilma^N^^
+	Line 1838: 	Line 11147: Minnie & Daisy Best Friends Forever^fi^Minni & Iines^Y^^
+	Line 1839: 	Line 11155: Mirage^fi^Mirage^Y^^
+	Line 1840: 	Line 11164: Mirror from SW^fi^Taikapeili^Y^^
+	Line 1841: 	Line 11165: Mirror from SW^fi^Taikakuvastin^N^^
+	Line 1847: 	Line 11173: Miss Makandra^fi^Tohtori Nokonuuka^Y^^
+	Line 1848: 	Line 11175: Miss Meadows^fi^Nöpö Niittynen^Y^^
+	Line 1849: 	Line 11177: Miss Mink^fi^Missi Minkki^Y^^
+	Line 1850: 	Line 11181: Miss Piggy^fi^Miss Piggy^Y^^
+	Line 1851: 	Line 11185: Miss Witchcraft^fi^Rouva Hallikainen^Y^^
+	Line 1852: 	Line 11194: Missy Watson^fi^Liisi^Y^^
+	Line 1853: 	Line 11195: Missy Watson^fi^Miisa^N^^
+	Line 1854: 	Line 11199: Mister Dog^fi^Hurtta Hulttio^Y^^
+	Line 1855: 	Line 11200: Mister Dog^fi^Koira Kauhunen^N^^
+	Line 1856: 	Line 11206: Mister Melvin Meek^fi^Tilintarkastaja Eetu P. Tasanen^Y^^
+	Line 1857: 	Line 11213: Mitch^fi^Miksu^Y^^
+	Line 1858: 	Line 11222: Moana^fi^Vaiana^Y^^
+	Line 1859: 	Line 11223: Moana Waialiki^fi^Vaiana Waialiki^Y^^
+	Line 1860: 	Line 11231: Mogul^fi^Sudenpentujen kenraali^Y^^
+	Line 1861: 	Line 11232: Mogul^fi^Heikki A. Jotos^N^siviilinimi^
+	Line 1862: 	Line 11233: Mogul^fi^Suurmoguli^N^^
+	Line 1863: 	Line 11249: Molay^fi^Monsieur Molay^Y^^
+	Line 1864: 	Line 11258: Mole from Wind in the Willows^fi^Myyriö^Y^^
+	Line 1865: 	Line 11267: Molly^fi^Pupu Söpö^Y^^
+	Line 1866: 	Line 11268: Molly^fi^Pupu Söpönen^N^^
+	Line 1867: 	Line 11269: Molly^fi^Pupu Pumpuli^N^^
+	Line 1868: 	Line 11285: Molly Cunningham^fi^Molli Kankimäki^Y^^
+	Line 1869: 	Line 11286: Molly Cunningham^fi^Molli Elisabet Kankimäki^N^^
+	Line 1870: 	Line 11299: Molly Mallard^fi^Molli McAnkka^Y^^
+	Line 1871: 	Line 11300: Molly Mallard^fi^Molli Sinisorsa^N^^
+	Line 1872: 	Line 11301: Molly Mallard^fi^Molli MacAnkka^N^^
+	Line 1874: 	Line 11309: Molly McGold^fi^Molli McKolikko^Y^^
+	Line 1875: 	Line 11310: Molly McGold^fi^Jenni Kyhny^N^^
+	Line 1876: 	Line 11319: Molok Mak^fi^Iso Pamppu^Y^^
+	Line 1879: 	Line 11325: Monkey Fist^fi^Apinanyrkki^Y^^
+	Line 1880: 	Line 11325: Monkey Fist^fi^Apinanyrkki^Y^^
+	Line 1884: 	Line 11331: Monsieur Mattressface^fi^Maurice Takkunaama^Y^^
+	Line 1885: 	Line 11332: Monsieur Mattressface^fi^Monsieur de la Knalli^N^^
+	Line 1886: 	Line 11342: Monsters Inc.^fi^Monsterit Oy^Y^^
+	Line 1887: 	Line 11353: Monstro^fi^Monstro^Y^^
+	Line 1888: 	Line 11367: Monterey Jack^fi^Jaakko 'Jaska' Juustola^Y^^
+	Line 1889: 	Line 11385: Montmorency^fi^Kalevi Kirkonrotta^Y^^
+	Line 1890: 	Line 11386: Montmorency^fi^Armas Rottamo^N^^
+	Line 1891: 	Line 11387: Montmorency^fi^Rokki-Rotta^N^^
+	Line 1892: 	Line 11388: Montmorency^fi^Hemmo^N^^
+	Line 1893: 	Line 11406: Moocher McDuck^fi^Joope-serkku^Y^^
+	Line 1894: 	Line 11416: Moraq^fi^Lordi Morak^Y^^
+	Line 1895: 	Line 11428: Morgan Shoes^fi^Mauri Popo^Y^^
+	Line 1896: 	Line 11432: Morgana McCawber^fi^Morgana^Y^^
+	Line 1897: 	Line 11437: Morph from Treasure Planet^fi^Morph^Y^^
+	Line 1898: 	Line 11448: Mother Gothel^fi^Gothel^Y^^
+	Line 1899: 	Line 11449: Mother Pfoughh^fi^Äiti Pfoughh^Y^^
+	Line 1900: 	Line 11456: Mowgli^fi^Mowgli^Y^^
+	Line 1901: 	Line 11476: Mr. Bug^fi^Isä Ötökkä^Y^^
+	Line 1902: 	Line 11480: Mr. Dibble^fi^Herra Syynälä^Y^^
+	Line 1903: 	Line 11481: Mr. Dibble^fi^Rakennustarkastaja Kyttä^N^^
+	Line 1904: 	Line 11486: Mr. Foozle^fi^Herra Kluutti^Y^^
+	Line 1905: 	Line 11487: Mr. Foozle^fi^Herra Hyvävuori^N^^
+	Line 1906: 	Line 11488: Mr. Foozle^fi^Herra Pöllö^N^^
+	Line 1907: 	Line 11489: Mr. Foozle^fi^Herra Lehti^N^^
+	Line 1908: 	Line 11493: Mr. Gloom^fi^Herra Synkeä^Y^^
+	Line 1909: 	Line 11496: Mr. Goose^fi^Hanhi Honottaja^Y^^
+	Line 1910: 	Line 11497: Mr. Goose^fi^Hannu Hanhi^N^^
+	Line 1911: 	Line 11498: Mr. Goose^fi^Hessu Hanhi^N^^
+	Line 1912: 	Line 11499: Mr. Goose^fi^Hanski Hanhi^N^^
+	Line 1913: 	Line 11500: Mr. Goose^fi^Heikki Hanhi^N^^
+	Line 1914: 	Line 11503: Mr. Harcourt^fi^Herra Harcourt^Y^^
+	Line 1915: 	Line 11507: Mr. Herb from I-Team^fi^Veikko Siipi^Y^^
+	Line 1916: 	Line 11508: Mr. Herb from I-Team^fi^Veikko-eno^N^^
+	Line 1917: 	Line 11514: Mr. Humbert^fi^Herra Laihanen^Y^^
+	Line 1918: 	Line 11521: Mr. Incredible^fi^Herra Ihme^Y^^
+	Line 1919: 	Line 11522: Mr. Incredible^fi^Ilari "Ilu" Vaara^N^^
+	Line 1920: 	Line 11530: Mr. Invisible^fi^Herra Näkymätön^Y^^
+	Line 1921: 	Line 11538: Mr. McKatz^fi^Herra Kattius^Y^^
+	Line 1922: 	Line 11539: Mr. McKatz^fi^Roskula^N^^
+	Line 1923: 	Line 11543: Mr. Olsen^fi^Herra Olsen^Y^^
+	Line 1924: 	Line 11553: Mr. Phelps^fi^Asematarkastaja Rotta^Y^^
+	Line 1925: 	Line 11565: Mr. Potato Head^fi^Herra Perunapää^Y^^
+	Line 1926: 	Line 11566: Mr. Potato Head^fi^Herra Pottu^N^^
+	Line 1927: 	Line 11574: Mr. Pricklepants^fi^Herra Piikkis^Y^^
+	Line 1928: 	Line 11576: Mr. Ray^fi^Herra Rausku^Y^^
+	Line 1929: 	Line 11581: Mr. Slicker^fi^Herra Lipevä^Y^^
+	Line 1930: 	Line 11586: Mr. Stork^fi^Herra Haikara^Y^^
+	Line 1931: 	Line 11590: Mr. Toad^fi^Herra Rupikonna^Y^^
+	Line 1932: 	Line 11591: Mr. Toad^fi^Herra Sammakko^N^^
+	Line 1933: 	Line 11592: Mr. Toad^fi^Samuel J. Sammakko^N^^
+	Line 1934: 	Line 11602: Mr. Wildcat^fi^Veli Villikissa^Y^^
+	Line 1935: 	Line 11605: Mr. Woolensworth^fi^Herra Puolivilla^Y^^
+	Line 1936: 	Line 11610: Mr. Yatz^fi^Dosentti Rintama^Y^^
+	Line 1937: 	Line 11617: Mrs. Beakley^fi^Selma "Taateli" Kurppa^Y^^
+	Line 1938: 	Line 11618: Mrs. Beakley^fi^Selma Taateli^N^^
+	Line 1939: 	Line 11635: Mrs. Bear^fi^Elviira^Y^^
+	Line 1940: 	Line 11636: Mrs. Bear^fi^Rouva Kömpelö^N^^
+	Line 1941: 	Line 11644: Mrs. Bug^fi^Äiti Ötökkä^Y^^
+	Line 1942: 	Line 11647: Mrs. Caloway^fi^Rouva Caloway^Y^^
+	Line 1943: 	Line 11653: Mrs. Churchmouse^fi^Rouva Kirkonrotta^Y^^
+	Line 1944: 	Line 11659: Mrs. Claus^fi^Joulumuori^Y^^
+	Line 1945: 	Line 11664: Mrs. Coon^fi^Rouva Pesukarhu^Y^^
+	Line 1953: 	Line 11677: Mrs. Judson^fi^Rouva Judson^Y^^
+	Line 1954: 	Line 11679: Mrs. Knickerbocher^fi^Rouva Knickerbocher^Y^^
+	Line 1955: 	Line 11686: Mrs. Marbles^fi^Neiti Marpela^Y^^
+	Line 1956: 	Line 11687: Mrs. Mitridge^fi^Rouva Mitridge^Y^^
+	Line 1957: 	Line 11692: Mrs. Mouse^fi^Rouva Hiiri^Y^^
+	Line 1958: 	Line 11698: Mrs. Possum^fi^Hilma Hiiri^Y^^
+	Line 1959: 	Line 11704: Mrs. Potato Head^fi^Rouva Perunapää^Y^^
+	Line 1960: 	Line 11710: Mrs. Potts^fi^Rouva Pannu^Y^^
+	Line 1961: 	Line 11719: Mrs. Rudolph^fi^Neiti Rudolph^Y^^
+	Line 1962: 	Line 11723: Mrs. Shoebuckle^fi^Rouva Kengänsolki^Y^^
+	Line 1963: 	Line 11727: Mrs. Snobby^fi^Rouva Ahnasto^Y^^
+	Line 1964: 	Line 11729: Mrs. Stork^fi^Rouva Haikara^Y^^
+	Line 1965: 	Line 11732: Mrs. Van Astorocks^fi^Rouva Herratsalo^Y^^
+	Line 1966: 	Line 11734: Mrs. Van Swank^fi^Rouva Iso-Rössi^Y^^
+	Line 1967: 	Line 11735: Mrs. Van Swank^fi^Rouva Äverinen^N^^
+	Line 1968: 	Line 11738: Muck Rakers^fi^Muck Rakers^Y^^
+	Line 1969: 	Line 11745: Mufasa^fi^Mufasa^Y^^
+	Line 1970: 	Line 11758: Mulan^fi^Mulan^Y^^
+	Line 1971: 	Line 11769: Mulan's father^fi^Mulanin isä^Y^^
+	Line 1972: 	Line 11781: Murdo MacKenzie^fi^Murdo MacKenzie^Y^^
+	Line 1973: 	Line 11787: Muscles McGurk^fi^Leevi Lihaksisto^Y^^
+	Line 1974: 	Line 11798: Museum curator from S 68115^fi^Vilho Vitriini^Y^^
+	Line 1975: 	Line 11803: Mushu^fi^Mushu^Y^^
+	Line 1976: 	Line 11819: Nagadir^fi^Nagadir^Y^^
+	Line 1977: 	Line 11823: Nakoma^fi^Nakoma^Y^^
+	Line 1978: 	Line 11830: Nala^fi^Nala^Y^^
+	Line 1979: 	Line 11836: Nala's mother^fi^Sarafina^Y^^
+	Line 1980: 	Line 11836: Nala's mother^fi^Sarafina^Y^^
+	Line 1982: 	Line 11848: Nana^fi^Nana^Y^^
+	Line 1983: 	Line 11860: Nanki Poo^fi^Nanki-Pu^Y^^
+	Line 1984: 	Line 11861: Nanki Poo^fi^Fifi^N^^
+	Line 1985: 	Line 11861: Nanki Poo^fi^Fifi^N^^
+	Line 1986: 	Line 11861: Nanki Poo^fi^Fifi^N^^
+	Line 1989: 	Line 11867: Nanny from 101 Dalmatians^fi^Lastenhoitaja - 101 Dalmatiankoiraa^Y^^
+	Line 1990: 	Line 11881: Napoleon the cat^fi^Napoleon^Y^^
+	Line 1991: 	Line 11890: Nashter^fi^Nashter^Y^^
+	Line 1992: 	Line 11893: Nataniele Ragnatele^fi^Samuli Seitti^Y^^
+	Line 1993: 	Line 11894: Nature wizard from Abadazad^fi^Versova velhotar^Y^^
+	Line 1994: 	Line 11896: Naveen^fi^Prinssi Naveen^Y^^
+	Line 1995: 	Line 11906: Neera^fi^Neera^Y^^
+	Line 1996: 	Line 11911: Nefu^fi^Nefu^Y^^
+	Line 1998: 	Line 11917: Negaduck^fi^Nega-Ankka^Y^^
+	Line 1999: 	Line 11921: Neil^fi^Neil^Y^^
+	Line 2003: 	Line 11925: Nemo the fish^fi^Nemo^Y^^
+	Line 2004: 	Line 11925: Nemo the fish^fi^Nemo^Y^^
+	Line 2012: 	Line 11938: Nerissa^fi^Nerissa^Y^^
+	Line 2013: 	Line 11943: Nero and Brutus the crocodiles^fi^Nero ja Brutus^Y^^
+	Line 2014: 	Line 11949: Nestor^fi^Manuel^Y^^
+	Line 2015: 	Line 11950: Nestor^fi^Nestori^N^^
+	Line 2016: 	Line 11951: Nestor^fi^Nestor^N^^
+	Line 2017: 	Line 11956: Nestor from X-Mickey^fi^Paavo^Y^^
+	Line 2018: 	Line 11959: Nestore il gatto^fi^Nestori^Y^^
+	Line 2019: 	Line 11970: Newton^fi^Tarmo^Y^^
+	Line 2020: 	Line 11987: Newton the droid^fi^Newton (Taikaviitta 2000-sarjoissa)^Y^^
+	Line 2021: 	Line 11991: Nick Wilde^fi^Nick Wilde^Y^^
+	Line 2022: 	Line 11992: Nick Wilde^fi^Nicholas P. Wilde^N^^
+	Line 2023: 	Line 11994: Nigel^fi^Nigel^Y^^
+	Line 2024: 	Line 12000: Nigel the pelican^fi^Nestori^Y^^
+	Line 2025: 	Line 12003: Nihila^fi^Nihila^Y^^
+	Line 2026: 	Line 12006: Nimrod^fi^Kapteeni Niska^Y^^
+	Line 2027: 	Line 12013: Nina^fi^Haili-Marja^Y^^
+	Line 2028: 	Line 12016: Ning and Nong^fi^Gnij ja Gnaj^Y^^
+	Line 2029: 	Line 12020: Nipper^fi^Arkka^Y^^
+	Line 2030: 	Line 12029: Norm the Robot^fi^Norm^Y^^
+	Line 2031: 	Line 12031: Northside Gang^fi^Pohjoispuoliskon huligaanit^Y^^
+	Line 2032: 	Line 12037: Norton Nimnul^fi^Professori Nulli^Y^^
+	Line 2033: 	Line 12047: Nurg^fi^Nurk^Y^^
+	Line 2034: 	Line 12051: Nutsy from Robin Hood^fi^Nuija^Y^^
+	Line 2035: 	Line 12057: O'Bully^fi^Rale^Y^^
+	Line 2036: 	Line 12058: O'Bully^fi^O'Bully^N^^
+	Line 2037: 	Line 12062: O'Connors^fi^Myrsky^Y^^
+	Line 2038: 	Line 12063: O'Connors^fi^Amiraali Myrsky^N^^
+	Line 2039: 	Line 12064: O'Connors^fi^Kapteeni Ossian O'Liivi^N^^
+	Line 2040: 	Line 12068: O'Doom^fi^Paddy^Y^^
+	Line 2041: 	Line 12072: O'Gally^fi^Kale^Y^^
+	Line 2042: 	Line 12073: O'Gally^fi^O'Gally^N^^
+	Line 2043: 	Line 12087: OH^fi^Poliisimestari Sisu^Y^^
+	Line 2044: 	Line 12088: OH^fi^Simo Sisu^N^^
+	Line 2048: 	Line 12117: OKQ^fi^P.T.^Y^^
+	Line 2049: 	Line 12132: OM^fi^Thomas O'Malley^Y^^
+	Line 2050: 	Line 12145: OMC^fi^O'Malley ja kujakatit^Y^^
+	Line 2051: 	Line 12153: Oaken^fi^Tamminen^Y^^
+	Line 2052: 	Line 12157: Oberon De Spair^fi^Oberon Epätoivo^Y^^
+	Line 2053: 	Line 12161: Od Bod and Cod^fi^Aivo ja Raivo sekä nimeämätön kolmas konna^Y^^
+	Line 2054: 	Line 12163: Odie^fi^Mama Odie^Y^^
+	Line 2055: 	Line 12166: Ohm-Eye^fi^Oh-mii^Y^^
+	Line 2056: 	Line 12174: Olaf from Frozen^fi^Olaf^Y^^
+	Line 2057: 	Line 12178: Old Tom^fi^Albert^Y^^
+	Line 2059: 	Line 12191: Old Trusty^fi^Jalo^Y^^
+	Line 2063: 	Line 12200: Old monk^fi^Vanha munkki^Y^^
+	Line 2064: 	Line 12206: Oldwolf^fi^Opettaja Hopeaturkki^Y^^
+	Line 2065: 	Line 12207: Oldwolf^fi^Henrikki Hopeaturkki^N^^
+	Line 2066: 	Line 12219: Oliver^fi^Oliver^Y^^
+	Line 2067: 	Line 12231: Oliver Gooswon^fi^Olli^Y^^
+	Line 2068: 	Line 12236: Olivia^fi^Olivia Leikinheimo^Y^^
+	Line 2069: 	Line 12244: Ollie Eiderduck^fi^Hannes Haahka^Y^^
+	Line 2070: 	Line 12245: Ollie Eiderduck^fi^Ankerfeld^N^^
+	Line 2071: 	Line 12254: Ome Dries^fi^Eka-eno^Y^^
+	Line 2072: 	Line 12255: Ome Dries^fi^Kärsämö^N^^
+	Line 2073: 	Line 12269: Oona^fi^Una^Y^^
+	Line 2074: 	Line 12270: Oona^fi^Oona^N^^
+	Line 2075: 	Line 12290: Oracolo^fi^Oraakkeli^Y^^
+	Line 2076: 	Line 12303: Organizzazione^fi^Järjestö (Taikaviitta 2000-sarjoissa)^Y^^
+	Line 2077: 	Line 12304: Organizzazione^fi^Organisaatio^N^^
+	Line 2078: 	Line 12310: Orube^fi^Orube^Y^^
+	Line 2079: 	Line 12319: Oscar^fi^Oskari^Y^^
+	Line 2080: 	Line 12330: Oswald the Lucky Rabbit^fi^Osku Kani^Y^^
+	Line 2081: 	Line 12339: Oswald's cat girlfriend^fi^Ortensia^Y^^
+	Line 2082: 	Line 12352: Ottoperotto^fi^Kuusnelonen^Y^^
+	Line 2083: 	Line 12353: Ottoperotto^fi^Pinko^N^^
+	Line 2084: 	Line 12365: Oude Zwamneus^fi^Vanha Haperonenä^Y^^
+	Line 2085: 	Line 12373: Owl^fi^Pöllö^Y^^
+	Line 2086: 	Line 12385: Owl judge^fi^Tuomaripöllö^Y^^
+	Line 2087: 	Line 12396: P. C.^fi^PeeSee^Y^^
+	Line 2088: 	Line 12397: P. C.^fi^Petronella-Celeste^N^^
+	Line 2089: 	Line 12407: P. T. Cheatum^fi^P. T. Karmala^Y^^
+	Line 2090: 	Line 12415: PAC^fi^Panchito^Y^^
+	Line 2091: 	Line 12416: PAC^fi^Panchito Pistoles^N^^
+	Line 2092: 	Line 12442: PB^fi^Mustakaapu^Y^^
+	Line 2093: 	Line 12443: PB^fi^Lättäpää^N^^
+	Line 2094: 	Line 12444: PB^fi^Al Rapina^N^^
+	Line 2095: 	Line 12445: PB^fi^Läiskä^N^^
+	Line 2096: 	Line 12446: PB^fi^Lättänen^N^^
+	Line 2097: 	Line 12447: PB^fi^Mustaviitta^N^^
+	Line 2098: 	Line 12466: PB's nephews^fi^Mustakaavun sukulaispojat^Y^^
+	Line 2099: 	Line 12472: PBI^fi^ATP - Ankkalinnan tiedustelupalvelu Taikaviitta 2000-sarjoissa^Y^^
+	Line 2100: 	Line 12491: PE^fi^Musta Pekka^Y^^
+	Line 2101: 	Line 12492: PE^fi^Jopi Jalkapuoli^N^^
+	Line 2102: 	Line 12493: PE^fi^Pekka^N^^
+	Line 2103: 	Line 12494: PE^fi^Pekka Mustanen^N^^
+	Line 2104: 	Line 12522: PEb^fi^Musta Pekka vauvana^Y^^
+	Line 2107: 	Line 12538: PIN^fi^Pinokkio^Y^^
+	Line 2108: 	Line 12539: PIN^fi^Pinocchio^N^^
+	Line 2109: 	Line 12540: PIN^fi^Pinoccio^N^^
+	Line 2110: 	Line 12559: PJ^fi^PP^Y^^
+	Line 2111: 	Line 12587: PK^fi^Taikaviitta^Y^^
+	Line 2112: 	Line 12618: PL^fi^Pluto^Y^^
+	Line 2113: 	Line 12654: PLb^fi^Pluto vauvana^Y^^
+	Line 2114: 	Line 12671: PP^fi^Peter Pan^Y^^
+	Line 2115: 	Line 12701: PYE^fi^Poppi^Y^^
+	Line 2116: 	Line 12702: PYE^fi^Popanna^N^^
+	Line 2117: 	Line 12703: PYE^fi^Paula^N^^
+	Line 2119: 	Line 12732: Pacha^fi^Pacha^Y^^
+	Line 2120: 	Line 12746: Pafwangs^fi^Kaitanaamojen heimo^Y^^
+	Line 2121: 	Line 12747: Pafwangs^fi^Pulloposkien heimo^N^^
+	Line 2122: 	Line 12748: Pafwangs^fi^Valkonenät^N^^
+	Line 2123: 	Line 12782: Pap Mc Paper^fi^Angus McAnkka^Y^^
+	Line 2124: 	Line 12787: Paper Holmes^fi^Herlokki Solmu^Y^^
+	Line 2125: 	Line 12790: PaperMagic^fi^Taika-Ankka^Y^^
+	Line 2126: 	Line 12793: Paperbella^fi^Bella^Y^^
+	Line 2127: 	Line 12796: Paperelfo^fi^Vilperi^Y^^
+	Line 2128: 	Line 12801: Paperica^fi^Sulo Suvio^Y^^
+	Line 2129: 	Line 12811: Paperilla Starry^fi^Neiti Tuike^Y^^
+	Line 2130: 	Line 12812: Paperilla Starry^fi^Annuli^N^^
+	Line 2131: 	Line 12823: Paperinika^fi^Viitatar^Y^^
+	Line 2132: 	Line 12824: Paperinika^fi^Naistaikaviitta^N^^
+	Line 2133: 	Line 12839: Papernova^fi^Magi Mustonen^Y^^
+	Line 2135: 	Line 12845: Pappo^fi^Tessu^Y^^
+	Line 2136: 	Line 12859: Pat from Riverside Rovers^fi^Ville^Y^^
+	Line 2137: 	Line 12869: Patricia Pigg^fi^Pauliina Possu^Y^^
+	Line 2138: 	Line 12870: Patricia Pigg^fi^Pirita Possu^N^^
+	Line 2139: 	Line 12871: Patricia Pigg^fi^Paula Possu^N^^
+	Line 2140: 	Line 12872: Patricia Pigg^fi^Vanessa^N^^
+	Line 2141: 	Line 12873: Patricia Pigg^fi^Pella^N^^
+	Line 2142: 	Line 12883: Patty Ballestreros^fi^Etsivä Ballesteros^Y^^
+	Line 2143: 	Line 12884: Patty Ballestreros^fi^Patty Ballestreros^N^^
+	Line 2144: 	Line 12890: Peach^fi^Liisku^Y^^
+	Line 2145: 	Line 12893: Pearl the dumbo octopus^fi^Helmi^Y^^
+	Line 2146: 	Line 12901: Peas-in-a-Pod^fi^Palkopoppoo^Y^^
+	Line 2147: 	Line 12904: Pecos Bill^fi^Pecos Bill^Y^^
+	Line 2148: 	Line 12907: Pedrao^fi^Pedro^Y^^
+	Line 2149: 	Line 12916: Pedro from LT^fi^Pedro^Y^^
+	Line 2150: 	Line 12938: Peeweegahs^fi^Kääpiöintiaanit^Y^^
+	Line 2151: 	Line 12948: Peg^fi^Petra^Y^^
+	Line 2152: 	Line 12954: Peg from LT^fi^Riitta^Y^^
+	Line 2153: 	Line 12962: Pegasus^fi^Pegasos^Y^^
+	Line 2154: 	Line 12986: Pena das Selvas^fi^Metsäankka^Y^^
+	Line 2155: 	Line 12998: Penny^fi^Penny^Y^^
+	Line 2156: 	Line 13007: Pepper^fi^Petteri^Y^^
+	Line 2157: 	Line 13011: Percival^fi^Musta Jakke^Y^^
+	Line 2158: 	Line 13023: Percy Pigg^fi^Pertti Possunheimo^Y^^
+	Line 2159: 	Line 13029: Perdita^fi^Perdita^Y^^
+	Line 2160: 	Line 13042: Pericles Parrot^fi^Herkules Puuro^Y^^
+	Line 2161: 	Line 13047: Perry the Platypus^fi^Nokkaeläin Perry^Y^^
+	Line 2162: 	Line 13048: Perry the Platypus^fi^Agentti P^N^^
+	Line 2163: 	Line 13054: Peter Cook^fi^Peter Cook^Y^^
+	Line 2164: 	Line 13059: Peter Penguin^fi^Pate Pingviini^Y^^
+	Line 2165: 	Line 13064: Peter Pig^fi^Petteri Possu^Y^^
+	Line 2166: 	Line 13065: Peter Pig^fi^Pekka Possu^N^^
+	Line 2167: 	Line 13079: Petulia^fi^Sirkka^Y^^
+	Line 2169: 	Line 13089: Pflip^fi^Pflip^Y^^
+	Line 2170: 	Line 13090: Pflip^fi^Flip^N^^
+	Line 2171: 	Line 13091: Pflip^fi^Pflips^N^^
+	Line 2172: 	Line 13092: Pflip^fi^Pfilip^N^^
+	Line 2173: 	Line 13092: Pflip^fi^Pfilip^N^^
+	Line 2177: 	Line 13104: Pflip 2^fi^Pflip 2^Y^^
+	Line 2178: 	Line 13105: Pflip 2^fi^Ilppi^N^^
+	Line 2179: 	Line 13116: Phil^fi^Phil^Y^^
+	Line 2185: 	Line 13130: Philo T. Ellic^fi^Ismo Isoharkko^Y^^
+	Line 2187: 	Line 13135: Phineas^fi^Finias Flynn^Y^^
+	Line 2188: 	Line 13135: Phineas^fi^Finias Flynn^Y^^
+	Line 2190: 	Line 13142: Phobos^fi^Phobos^Y^^
+	Line 2191: 	Line 13149: Phoebus^fi^Phoebus^Y^^
+	Line 2193: 	Line 13158: Phylline^fi^Prinsessa Vilina^Y^^
+	Line 2194: 	Line 13159: Phylline^fi^Felina^N^^
+	Line 2196: 	Line 13166: Piccolo Krack^fi^Pikkuveikko^Y^^
+	Line 2197: 	Line 13167: Piccolo Krack^fi^Pikku-Tommi^N^^
+	Line 2200: 	Line 13197: Pig mayor^fi^Pormestari Piri Pösö^Y^^
+	Line 2201: 	Line 13198: Pig mayor^fi^Ankkalinnan pormestari^N^^
+	Line 2202: 	Line 13222: Pig villain^fi^P.J. Petkunterä^Y^^
+	Line 2203: 	Line 13223: Pig villain^fi^Pontus Jacobert Petkunterä^N^^
+	Line 2204: 	Line 13224: Pig villain^fi^Kaarlo Kateenkorva^N^^
+	Line 2205: 	Line 13225: Pig villain^fi^Juuso Juoniranta^N^^
+	Line 2206: 	Line 13226: Pig villain^fi^Hassan Ben Petku^N^^
+	Line 2207: 	Line 13227: Pig villain^fi^R. Ketku^N^^
+	Line 2208: 	Line 13243: Piglet^fi^Nasu^Y^^
+	Line 2209: 	Line 13265: Pintail Duck^fi^Puosu Ankka^Y^^
+	Line 2210: 	Line 13274: Pintel and Ragetti^fi^Pintel ja Ragetti^Y^^
+	Line 2211: 	Line 13280: Pip-Pot^fi^Hesmish^Y^^
+	Line 2213: 	Line 13287: Pipwolf^fi^Heshukka^Y^^
+	Line 2214: 	Line 13302: Pirates of the Caribbean^fi^Pirates of the Caribbean^Y^^
+	Line 2215: 	Line 13308: Pistol^fi^Pipsa^Y^^
+	Line 2216: 	Line 13309: Pistol^fi^Papu^N^^
+	Line 2217: 	Line 13314: Planes^fi^Lentsikat^Y^^
+	Line 2218: 	Line 13315: Playing cards from Alice in Wonderland^fi^Pelikorttivartijat^Y^^
+	Line 2219: 	Line 13321: Plio^fi^Plio^Y^^
+	Line 2220: 	Line 13332: Plottigat^fi^Karvakatti^Y^^
+	Line 2221: 	Line 13333: Plottigat^fi^Kölli^N^^
+	Line 2222: 	Line 13334: Plottigat^fi^Sepeteus^N^^
+	Line 2223: 	Line 13335: Plottigat^fi^Professori Körri^N^^
+	Line 2224: 	Line 13348: Pluto Jr.^fi^Luppa^Y^^
+	Line 2225: 	Line 13356: Pocahontas^fi^Pocahontas^Y^^
+	Line 2226: 	Line 13369: Pocus^fi^Pokkus^Y^^
+	Line 2227: 	Line 13378: Polly Penguin^fi^Pinkki Pingviini^Y^^
+	Line 2228: 	Line 13387: Pongo^fi^Pongo^Y^^
+	Line 2229: 	Line 13400: Poochie^fi^Rekku^Y^^
+	Line 2230: 	Line 13401: Poochie^fi^Terri^N^^
+	Line 2231: 	Line 13402: Poochie^fi^Aston^N^^
+	Line 2232: 	Line 13403: Poochie^fi^Mussu^N^^
+	Line 2233: 	Line 13409: Pop Weasel^fi^Konsta Kärppä^Y^^
+	Line 2234: 	Line 13415: Pop Weezil^fi^Jyri Ponteva^Y^^
+	Line 2235: 	Line 13431: Porky Porcupine^fi^Pelle Piikkisika^Y^^
+	Line 2236: 	Line 13441: Porpy^fi^Marius^Y^^
+	Line 2237: 	Line 13456: Powathan^fi^Powathan^Y^^
+	Line 2238: 	Line 13475: Practical Pig^fi^Veli Ponteva^Y^^
+	Line 2239: 	Line 13476: Practical Pig^fi^Jussi^N^^
+	Line 2240: 	Line 13492: Prilla^fi^Prilla^Y^^
+	Line 2241: 	Line 13505: Primo Saggio^fi^Ensimmäinen Viisas^Y^^
+	Line 2242: 	Line 13517: Prince Charming^fi^Prinssi Lumikista^Y^^
+	Line 2243: 	Line 13528: Prince Eric^fi^Prinssi Erik^Y^^
+	Line 2244: 	Line 13541: Prince John^fi^Prinssi Juhana^Y^^
+	Line 2245: 	Line 13553: Prince Phillip^fi^Prinssi Philip^Y^^
+	Line 2246: 	Line 13554: Prince Phillip^fi^Prinssi Filip^N^^
+	Line 2247: 	Line 13554: Prince Phillip^fi^Prinssi Filip^N^^
+	Line 2250: 	Line 13562: Princess Atta^fi^Prinsessa Atta^Y^^
+	Line 2251: 	Line 13565: Princess Patty from Cookieland^fi^Keksimaan prinsessa Marina^Y^^
+	Line 2252: 	Line 13567: Principal Fetchit^fi^Rehtori Noutaja^Y^^
+	Line 2253: 	Line 13573: Proctor^fi^Tohtori Troppi^Y^^
+	Line 2258: 	Line 13582: Professor Argus McFiendy^fi^Professori Kaarlo Kateenkorva^Y^^
+	Line 2259: 	Line 13582: Professor Argus McFiendy^fi^Professori Kaarlo Kateenkorva^Y^^
+	Line 2264: 	Line 13588: Professor Brain^fi^Professori Aivo^Y^^
+	Line 2265: 	Line 13594: Professor Claude Schlung^fi^Professori Tälli^Y^^
+	Line 2266: 	Line 13597: Professor Grossnoose^fi^Professori Katalisto^Y^^
+	Line 2267: 	Line 13598: Professor Headstrong^fi^Professori Jääräpää^Y^^
+	Line 2268: 	Line 13609: Professor Mollicule^fi^Professori Moolikyylä^Y^^
+	Line 2269: 	Line 13610: Professor Mollicule^fi^Professori Mollekyyli^N^^
+	Line 2270: 	Line 13614: Professor Nobuo^fi^Professori Nobuo^Y^^
+	Line 2271: 	Line 13616: Professor Orville Flung^fi^Professori Älli^Y^^
+	Line 2272: 	Line 13628: Professor Sleezy^fi^Professori Lüiküri^Y^^
+	Line 2273: 	Line 13629: Professor Slyrat^fi^Professori Ketunhäntä^Y^^
+	Line 2274: 	Line 13635: Professore^fi^Professori (Anderville-sarjoissa)^Y^^
+	Line 2275: 	Line 13637: Pua^fi^Pua^Y^^
+	Line 2276: 	Line 13638: Puindorpse Libelle Maatschappij^fi^Jätelän korentokyyti^Y^^
+	Line 2277: 	Line 13639: Puindorpse Libelle Maatschappij^fi^Korentolennot^N^^
+	Line 2278: 	Line 13645: Pumbaa^fi^Pumba^Y^^
+	Line 2279: 	Line 13661: Q-T the quartermaster^fi^M-Ä^Y^^
+	Line 2280: 	Line 13662: Q-T the quartermaster^fi^Kuu^N^^
+	Line 2281: 	Line 13674: QF^fi^Neiti Näpsä^Y^^
+	Line 2282: 	Line 13675: QF^fi^Sirkku Nenonilla Näpsä^N^^
+	Line 2283: 	Line 13676: QF^fi^Neiti Natunen^N^^
+	Line 2284: 	Line 13699: QP^fi^Nokkapokka^Y^^
+	Line 2285: 	Line 13708: Quackerjack^fi^Kaakatti^Y^^
+	Line 2286: 	Line 13717: Quackmore Duck^fi^Aaron Ankka^Y^^
+	Line 2287: 	Line 13729: Quadrifoglio^fi^Neliapila^Y^^
+	Line 2288: 	Line 13736: Quagmire McDuck^fi^Joonas McAnkka^Y^^
+	Line 2289: 	Line 13737: Quagmire McDuck^fi^Lordi Ohrapää MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30^
+	Line 2290: 	Line 13737: Quagmire McDuck^fi^Lordi Ohrapää MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30^
+	Line 2291: 	Line 13737: Quagmire McDuck^fi^Lordi Ohrapää MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30^
+	Line 2292: 	Line 13738: Quagmire McDuck^fi^Lordi Ohrapää^N^fi/AATK168^
+	Line 2293: 	Line 13738: Quagmire McDuck^fi^Lordi Ohrapää^N^fi/AATK168^
+	Line 2294: 	Line 13748: Quasimodo^fi^Quasimodo^Y^^
+	Line 2295: 	Line 13760: Queen Ija^fi^Kuningatar Ija^Y^^
+	Line 2296: 	Line 13763: Queen Mousetoria^fi^Nukkekuningatar^Y^^
+	Line 2297: 	Line 13768: Queen from SW^fi^Kuningatar Krimhilde^Y^^
+	Line 2298: 	Line 13769: Queen from SW^fi^Kuningatar Grimilde^N^^
+	Line 2299: 	Line 13779: Queen from Sleeping Beauty^fi^Kuningatar Prinsessa Ruususesta^Y^^
+	Line 2300: 	Line 13789: Queen of Hearts^fi^Herttakuningatar^Y^^
+	Line 2301: 	Line 13805: Qwerty^fi^Qwerty^Y^^
+	Line 2302: 	Line 13806: Qwerty^fi^Kaapo Eevertti Tyllivalli III^N^^
+	Line 2303: 	Line 13817: RKD^fi^Kroisos Pennonen^Y^^
+	Line 2304: 	Line 13818: RKD^fi^Rahankka^N^^
+	Line 2305: 	Line 13840: RKD's nephews^fi^Kroisos Pennosen sukulaispojat^Y^^
+	Line 2306: 	Line 13841: RKD's nephews^fi^Tauno, Rauno ja Mauno^N^^
+	Line 2307: 	Line 13845: ROG^fi^Roger Rabbit^Y^^
+	Line 2308: 	Line 13860: Rabbit^fi^Kani^Y^^
+	Line 2314: 	Line 13879: Rafiki^fi^Rafiki^Y^^
+	Line 2315: 	Line 13879: Rafiki^fi^Rafiki^Y^^
+	Line 2316: 	Line 13879: Rafiki^fi^Rafiki^Y^^
+	Line 2333: 	Line 13889: Ragorlang^fi^Ragorlang^Y^^
+	Line 2334: 	Line 13894: Rajah^fi^Radza^Y^^
+	Line 2335: 	Line 13906: Ralph from X-Mickey^fi^Rami^Y^^
+	Line 2336: 	Line 13909: Rama^fi^Rama^Y^^
+	Line 2337: 	Line 13915: Ramirez^fi^Ramirez^Y^^
+	Line 2338: 	Line 13920: Ramiro Burton^fi^Rollo Ramirez^Y^^
+	Line 2339: 	Line 13923: Ramone^fi^Ramone^Y^^
+	Line 2340: 	Line 13927: Randall^fi^Räähkä Poks^Y^^
+	Line 2341: 	Line 13934: Ranger^fi^Metsänvartija Puiseva^Y^^
+	Line 2342: 	Line 13945: Rangi Fangus^fi^Kerttu^Y^^
+	Line 2343: 	Line 13954: Rani^fi^Rani^Y^^
+	Line 2344: 	Line 13961: Raphael Sylla^fi^Raphael Sylla^Y^^
+	Line 2345: 	Line 13966: Rapunzel^fi^Tähkäpää^Y^^
+	Line 2346: 	Line 13973: Rasmus^fi^Rasmus^Y^^
+	Line 2347: 	Line 13980: Ratatouille^fi^Rottatouille^Y^^
+	Line 2348: 	Line 13988: Ratchet Gearloose^fi^Petteri Peloton^Y^^
+	Line 2349: 	Line 14011: Ratface^fi^Korri^Y^^
+	Line 2350: 	Line 14012: Ratface^fi^Rotannaama^N^^
+	Line 2351: 	Line 14013: Ratface^fi^Ärripurri^N^^
+	Line 2352: 	Line 14029: Ratigan^fi^Professori Ratigan^Y^^
+	Line 2353: 	Line 14037: Rattlesnake^fi^Kalkkarokäärme^Y^^
+	Line 2354: 	Line 14038: Rattlesnake^fi^Mateleva Käärme^N^^
+	Line 2355: 	Line 14055: Ratty the water rat^fi^Rottio^Y^^
+	Line 2356: 	Line 14058: Ray^fi^Ray^Y^^
+	Line 2357: 	Line 14060: Ray Fieldestein^fi^Ray Fieldestein^Y^^
+	Line 2358: 	Line 14060: Ray Fieldestein^fi^Ray Fieldestein^Y^^
+	Line 2359: 	Line 14060: Ray Fieldestein^fi^Ray Fieldestein^Y^^
+	Line 2360: 	Line 14062: Ray from Princess and the Frog^fi^Ray^Y^^
+	Line 2361: 	Line 14068: Razoul^fi^Agrabahin kaartin kapteeni^Y^^
+	Line 2362: 	Line 14079: Razziatore^fi^Ajastaja^Y^^
+	Line 2363: 	Line 14086: Re Arbor^fi^Kuningas Puukkeli^Y^^
+	Line 2364: 	Line 14092: Rebecca^fi^Rebekka Kankimäki^Y^^
+	Line 2365: 	Line 14093: Rebecca^fi^Rebekka "Begi" Kankimäki^N^^
+	Line 2366: 	Line 14094: Rebecca^fi^Tyyra^N^^
+	Line 2367: 	Line 14105: Rebo^fi^Rebo^Y^^
+	Line 2368: 	Line 14111: Recess^fi^Välitunti^Y^^
+	Line 2369: 	Line 14120: Red Minna^fi^Susiina-täti^Y^^
+	Line 2371: 	Line 14130: Red Wasp^fi^Punainen Herhiläinen^Y^^
+	Line 2372: 	Line 14138: Red from Cars^fi^Puna^Y^^
+	Line 2373: 	Line 14142: Redac chef^fi^Päätoimittaja^Y^^
+	Line 2374: 	Line 14152: Reginella^fi^Reginella^Y^^
+	Line 2375: 	Line 14177: Rex^fi^Rex^Y^^
+	Line 2376: 	Line 14185: Rhia^fi^Rhia^Y^^
+	Line 2377: 	Line 14195: Rhyming Man^fi^Riimittäjä^Y^^
+	Line 2378: 	Line 14196: Rhyming Man^fi^Riimittelijä^N^^
+	Line 2379: 	Line 14197: Rhyming Man^fi^Riimien mies^N^^
+	Line 2380: 	Line 14205: Rick Fortwort^fi^Rick Fortwort^Y^^
+	Line 2381: 	Line 14226: Rik^fi^Riku^Y^^
+	Line 2382: 	Line 14236: Riley^fi^Riley Urho^Y^^
+	Line 2383: 	Line 14240: Rita from Oliver^fi^Ritu^Y^^
+	Line 2384: 	Line 14250: Roberta^fi^Vieno Vipunen^Y^^
+	Line 2385: 	Line 14251: Roberta^fi^Etna^N^^
+	Line 2386: 	Line 14252: Roberta^fi^Laila Lumous^N^^
+	Line 2387: 	Line 14263: Robin Hood^fi^Robin Hood^Y^^
+	Line 2388: 	Line 14273: Robin Hood from ZM 012^fi^Robin Hood^Y^^
+	Line 2389: 	Line 14276: Robin Hood the human^fi^Robin Hood^Y^^
+	Line 2390: 	Line 14285: Robinson Crusoe^fi^Robinson Crusoe^Y^^
+	Line 2391: 	Line 14292: Rocha Vaz^fi^Rocha Vaz^Y^^
+	Line 2392: 	Line 14293: Rocha Vaz^fi^Rocha Vas^N^^
+	Line 2393: 	Line 14305: Rock Sassi^fi^Reino Murske^Y^^
+	Line 2394: 	Line 14306: Rock Sassi^fi^Konsta Apeli^N^^
+	Line 2395: 	Line 14307: Rock Sassi^fi^Leka Järkäle^N^^
+	Line 2396: 	Line 14308: Rock Sassi^fi^Mauno Järkäle^N^^
+	Line 2397: 	Line 14314: Rocket Heads^fi^Rakettipäät^Y^^
+	Line 2398: 	Line 14317: Rockhead Rooster^fi^Herkko Kukkonen^Y^^
+	Line 2399: 	Line 14328: Rodent^fi^Ihmehiiri^Y^^
+	Line 2400: 	Line 14338: Roger from 101 Dalmatians^fi^Roger Radcliff^Y^^
+	Line 2401: 	Line 14350: Rollerdollar^fi^Rahoittaja^Y^^
+	Line 2402: 	Line 14352: Rollie^fi^Rulltårtan^Y^^
+	Line 2403: 	Line 14358: Rolly^fi^Rollo^Y^^
+	Line 2404: 	Line 14359: Romur^fi^Romur^Y^^
+	Line 2405: 	Line 14362: Ron Stoppable^fi^Ron Stoppable^Y^^
+	Line 2406: 	Line 14368: Ronald Raven^fi^Tuomari Raven^Y^^
+	Line 2407: 	Line 14375: Roo^fi^Ruu^Y^^
+	Line 2408: 	Line 14376: Roo^fi^Ru^N^^
+	Line 2409: 	Line 14401: Roscoe the Robot^fi^Reiska^Y^^
+	Line 2410: 	Line 14410: Rosinha^fi^Rosabella^Y^^
+	Line 2411: 	Line 14411: Rosinha^fi^Rosita^N^^
+	Line 2412: 	Line 14412: Rosinha^fi^Maria^N^^
+	Line 2413: 	Line 14424: Rosolio^fi^Reima Ruusupuska^Y^^
+	Line 2414: 	Line 14425: Rosolio^fi^Kaapo^N^^
+	Line 2415: 	Line 14433: Rourke^fi^Komentaja Rourke^Y^^
+	Line 2416: 	Line 14438: Rowena^fi^Rowena^Y^^
+	Line 2417: 	Line 14445: Roxanne^fi^Roxanne^Y^^
+	Line 2418: 	Line 14463: Roz^fi^Raisa^Y^^
+	Line 2419: 	Line 14469: Rudder the sea lion^fi^Ruori^Y^^
+	Line 2420: 	Line 14472: Ruffhouse Rat^fi^Rystys-Rotta^Y^^
+	Line 2421: 	Line 14474: Rufus^fi^Kaljurotta Rufus^Y^^
+	Line 2422: 	Line 14491: Rumpus^fi^Unkka Ankka^Y^^
+	Line 2423: 	Line 14492: Rumpus^fi^Unkka T. Kumiankka^N^^
+	Line 2424: 	Line 14507: Runt of the Litter^fi^Possu Ponneton^Y^^
+	Line 2425: 	Line 14520: Russel^fi^Herra Reponen^Y^^
+	Line 2426: 	Line 14521: Russel^fi^Reiska^N^^
+	Line 2427: 	Line 14526: Russell from Up^fi^Rasmus^Y^^
+	Line 2428: 	Line 14529: Rusty^fi^Rusty^Y^^
+	Line 2429: 	Line 14535: Rutt^fi^Taukki^Y^^
+	Line 2430: 	Line 14541: Ryan Evans^fi^Ryan Evans^Y^^
+	Line 2431: 	Line 14546: Rémy^fi^Remy^Y^^
+	Line 2433: 	Line 14563: SC^fi^Pepi^Y^^
+	Line 2434: 	Line 14564: SC^fi^Hulivili^N^^
+	Line 2435: 	Line 14590: SC's master^fi^Pepin isäntä^Y^^
+	Line 2436: 	Line 14605: SCU^fi^Jeri^Y^^
+	Line 2437: 	Line 14606: SCU^fi^Rankku^N^^
+	Line 2438: 	Line 14607: SCU^fi^Lusku^N^^
+	Line 2439: 	Line 14608: SCU^fi^Huru^N^^
+	Line 2442: 	Line 14627: SCUb^fi^Jeri vauvana^Y^^
+	Line 2444: 	Line 14640: SD^fi^Seitsemän kääpiötä^Y^^
+	Line 2445: 	Line 14665: SG^fi^Superhessu^Y^^
+	Line 2449: 	Line 14696: SHB^fi^Herlokki Solmunen^Y^^
+	Line 2450: 	Line 14710: SIB^fi^Missi, Sissi ja Ninni^Y^^
+	Line 2453: 	Line 14721: SIB1^fi^Yksi Pepin sisaruksista^Y^^
+	Line 2454: 	Line 14730: SIB2^fi^Kaksi Pepin sisaruksista^Y^^
+	Line 2455: 	Line 14740: SPG^fi^Elmo Hopo^Y^^
+	Line 2456: 	Line 14741: SPG^fi^Sportti^N^^
+	Line 2457: 	Line 14754: SS^fi^Hassunkuriset sinfoniat^Y^^
+	Line 2458: 	Line 14767: SW^fi^Lumikki^Y^^
+	Line 2459: 	Line 14793: Sagola^fi^Tonttula^Y^^
+	Line 2460: 	Line 14800: Sal^fi^Ippa^Y^^
+	Line 2461: 	Line 14802: Saladin Slade^fi^Kimmo Kiero^Y^^
+	Line 2462: 	Line 14803: Salip^fi^Putsi^Y^^
+	Line 2463: 	Line 14806: Sally Carrera^fi^Salli^Y^^
+	Line 2464: 	Line 14809: Salty^fi^Vekku^Y^^
+	Line 2465: 	Line 14816: Sam Plot^fi^Aaro Tavaus^Y^^
+	Line 2466: 	Line 14834: Sam from Riverside Rovers^fi^Tuupo^Y^^
+	Line 2467: 	Line 14848: Samson the horse^fi^Simson^Y^^
+	Line 2468: 	Line 14849: Samson the horse^fi^Simpson^N^^
+	Line 2469: 	Line 14857: Samuel J. Snout^fi^Armas Pösö^Y^^
+	Line 2470: 	Line 14864: Santa Claus^fi^Joulupukki^Y^^
+	Line 2471: 	Line 14879: Sara Fox^fi^Saara Kettu^Y^^
+	Line 2472: 	Line 14883: Sarabi^fi^Sarabi^Y^^
+	Line 2473: 	Line 14892: Sarah from Treasure Planet^fi^Sarah Hawkins^Y^^
+	Line 2474: 	Line 14895: Sarge^fi^Kessu^Y^^
+	Line 2475: 	Line 14905: Satana^fi^Saatana^Y^^
+	Line 2476: 	Line 14906: Satana^fi^Paholainen^N^^
+	Line 2477: 	Line 14911: Savana Joe^fi^Aavikko-Aki^Y^^
+	Line 2478: 	Line 14916: Scar^fi^Scar^Y^^
+	Line 2479: 	Line 14937: Sceriffo Marble^fi^Sheriffi Urhola^Y^^
+	Line 2480: 	Line 14937: Sceriffo Marble^fi^Sheriffi Urhola^Y^^
+	Line 2481: 	Line 14950: Scottie^fi^Skotti MacTerrier^Y^^
+	Line 2482: 	Line 14959: Scroop^fi^Scroop^Y^^
+	Line 2483: 	Line 14965: Seafoam McDuck^fi^Julius "Vaahtopää" McAnkka^Y^^
+	Line 2484: 	Line 14966: Seafoam McDuck^fi^Julius MacAnkka^N^^
+	Line 2485: 	Line 14977: Seagull^fi^Kapteeni Tyrsky^Y^^
+	Line 2486: 	Line 14981: Sean LeDuck^fi^Sean LeDuck^Y^^
+	Line 2487: 	Line 14986: Sean from W.I.T.C.H.^fi^Sean^Y^^
+	Line 2488: 	Line 14993: Sebastian^fi^Sebastian^Y^^
+	Line 2489: 	Line 15004: Senhor Del Orta^fi^Herra Del Orto^Y^^
+	Line 2490: 	Line 15006: Sentinel^fi^Kaappinen^Y^^
+	Line 2491: 	Line 15011: Sentinelle^fi^Augustus Ankan sotilaat^Y^^
+	Line 2492: 	Line 15014: Sergeant Calhoun^fi^Kersantti Tamora Jean Calhoun^Y^^
+	Line 2493: 	Line 15017: Seth Salem^fi^Seth Salem^Y^^
+	Line 2494: 	Line 15022: Señor Senior Jr.^fi^Senior Seniori Juniori^Y^^
+	Line 2495: 	Line 15026: Señor Senior Sr.^fi^Senior Seniori Seniori^Y^^
+	Line 2497: 	Line 15040: Sganga^fi^Kuuno Kaakkuri^Y^^
+	Line 2498: 	Line 15041: Sganga^fi^Jaakko^N^^
+	Line 2499: 	Line 15042: Sganga^fi^Kaarlo Kiemu^N^^
+	Line 2500: 	Line 15043: Sganga^fi^Nikke Näykkä^N^^
+	Line 2501: 	Line 15044: Sganga^fi^Reima Rähmä^N^^
+	Line 2502: 	Line 15045: Sganga^fi^Kuuno Kaaperi^N^^
+	Line 2503: 	Line 15046: Sganga^fi^Jaakko Kääkkänen^N^^
+	Line 2504: 	Line 15047: Sganga^fi^Reima Hanhi^N^^
+	Line 2505: 	Line 15048: Sganga^fi^Rieto^N^^
+	Line 2513: 	Line 15069: Sgrizzo^fi^Into Ankka^Y^^
+	Line 2514: 	Line 15070: Sgrizzo^fi^Kummo Ankka^N^^
+	Line 2515: 	Line 15071: Sgrizzo^fi^Toope Ankka^N^^
+	Line 2517: 	Line 15086: Sgt. Tibs^fi^Kersantti Tipsu^Y^^
+	Line 2518: 	Line 15090: Shagon^fi^Shagon^Y^^
+	Line 2519: 	Line 15107: Sharky^fi^Kalle Kepuli^Y^^
+	Line 2520: 	Line 15115: Sharpay Evans^fi^Sharpay Evans^Y^^
+	Line 2521: 	Line 15118: Shego^fi^Shego^Y^^
+	Line 2522: 	Line 15122: Sheila Jensen^fi^Sheila Jensen^Y^^
+	Line 2523: 	Line 15128: Shenzi^fi^Shenzi^Y^^
+	Line 2524: 	Line 15131: Shep^fi^Musti^Y^^
+	Line 2525: 	Line 15136: Shere Khan^fi^Shere Khan^Y^^
+	Line 2526: 	Line 15152: Sheriff from Cars^fi^Sheriffi^Y^^
+	Line 2527: 	Line 15152: Sheriff from Cars^fi^Sheriffi^Y^^
+	Line 2528: 	Line 15155: Sheriff of Junkville^fi^Jätelän šeriffi^Y^^
+	Line 2529: 	Line 15155: Sheriff of Junkville^fi^Jätelän šeriffi^Y^^
+	Line 2530: 	Line 15159: Sheriff of Nottingham^fi^Nottinghamin sheriffi^Y^^
+	Line 2531: 	Line 15159: Sheriff of Nottingham^fi^Nottinghamin sheriffi^Y^^
+	Line 2532: 	Line 15171: Shinobu^fi^Shinobu^Y^^
+	Line 2533: 	Line 15182: Shrimp^fi^Ruma-Rollo^Y^^
+	Line 2534: 	Line 15183: Shrimp^fi^Räpelö^N^^
+	Line 2535: 	Line 15184: Shrimp^fi^Katkis^N^^
+	Line 2536: 	Line 15185: Shrimp^fi^Ransu Jallitus^N^^
+	Line 2537: 	Line 15193: Shyster^fi^Samu Suutari^Y^^
+	Line 2538: 	Line 15194: Shyster^fi^Sulho Suutari^N^^
+	Line 2539: 	Line 15195: Shyster^fi^Luihu-Linssi^N^^
+	Line 2540: 	Line 15215: Si Bumpkin^fi^Aimo Heinähattu^Y^^
+	Line 2541: 	Line 15216: Si Bumpkin^fi^Muriston isäntä^N^^
+	Line 2542: 	Line 15223: Si and Am^fi^Si ja Am^Y^^
+	Line 2545: 	Line 15244: Sieb Sik^fi^Viri^Y^^
+	Line 2546: 	Line 15247: Siff^fi^Sohvi^Y^^
+	Line 2548: 	Line 15252: Signora Plow^fi^Rouva Hallikainen^Y^^
+	Line 2549: 	Line 15253: Signora Plow^fi^Neiti Liitu^N^^
+	Line 2550: 	Line 15255: Silia^fi^Silia^Y^^
+	Line 2551: 	Line 15262: Silky^fi^Siru^Y^^
+	Line 2552: 	Line 15263: Silky^fi^Silkki^N^^
+	Line 2553: 	Line 15272: Sindaco Persis^fi^Pormestari Piirivirta^Y^^
+	Line 2554: 	Line 15273: Sindaco di Duckport^fi^Pormestari Ankportin tarinoissa^Y^^
+	Line 2555: 	Line 15277: Sindaco di Quack Town^fi^Pormestari Pikku-Aku-tarinoissa^Y^^
+	Line 2556: 	Line 15283: Sinterklaas^fi^Sinterklaas^Y^^
+	Line 2557: 	Line 15289: Sir Brian^fi^Ritari Yrjänä^Y^^
+	Line 2558: 	Line 15295: Sir Brian's dragon^fi^Louho^Y^^
+	Line 2559: 	Line 15304: Sir Eider McDuck^fi^Sir Rahakas McAnkka^Y^^
+	Line 2560: 	Line 15305: Sir Eider McDuck^fi^Sir Rahakas^N^fi/DR2007-1p102^
+	Line 2561: 	Line 15305: Sir Eider McDuck^fi^Sir Rahakas^N^fi/DR2007-1p102^
+	Line 2562: 	Line 15306: Sir Eider McDuck^fi^Ritari Kananjalka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2563: 	Line 15306: Sir Eider McDuck^fi^Ritari Kananjalka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2564: 	Line 15306: Sir Eider McDuck^fi^Ritari Kananjalka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2565: 	Line 15306: Sir Eider McDuck^fi^Ritari Kananjalka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2566: 	Line 15316: Sir Francis Drake^fi^Sir Francis Drake^Y^^
+	Line 2567: 	Line 15317: Sir Francis Drake^fi^El Draque^N^^
+	Line 2568: 	Line 15326: Sir Hiss^fi^Herra Hiss^Y^^
+	Line 2569: 	Line 15340: Sir Quackly McDuck^fi^Sir Rikhard Ankanmieli McAnkka^Y^^
+	Line 2570: 	Line 15341: Sir Quackly McDuck^fi^Sir Kääkkä MacAnkka^N^^
+	Line 2571: 	Line 15357: Sir Roast McDuck^fi^Sir Mahakas McAnkka^Y^^
+	Line 2572: 	Line 15358: Sir Roast McDuck^fi^Sir Mahakas MacAnkka^N^^
+	Line 2573: 	Line 15367: Sir Simpy^fi^Sir Kurjimus^Y^^
+	Line 2574: 	Line 15374: Sir Stuft McDuck^fi^Sir Kananjalka McAnkka^Y^^
+	Line 2575: 	Line 15375: Sir Stuft McDuck^fi^Sir Rahakas MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2576: 	Line 15375: Sir Stuft McDuck^fi^Sir Rahakas MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2577: 	Line 15375: Sir Stuft McDuck^fi^Sir Rahakas MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2578: 	Line 15375: Sir Stuft McDuck^fi^Sir Rahakas MacAnkka^N^fi/DR2007-1p137; fi/AA1999-30; fi/AATK168^
+	Line 2579: 	Line 15389: Sir Swamphole McDuck^fi^Sir Ohrapää McAnkka^Y^^
+	Line 2580: 	Line 15390: Sir Swamphole McDuck^fi^Lordi Ohrapää^N^fi/DR2007-1p102^
+	Line 2581: 	Line 15390: Sir Swamphole McDuck^fi^Lordi Ohrapää^N^fi/DR2007-1p102^
+	Line 2582: 	Line 15391: Sir Swamphole McDuck^fi^Joonas MacAnkka^N^fi/DR2007-1p137^
+	Line 2583: 	Line 15391: Sir Swamphole McDuck^fi^Joonas MacAnkka^N^fi/DR2007-1p137^
+	Line 2584: 	Line 15392: Sir Swamphole McDuck^fi^Junnu MacAnkka^N^fi/AATK168^
+	Line 2585: 	Line 15392: Sir Swamphole McDuck^fi^Junnu MacAnkka^N^fi/AATK168^
+	Line 2586: 	Line 15402: Sir Tuxford^fi^Reima-herra^Y^^
+	Line 2588: 	Line 15413: Sirius McChance^fi^Sirius Karsten^Y^^
+	Line 2589: 	Line 15417: Sis Goose^fi^Hanna^Y^^
+	Line 2590: 	Line 15418: Sis Goose^fi^Heta Hanhi^N^^
+	Line 2591: 	Line 15422: Sis Owl^fi^Pöllö Pyylevä^Y^^
+	Line 2592: 	Line 15427: Sitka^fi^Sitka^Y^^
+	Line 2593: 	Line 15432: Skag^fi^Skäk^Y^^
+	Line 2594: 	Line 15443: Skeptics Club^fi^Epäilijöiden klubi^Y^^
+	Line 2595: 	Line 15444: Skeptics Club^fi^Epäilijöiden kerho^N^^
+	Line 2596: 	Line 15453: Skinner^fi^Skinner^Y^^
+	Line 2597: 	Line 15459: Skippy^fi^Jussi^Y^^
+	Line 2598: 	Line 15477: Sleeping Beauty^fi^Prinsessa Ruusunen^Y^^
+	Line 2599: 	Line 15478: Sleeping Beauty^fi^Aurora^N^^
+	Line 2600: 	Line 15497: Sleepy^fi^Unelias^Y^^
+	Line 2601: 	Line 15525: Slinky Dog^fi^Slinky^Y^^
+	Line 2602: 	Line 15530: Sluggy^fi^Misu^Y^^
+	Line 2603: 	Line 15534: Sly^fi^Tepi^Y^^
+	Line 2604: 	Line 15544: Sly K. Switcheroo^fi^Vilppu Vipuvaara^Y^^
+	Line 2605: 	Line 15545: Sly K. Switcheroo^fi^Kasperi Ketkunkerä^N^^
+	Line 2606: 	Line 15546: Sly K. Switcheroo^fi^Tilli Tiirikka^N^^
+	Line 2607: 	Line 15553: Slye McDuck^fi^Tod MacAnkka^Y^^
+	Line 2608: 	Line 15564: Smee^fi^Simo^Y^^
+	Line 2609: 	Line 15576: Smoky^fi^Sauhu^Y^^
+	Line 2611: 	Line 15583: Smorgasbord^fi^Rosolli Retku^Y^^
+	Line 2612: 	Line 15589: Snappy^fi^Rousku^Y^^
+	Line 2613: 	Line 15592: Snark^fi^Snark^Y^^
+	Line 2614: 	Line 15600: Sneezy^fi^Nuhanenä^Y^^
+	Line 2615: 	Line 15601: Sneezy^fi^Tikke^N^^
+	Line 2616: 	Line 15614: Snidely^fi^Häijylä^Y^^
+	Line 2617: 	Line 15617: Sniffer^fi^Nuuksu^Y^^
+	Line 2618: 	Line 15623: Sniffles^fi^Nuuhku^Y^^
+	Line 2619: 	Line 15631: Snoop Muggins^fi^Kukka Huiska^Y^^
+	Line 2620: 	Line 15635: Snoops^fi^Nuppi^Y^^
+	Line 2621: 	Line 15641: Snort^fi^Kärsämö^Y^^
+	Line 2622: 	Line 15647: Snout^fi^Rällä^Y^^
+	Line 2623: 	Line 15654: Soapy Slick^fi^P.J. Petkunterä (Klondike-tarinoissa)^Y^^
+	Line 2624: 	Line 15655: Soapy Slick^fi^Pontus Jacobert Petkunterä^N^^
+	Line 2625: 	Line 15669: Società delle Lepri Viola^fi^Purppurapupuiittojen veljeskunta^Y^^
+	Line 2626: 	Line 15670: Società delle Lepri Viola^fi^Purppuraisten pupuiittojen veljeskunta^N^^
+	Line 2627: 	Line 15677: Socrates^fi^Nyrkki^Y^^
+	Line 2628: 	Line 15678: Socrates^fi^Kauno^N^^
+	Line 2629: 	Line 15690: Sonny Mitchell^fi^Sonny Mitchell^Y^^
+	Line 2630: 	Line 15699: Sonny Seagull^fi^Lauri Lokki^Y^^
+	Line 2632: 	Line 15714: Soop^fi^Laimi^Y^^
+	Line 2633: 	Line 15729: Sparks^fi^Välkky^Y^^
+	Line 2634: 	Line 15736: Spectrus^fi^Spektro^Y^^
+	Line 2635: 	Line 15737: Spectrus^fi^Spektri^N^^
+	Line 2636: 	Line 15738: Spectrus^fi^Herra Hypno^N^^
+	Line 2637: 	Line 15746: Speedy the dachshund^fi^Tiksi^Y^^
+	Line 2638: 	Line 15757: Spike from Riverside Rovers^fi^Samuli^Y^^
+	Line 2639: 	Line 15771: Spinelli^fi^Spinelli^Y^^
+	Line 2640: 	Line 15772: Spinelli^fi^Ashley Funnicelo Spinelli^N^^
+	Line 2641: 	Line 15773: Spinner^fi^Spinner^Y^^
+	Line 2646: 	Line 15779: Spitfire^fi^Rapsu^Y^^
+	Line 2647: 	Line 15779: Spitfire^fi^Rapsu^Y^^
+	Line 2658: 	Line 15787: Spitfire from Dragonlords^fi^Leisku^Y^^
+	Line 2659: 	Line 15787: Spitfire from Dragonlords^fi^Leisku^Y^^
+	Line 2663: 	Line 15796: Spooks^fi^Hiisi^Y^^
+	Line 2664: 	Line 15797: Spooks^fi^Noita^N^^
+	Line 2665: 	Line 15798: Spooks^fi^Pompo^N^^
+	Line 2666: 	Line 15799: Spooks^fi^Elmo^N^^
+	Line 2667: 	Line 15820: Spotty^fi^Ripa^Y^^
+	Line 2668: 	Line 15821: Spotty^fi^Laikku^N^^
+	Line 2669: 	Line 15832: Spotty Pig^fi^Pilkku^Y^^
+	Line 2670: 	Line 15841: Squeeky^fi^Piipi^Y^^
+	Line 2671: 	Line 15851: Squinch^fi^Salomo^Y^^
+	Line 2672: 	Line 15852: Squinch^fi^Set Salomo^N^^
+	Line 2673: 	Line 15867: Squire Cawker^fi^Herra Ärmätti^Y^^
+	Line 2674: 	Line 15872: Squirt^fi^Tyrsky^Y^^
+	Line 2675: 	Line 15878: Stacey^fi^Stacey^Y^^
+	Line 2676: 	Line 15882: Stan Passatelli^fi^Stan Passatelli^Y^^
+	Line 2677: 	Line 15890: Static^fi^Tohtori Staattinen^Y^^
+	Line 2679: 	Line 15907: Steamboat^fi^Höyryjyrä^Y^^
+	Line 2680: 	Line 15908: Steamboat^fi^Höyrylaiva^N^^
+	Line 2681: 	Line 15909: Steamboat^fi^Raikuli^N^^
+	Line 2682: 	Line 15923: Stella Curfew^fi^Jaana Kapula^Y^^
+	Line 2683: 	Line 15932: Stephen^fi^Stephen^Y^^
+	Line 2684: 	Line 15935: Stepmother^fi^Tuhkimon äitipuoli^Y^^
+	Line 2685: 	Line 15946: Stepsisters^fi^Tuhkimon sisarpuolet^Y^^
+	Line 2686: 	Line 15961: Stitch^fi^Stitch^Y^^
+	Line 2688: 	Line 15985: Stretch from Toy Story^fi^Turski^Y^^
+	Line 2689: 	Line 15990: Strip Weathers^fi^"Kunkku" Strip Weathers^Y^^
+	Line 2690: 	Line 15999: Stromboli^fi^Stromboli^Y^^
+	Line 2691: 	Line 16000: Stromboli^fi^Rötkö^N^^
+	Line 2692: 	Line 16012: Styvesant^fi^Timeon Ayastin^Y^^
+	Line 2693: 	Line 16021: Sulley^fi^Tarmo "Tare" Karvanen^Y^^
+	Line 2694: 	Line 16036: Sultan^fi^Sulttaani^Y^^
+	Line 2695: 	Line 16045: Sun^fi^Sun^Y^^
+	Line 2696: 	Line 16054: Sunflower^fi^Auringonkukka^Y^^
+	Line 2698: 	Line 16068: Sunni^fi^Sanni^Y^^
+	Line 2704: 	Line 16088: Super Gilly^fi^Superpelle^Y^^
+	Line 2705: 	Line 16102: Super Thief^fi^Tohtori Harha^Y^^
+	Line 2706: 	Line 16103: Super Thief^fi^Dosentti Ilkimö^N^^
+	Line 2707: 	Line 16109: Supersensitive-666^fi^Liikaherkkä-666^Y^^
+	Line 2708: 	Line 16115: Suri^fi^Suri^Y^^
+	Line 2709: 	Line 16119: Susan Vandom^fi^Susan Vandom^Y^^
+	Line 2710: 	Line 16126: Susanna^fi^Susanna^Y^^
+	Line 2711: 	Line 16130: Sven^fi^Sven^Y^^
+	Line 2712: 	Line 16133: Swedish Chef^fi^Ruotsalainen kokki^Y^^
+	Line 2713: 	Line 16148: Syndrome^fi^Syndrooma^Y^^
+	Line 2714: 	Line 16162: TB^fi^Heli-keiju^Y^^
+	Line 2715: 	Line 16163: TB^fi^Helinä-keiju^N^^
+	Line 2716: 	Line 16189: THU^fi^Rumpali^Y^^
+	Line 2717: 	Line 16190: THU^fi^Thumper^N^^
+	Line 2719: 	Line 16204: TLA^fi^Ihmeellinen luonto^Y^^
+	Line 2720: 	Line 16205: TLA^fi^Disneyn tietämää^N^^
+	Line 2721: 	Line 16220: TLK^fi^Simba^Y^^
+	Line 2722: 	Line 16240: TLM^fi^Ariel^Y^^
+	Line 2723: 	Line 16260: TLM Scuttle^fi^Joonas^Y^^
+	Line 2724: 	Line 16273: TLP^fi^Kolme pientä porsasta^Y^^
+	Line 2725: 	Line 16296: Tabby^fi^Kisumisu^Y^^
+	Line 2726: 	Line 16297: Tabby^fi^Maaru^N^^
+	Line 2728: 	Line 16318: Tad the butterflyfish^fi^Tatu^Y^^
+	Line 2729: 	Line 16318: Tad the butterflyfish^fi^Tatu^Y^^
+	Line 2730: 	Line 16319: Tadashi Hamada^fi^Tadashi Hamada^Y^^
+	Line 2731: 	Line 16321: Takeda^fi^Takeda^Y^^
+	Line 2732: 	Line 16328: Talespin^fi^Pilipalipilotit^Y^^
+	Line 2733: 	Line 16340: Talking dog from WDC 152^fi^Puhuva koira^Y^^
+	Line 2735: 	Line 16346: Talos^fi^Kenkkunen^Y^^
+	Line 2736: 	Line 16352: Tanana^fi^Tanana^Y^^
+	Line 2737: 	Line 16355: Tangled^fi^Kaksin karkuteillä^Y^^
+	Line 2738: 	Line 16356: Tangled: The Series^fi^Kaksin karkuteillä^Y^^
+	Line 2739: 	Line 16361: Tanglefoot^fi^Luuskakoipi^Y^^
+	Line 2741: 	Line 16393: Taran^fi^Taran^Y^^
+	Line 2742: 	Line 16404: Taranee^fi^Taranee Cook^Y^^
+	Line 2743: 	Line 16414: Taratoa^fi^Kapteeni Apteryx^Y^^
+	Line 2744: 	Line 16426: Tarzan^fi^Tarzan^Y^^
+	Line 2745: 	Line 16442: Taylor McKessie^fi^Taylor McKessie^Y^^
+	Line 2746: 	Line 16449: Tecla Ibsen^fi^Tecla Ibsen^Y^^
+	Line 2747: 	Line 16463: Tempolizia^fi^Aikapoliisi^Y^^
+	Line 2748: 	Line 16472: Terence^fi^Terence^Y^^
+	Line 2749: 	Line 16490: Terries and Fermies^fi^Kamaraiset ja Tantereiset^Y^^
+	Line 2750: 	Line 16491: Terries and Fermies^fi^Maalaiset ja Lujalaiset^N^^
+	Line 2751: 	Line 16501: Terry the pup^fi^Terri^Y^^
+	Line 2752: 	Line 16508: Tessie^fi^Tessi-täti^Y^^
+	Line 2753: 	Line 16509: Tessie^fi^Helmi-täti^N^^
+	Line 2754: 	Line 16510: Tessie^fi^Hopoliina-täti^N^^
+	Line 2755: 	Line 16511: Tessie^fi^Hölinä-täti^N^^
+	Line 2756: 	Line 16512: Tessie^fi^Miisa-täti^N^^
+	Line 2757: 	Line 16523: Thaddeus Thatch^fi^Thaddeus Thatch^Y^^
+	Line 2758: 	Line 16527: The Big Ape^fi^Isä-Apina^Y^^
+	Line 2759: 	Line 16554: The Fox and the Hound^fi^Topi ja Tessu^Y^^
+	Line 2760: 	Line 16563: The Gleam^fi^Välähdys^Y^^
+	Line 2761: 	Line 16564: The Gleam^fi^Välkky^N^^
+	Line 2762: 	Line 16565: The Gleam^fi^Julius Hiironen^N^^
+	Line 2763: 	Line 16566: The Gleam^fi^Julius Hiiristö^N^^
+	Line 2764: 	Line 16571: The Grand Vizier^fi^Suurvisiiri^Y^^
+	Line 2765: 	Line 16576: The Green Army Men^fi^Lelusotilaat^Y^^
+	Line 2766: 	Line 16579: The Incredibles^fi^Ihmeperhe^Y^^
+	Line 2767: 	Line 16594: The Little Ape^fi^Pikku-Apina^Y^^
+	Line 2768: 	Line 16600: The Lost Boys^fi^Kadonneet pojat^Y^^
+	Line 2769: 	Line 16609: The Muppet Show^fi^Muppetit^Y^^
+	Line 2770: 	Line 16610: The Old Emperor^fi^Shamborin vanha kuningas^Y^^
+	Line 2771: 	Line 16614: The Phantom of Notre Duck^fi^Notre Ankan huilunsoittaja^Y^^
+	Line 2772: 	Line 16615: The Phantom of Notre Duck^fi^Kirkontornin huilunsoittaja^N^^
+	Line 2773: 	Line 16618: The Prophet^fi^Vanha mies rannalla^Y^^
+	Line 2774: 	Line 16619: The Prophet^fi^Profeetta^N^^
+	Line 2775: 	Line 16625: The Replacements^fi^Vaihdokit^Y^^
+	Line 2776: 	Line 16630: The Rescuers^fi^Pelastuspartio Bernard ja Bianca^Y^^
+	Line 2777: 	Line 16647: The Smugsnorkle Squattie^fi^Hurtta III Henkevä^Y^^
+	Line 2778: 	Line 16649: The Stabbington Brothers^fi^Kelmilän veljekset^Y^^
+	Line 2779: 	Line 16654: The Underminer^fi^Raivaaja^Y^^
+	Line 2780: 	Line 16660: The Wrecking Crew^fi^Kovat kundit^Y^^
+	Line 2781: 	Line 16661: The Wrecking Crew^fi^Jerri, Erppa, Nipsu ja Kapu^N^^
+	Line 2782: 	Line 16669: The unicorn^fi^Yksisarvinen^Y^^
+	Line 2783: 	Line 16679: Theodore Roosevelt^fi^Theodore Roosevelt^Y^^
+	Line 2784: 	Line 16692: Theresa Cook^fi^Theresa Cook^Y^^
+	Line 2785: 	Line 16699: Thomas Duckis^fi^Turo Vankkanen^Y^^
+	Line 2786: 	Line 16700: Thomas Duckis^fi^Professori Valto Vahvero^N^^
+	Line 2787: 	Line 16701: Thomas Duckis^fi^Professori Kaapo Ankka^N^^
+	Line 2788: 	Line 16703: Thomas Vandom^fi^Thomas Vandom^Y^^
+	Line 2789: 	Line 16706: Thornenclaw^fi^Velho Kolho^Y^^
+	Line 2790: 	Line 16713: Three little wolves^fi^Kolme pientä sutta^Y^^
+	Line 2794: 	Line 16718: Thumper's mother^fi^Rumpalin äiti^Y^^
+	Line 2795: 	Line 16719: Thumper's siblings^fi^Rumpalin sisaret^Y^^
+	Line 2796: 	Line 16721: Thunderbird^fi^Ukkoslintu^Y^^
+	Line 2797: 	Line 16730: Thursday^fi^Torstai^Y^^
+	Line 2798: 	Line 16740: Tia Dalma^fi^Tia Dalma^Y^^
+	Line 2799: 	Line 16746: Tiana from Princess and the Frog^fi^Tiana^Y^^
+	Line 2800: 	Line 16749: Tibor^fi^Tibor^Y^^
+	Line 2801: 	Line 16755: Tiburzio^fi^Aapo^Y^^
+	Line 2802: 	Line 16756: Tiburzio^fi^Tiberius^N^^
+	Line 2803: 	Line 16757: Tiburzio^fi^Uuno^N^^
+	Line 2804: 	Line 16758: Tiburzio^fi^Harmo^N^^
+	Line 2805: 	Line 16759: Tiburzio^fi^Tommo^N^^
+	Line 2806: 	Line 16766: Tic and Tac^fi^Pim ja Pam^Y^^
+	Line 2807: 	Line 16771: Tick Tock Croc^fi^Kroko^Y^^
+	Line 2808: 	Line 16772: Tick Tock Croc^fi^Tik-Tak^N^^
+	Line 2809: 	Line 16781: Tiger Lily^fi^Tiikerililja^Y^^
+	Line 2810: 	Line 16796: Tigger^fi^Tiikeri^Y^^
+	Line 2811: 	Line 16812: Tillie Tiger^fi^Ella^Y^^
+	Line 2812: 	Line 16813: Tillie Tiger^fi^Tilta Tiikeri^N^^
+	Line 2813: 	Line 16814: Tillie Tiger^fi^Miru^N^^
+	Line 2814: 	Line 16818: Tim Possible^fi^Tim Possible^Y^^
+	Line 2815: 	Line 16823: Timeboy^fi^Aikapoika^Y^^
+	Line 2816: 	Line 16828: Timidthy^fi^Täplä^Y^^
+	Line 2817: 	Line 16834: Timon^fi^Timon^Y^^
+	Line 2818: 	Line 16847: Timoteo Piccione^fi^Lauri Lörppönen^Y^^
+	Line 2819: 	Line 16856: Timothy^fi^Timotei^Y^^
+	Line 2820: 	Line 16867: Timothy Shoebuckle^fi^Timi Kengänsolki^Y^^
+	Line 2821: 	Line 16870: Tina^fi^Tiina Tähtinen^Y^^
+	Line 2822: 	Line 16876: Tiny from YM^fi^Pikkuli^Y^^
+	Line 2824: 	Line 16884: Tiny the dog^fi^Nappula^Y^^
+	Line 2825: 	Line 16895: Tipo^fi^Tipo^Y^^
+	Line 2826: 	Line 16904: Titanio^fi^Kenraali Titaani^Y^^
+	Line 2827: 	Line 16913: Tito^fi^Tito^Y^^
+	Line 2828: 	Line 16934: Toby Tortoise^fi^Topi Turteli^Y^^
+	Line 2829: 	Line 16941: Toby from BFB^fi^Topi^Y^^
+	Line 2830: 	Line 16942: Toby from BFB^fi^Toby^N^^
+	Line 2831: 	Line 16951: Tod^fi^Topi^Y^^
+	Line 2832: 	Line 16962: Todd^fi^Todd Urho^Y^^
+	Line 2833: 	Line 16964: Toddi Ghigno^fi^Tommi^Y^^
+	Line 2834: 	Line 16965: Toddi Ghigno^fi^Agentti Tupla-Äffä^N^^
+	Line 2835: 	Line 16966: Toddi Ghigno^fi^Kalle^N^^
+	Line 2836: 	Line 16973: Tom^fi^Karo Kaakkuri^Y^^
+	Line 2837: 	Line 16974: Tom^fi^Kimmo Kiljuhanhi^N^^
+	Line 2838: 	Line 16975: Tom^fi^Pate^N^^
+	Line 2839: 	Line 16976: Tom^fi^Paavo^N^^
+	Line 2840: 	Line 16990: Tom Lair^fi^Tom Lair^Y^^
+	Line 2841: 	Line 16995: Tommy Duckis^fi^Taneli Vankkanen^Y^^
+	Line 2842: 	Line 16996: Tommy Duckis^fi^Tommi^N^^
+	Line 2843: 	Line 17003: Tony Dinero^fi^Toni Tunari^Y^^
+	Line 2845: 	Line 17006: Tony Marino^fi^Tony Marino^Y^^
+	Line 2846: 	Line 17025: Topalbano^fi^Komisario Salvo Hiiralbano^Y^^
+	Line 2847: 	Line 17032: Topolinda^fi^Linda-täti^Y^^
+	Line 2848: 	Line 17033: Topolinda^fi^Linda Hiirelä^N^^
+	Line 2849: 	Line 17034: Topolinda^fi^Neiti Hiirelä^N^^
+	Line 2850: 	Line 17042: Toppersby^fi^Toppersby^Y^^
+	Line 2851: 	Line 17043: Toppersby^fi^H. B. Toppersby^N^^
+	Line 2852: 	Line 17051: Toshiro Tanaka^fi^Toshiro Tanaka^Y^^
+	Line 2853: 	Line 17057: Toulouse^fi^Toulouse^Y^^
+	Line 2854: 	Line 17066: Toy Story^fi^Toy Story^Y^^
+	Line 2855: 	Line 17076: Toy Story 2^fi^Toy Story 2^Y^^
+	Line 2856: 	Line 17081: Toy Story 3^fi^Toy Story 3^Y^^
+	Line 2857: 	Line 17091: Tramp^fi^Kulkuri^Y^^
+	Line 2858: 	Line 17108: Trauma^fi^Trauma^Y^^
+	Line 2859: 	Line 17114: Treasure Planet^fi^Aarreplaneetta^Y^^
+	Line 2860: 	Line 17117: Tridarco^fi^Tridarco^Y^^
+	Line 2861: 	Line 17122: Trigger^fi^Törppö^Y^^
+	Line 2863: 	Line 17131: Trigger Hawkes^fi^Jarru Haukka^Y^^
+	Line 2865: 	Line 17142: Trip^fi^Trip^Y^^
+	Line 2866: 	Line 17149: Triplex^fi^Tripleks^Y^^
+	Line 2867: 	Line 17150: Triplex^fi^Triplex^N^^
+	Line 2868: 	Line 17164: Trippa^fi^Massu^Y^^
+	Line 2869: 	Line 17170: Trixie^fi^Triksi^Y^^
+	Line 2870: 	Line 17172: Trizompa^fi^Hirmuhyppääjä Josi Julma^Y^^
+	Line 2871: 	Line 17173: Trizompa^fi^Ähmed Ärripurri^N^^
+	Line 2872: 	Line 17174: Trolls from Frozen^fi^Peikot^Y^^
+	Line 2873: 	Line 17179: Troy Bolton^fi^Troy Bolton^Y^^
+	Line 2874: 	Line 17188: Trudy^fi^Hertta^Y^^
+	Line 2875: 	Line 17189: Trudy^fi^Emma^N^^
+	Line 2876: 	Line 17190: Trudy^fi^Tytteli^N^^
+	Line 2877: 	Line 17205: Truz^fi^Taisto^Y^^
+	Line 2878: 	Line 17206: Truz^fi^Herra Kemppi^N^^
+	Line 2879: 	Line 17208: Tsjang^fi^Tsang^Y^^
+	Line 2880: 	Line 17209: Tsjang^fi^Huang^N^^
+	Line 2881: 	Line 17215: Tuba Mascherata^fi^Supersilinteri^Y^^
+	Line 2882: 	Line 17226: Tuck from Paperino Paperotto^fi^Pate^Y^^
+	Line 2883: 	Line 17229: Tuffy^fi^Napo^Y^^
+	Line 2884: 	Line 17233: Tuffy Tiger^fi^Karski^Y^^
+	Line 2885: 	Line 17234: Tuffy Tiger^fi^Timo Tiikeri^N^^
+	Line 2886: 	Line 17239: Tug^fi^Takku^Y^^
+	Line 2887: 	Line 17245: Tuke^fi^Tsoukki^Y^^
+	Line 2889: 	Line 17264: Turkey Lurkey^fi^Tolkku Kalkkuna^Y^^
+	Line 2890: 	Line 17278: Tweedle Dum and Tweedle Dee^fi^Tittelitom & Tittelityy^Y^^
+	Line 2891: 	Line 17285: Twin Boys^fi^Kauhukaksoset Tim ja Tom^Y^^
+	Line 2892: 	Line 17288: Twitch from Toy Story^fi^Sätky^Y^^
+	Line 2893: 	Line 17290: Two-Fold Witch^fi^Kaksinkertainen noita^Y^^
+	Line 2894: 	Line 17294: Tycoon^fi^Kroisos Kehupää^Y^^
+	Line 2895: 	Line 17324: US^fi^Roope-setä^Y^^
+	Line 2896: 	Line 17325: US^fi^Roope Ankka^N^^
+	Line 2897: 	Line 17326: US^fi^Roope McAnkka^N^^
+	Line 2898: 	Line 17386: Ub Iwerks^fi^Ub Iwerks^Y^^
+	Line 2899: 	Line 17390: Ugly Duckling^fi^Ruma ankanpoikanen^Y^^
+	Line 2900: 	Line 17398: Uma^fi^Uma^Y^^
+	Line 2901: 	Line 17410: Uncle Albert^fi^Albert-setä^Y^^
+	Line 2902: 	Line 17414: Uncle Boomer^fi^Ekku-setä^Y^^
+	Line 2904: 	Line 17420: Uncle Euclid^fi^Leo-setä^Y^^
+	Line 2905: 	Line 17421: Uncle Euclid^fi^Tunari-setä^N^^
+	Line 2914: 	Line 17441: Uncle Jeremy^fi^Jeremias-setä^Y^^
+	Line 2915: 	Line 17448: Uncle Mortimer^fi^Mortimer-setä^Y^^
+	Line 2916: 	Line 17449: Uncle Mortimer^fi^Mortimer Hiiri^N^^
+	Line 2917: 	Line 17460: Uncle Ophal Dizzy^fi^Hiski Hopo^Y^^
+	Line 2918: 	Line 17461: Uncle Ophal Dizzy^fi^Hiski-setä^N^^
+	Line 2919: 	Line 17469: Uncle Remus^fi^Remus-setä^Y^^
+	Line 2920: 	Line 17470: Uncle Remus^fi^Setä Remus^N^^
+	Line 2921: 	Line 17490: Uncle Zero^fi^Nolla-setä^Y^^
+	Line 2922: 	Line 17499: Uno^fi^Yksi^Y^^
+	Line 2923: 	Line 17511: Unter^fi^Unter^Y^^
+	Line 2924: 	Line 17523: Urdu Orda and Ulwyn^fi^Orgo, Ordu ja Orven^Y^^
+	Line 2925: 	Line 17525: Uriah^fi^Uriah Dunn^Y^^
+	Line 2926: 	Line 17532: Urk^fi^Urk^Y^^
+	Line 2927: 	Line 17533: Urk^fi^Raimo Raisula^N^^
+	Line 2928: 	Line 17540: Ursula^fi^Ursula^Y^^
+	Line 2929: 	Line 17551: Vaal^fi^Vaal^Y^^
+	Line 2930: 	Line 17553: Vampirex^fi^Vampiiri^Y^^
+	Line 2931: 	Line 17557: Vanellope von Schweetz^fi^Nelli Karamelli^Y^^
+	Line 2932: 	Line 17561: Vathek^fi^Vathek^Y^^
+	Line 2933: 	Line 17572: Velma Vanderduck^fi^Velma Van Ankkerdam^Y^^
+	Line 2934: 	Line 17573: Velma Vanderduck^fi^Vilma Iso-Ankkala^N^^
+	Line 2935: 	Line 17579: Vera Ackerman^fi^Vera Ackerman^Y^^
+	Line 2936: 	Line 17580: Vera Ackerman^fi^Vera Caspary^N^^
+	Line 2937: 	Line 17585: Vicky^fi^Kiira^Y^^
+	Line 2938: 	Line 17598: Vidia^fi^Vidia^Y^^
+	Line 2939: 	Line 17610: Vincenzo Santorini^fi^Vincenzo Santorini^Y^^
+	Line 2940: 	Line 17614: Violet Parr^fi^Ilona Vaara^Y^^
+	Line 2941: 	Line 17618: Vixey^fi^Kiki^Y^^
+	Line 2942: 	Line 17628: Vostok^fi^Vostok^Y^^
+	Line 2943: 	Line 17638: Vulter^fi^Kapteeni Oranki^Y^^
+	Line 2944: 	Line 17639: Vulter^fi^Tohtori Kauhu^N^^
+	Line 2945: 	Line 17648: Vultures^fi^Korppikotkat^Y^^
+	Line 2946: 	Line 17653: W.I.T.C.H.^fi^W.i.t.c.h.^Y^^
+	Line 2947: 	Line 17665: WTP^fi^Nalle Puh^Y^^
+	Line 2948: 	Line 17683: WUZ^fi^Vusselit^Y^^
+	Line 2949: 	Line 17691: WWI^fi^Ilkeä noita^Y^^
+	Line 2950: 	Line 17704: Wade^fi^Wade Load^Y^^
+	Line 2953: 	Line 17715: Waffles^fi^Hässä^Y^^
+	Line 2954: 	Line 17720: Wagstaff^fi^Luikkula^Y^^
+	Line 2955: 	Line 17732: Wall-E^fi^Wall-E^Y^^
+	Line 2956: 	Line 17739: Wally from Riverside Rovers^fi^Jusa^Y^^
+	Line 2957: 	Line 17741: Walrus from Alice in Wonderland^fi^Mursu^Y^^
+	Line 2958: 	Line 17749: Walt Disney^fi^Walt Disney^Y^^
+	Line 2959: 	Line 17761: Wang^fi^Lui-Hu^Y^^
+	Line 2960: 	Line 17764: Warbol^fi^Lehtori Varpula^Y^^
+	Line 2961: 	Line 17765: Warbol^fi^Lehtori Hajapää^N^^
+	Line 2962: 	Line 17773: Warlock^fi^Velho-Vilho^Y^^
+	Line 2963: 	Line 17782: Wart^fi^Arttu^Y^^
+	Line 2964: 	Line 17792: Wasabi^fi^Wasabi^Y^^
+	Line 2965: 	Line 17793: Waterlogged Warlock^fi^Vettynyt velho^Y^^
+	Line 2966: 	Line 17794: We the white creature^fi^We^Y^^
+	Line 2967: 	Line 17809: Webby^fi^Tepa^Y^^
+	Line 2968: 	Line 17810: Webby^fi^Desiree Duckenböle^N^^
+	Line 2969: 	Line 17830: Wee Angus McDuck^fi^Pikku-Mac MacAnkka^Y^^
+	Line 2970: 	Line 17833: Weegie^fi^Viikku^Y^^
+	Line 2971: 	Line 17840: Wendy^fi^Leena^Y^^
+	Line 2972: 	Line 17841: Wendy^fi^Leena Darling^N^^
+	Line 2973: 	Line 17852: Wesley the cattle broker^fi^Wesley^Y^^
+	Line 2974: 	Line 17858: Westcock^fi^Kenraali Gowest^Y^^
+	Line 2975: 	Line 17862: Whatsis^fi^Whatsis^Y^^
+	Line 2976: 	Line 17872: Whiskervilles^fi^Vaskervillet^Y^^
+	Line 2977: 	Line 17885: White rabbit^fi^Herra Jänis^Y^^
+	Line 2978: 	Line 17895: Whitewater Duck^fi^Sisuvius Ankka^Y^^
+	Line 2980: 	Line 17907: Whitmore^fi^Preston Whitmore^Y^^
+	Line 2981: 	Line 17916: Whole Truth Beagle^fi^Rehti-serkku^Y^^
+	Line 2982: 	Line 17927: Widow Tweed^fi^Hilma-täti^Y^^
+	Line 2983: 	Line 17932: Wiggins^fi^Wiggins^Y^^
+	Line 2984: 	Line 17940: Wilbur the albatross^fi^Vilpuri^Y^^
+	Line 2985: 	Line 17951: Wildcat^fi^Villikatti^Y^^
+	Line 2986: 	Line 17952: Wildcat^fi^Villikissa^N^^
+	Line 2987: 	Line 17961: Wilhelmina Bezia Packard^fi^Packard^Y^^
+	Line 2988: 	Line 17965: Will^fi^Will Vandom^Y^^
+	Line 2989: 	Line 17975: Will Turner^fi^Will Turner^Y^^
+	Line 2990: 	Line 17980: Will's dormouse^fi^Willin murmeli^Y^^
+	Line 2991: 	Line 17985: Willem^fi^Ville^Y^^
+	Line 2992: 	Line 17990: William Stanson^fi^Syyttäjä Stanson^Y^^
+	Line 2993: 	Line 18002: Winifred Banks^fi^Vilma Pankki^Y^^
+	Line 2994: 	Line 18009: Wise Little Hen^fi^Viisas Kana Kananen^Y^^
+	Line 2995: 	Line 18017: Wise Little Hen's children^fi^Viisas Kana Kanasen lapset^Y^^
+	Line 2996: 	Line 18021: Wisecube^fi^Kenraali Abraham L. Knihti^Y^^
+	Line 2997: 	Line 18022: Wisecube^fi^Kenraali Knihti^N^^
+	Line 2998: 	Line 18032: Witch Child^fi^Taika-Taija^Y^^
+	Line 2999: 	Line 18044: Witch birds^fi^Mustat korpit^Y^^
+	Line 3000: 	Line 18052: Witch doctor from W US 32-02^fi^Poppamies^Y^^
+	Line 3001: 	Line 18053: Witch from Brave^fi^Noita^Y^^
+	Line 3013: 	Line 18071: Wolf Barker^fi^Hukka-Haukkunen^Y^^
+	Line 3014: 	Line 18072: Wolf Barker^fi^Hukka Harmaakoipi^N^^
+	Line 3015: 	Line 18083: Woody^fi^Woody^Y^^
+	Line 3016: 	Line 18094: Worm from BU^fi^Mertsi Mato^Y^^
+	Line 3017: 	Line 18095: Worm from BU^fi^Kake Kastemato^N^^
+	Line 3018: 	Line 18097: Wreck-It Ralph^fi^Räyhä-Ralf^Y^^
+	Line 3019: 	Line 18103: Wyatt Earp^fi^Wyatt Earp^Y^^
+	Line 3020: 	Line 18104: Wyle-Y^fi^Byron Kraakkus^Y^^
+	Line 3021: 	Line 18112: XC-PU 126^fi^XC-PU 126^Y^^
+	Line 3022: 	Line 18113: XC-PU 126^fi^XCPU-126^N^^
+	Line 3023: 	Line 18114: XC-PU 126^fi^XCPU 126^N^^
+	Line 3024: 	Line 18115: XC-PU 126^fi^Xc-pu 126^N^^
+	Line 3025: 	Line 18129: Xadhoom^fi^Xadhum^Y^^
+	Line 3026: 	Line 18140: Xado^fi^Xado^Y^^
+	Line 3027: 	Line 18151: Xari^fi^Xari^Y^^
+	Line 3028: 	Line 18173: YDD^fi^Pikku-Aku^Y^^
+	Line 3029: 	Line 18195: Yan Lin^fi^Yan Lin^Y^^
+	Line 3030: 	Line 18212: Yar^fi^Yar^Y^^
+	Line 3031: 	Line 18218: Yekcim Esuom^fi^Ikkimi Riih^Y^^
+	Line 3032: 	Line 18226: Yellow Beak^fi^Keltanokka^Y^^
+	Line 3033: 	Line 18227: Yellow Beak^fi^Knaija^N^^
+	Line 3034: 	Line 18228: Yellow Beak^fi^Kippari^N^^
+	Line 3035: 	Line 18237: Yen Sid^fi^Suuri Velho^Y^^
+	Line 3036: 	Line 18246: Yennik Brothers^fi^Kelmiön veljekset^Y^^
+	Line 3037: 	Line 18255: Yor^fi^Aaron^Y^^
+	Line 3038: 	Line 18260: Young Billy Goat^fi^Vili^Y^^
+	Line 3040: 	Line 18270: Yussuf Aiper^fi^Šeikki Jussuf^Y^^
+	Line 3041: 	Line 18271: Yussuf Aiper^fi^Seikki Jussuf^N^^
+	Line 3042: 	Line 18274: Yzma^fi^Yzma^Y^^
+	Line 3043: 	Line 18282: ZAP^fi^Zapotek^Y^^
+	Line 3044: 	Line 18283: ZAP^fi^Uspula^N^^
+	Line 3045: 	Line 18297: ZOR^fi^Zorro^Y^^
+	Line 3046: 	Line 18312: Zachary Lyndon^fi^Zachary Lyndon^Y^^
+	Line 3051: 	Line 18318: Zafire^fi^Zafire^Y^^
+	Line 3052: 	Line 18318: Zafire^fi^Zafire^Y^^
+	Line 3053: 	Line 18318: Zafire^fi^Zafire^Y^^
+	Line 3060: 	Line 18327: Zantaf^fi^Zantaf^Y^^
+	Line 3061: 	Line 18328: Zantaf^fi^Hoto^N^^
+	Line 3063: 	Line 18345: Zazu^fi^Zazu^Y^^
+	Line 3064: 	Line 18352: Zeb Wolf^fi^Aatu^Y^^
+	Line 3065: 	Line 18353: Zeb Wolf^fi^Roima^N^^
+	Line 3066: 	Line 18354: Zeb Wolf^fi^Aatu-setä^N^^
+	Line 3067: 	Line 18365: Zenobia^fi^Zenobia^Y^^
+	Line 3068: 	Line 18380: Zeus^fi^Zeus^Y^^
+	Line 3069: 	Line 18395: Ziggy^fi^Ziegfried "Zigu" Liehuletti^Y^^
+	Line 3070: 	Line 18401: Zilia^fi^Inessa^Y^^
+	Line 3071: 	Line 18405: Zini^fi^Zini^Y^^
+	Line 3072: 	Line 18411: Zio Wilbur^fi^Viljami-setä^Y^^
+	Line 3073: 	Line 18424: Zipp^fi^Suri^Y^^
+	Line 3074: 	Line 18435: Zipper^fi^Pörri^Y^^
+	Line 3075: 	Line 18446: Zita^fi^Siri^Y^^
+	Line 3076: 	Line 18452: Zombi^fi^Jota^Y^^
+	Line 3077: 	Line 18460: Zondag^fi^Kenraali Zondag^Y^^
+	Line 3078: 	Line 18470: Zootopia^fi^Zootropolis^Y^^
+	Line 3079: 	Line 18477: Zoster^fi^Zoster^Y^^
+	Line 3080: 	Line 18478: Zoster^fi^Arkki-insinööri Zoster^N^^
+	Line 3081: 	Line 18513: Zwabber^fi^Turre^Y^^
+	Line 3082: 	Line 18514: Zwabber^fi^Hiski^N^^
+	Line 3083: 	Line 18517: Zwarte Piet^fi^Musta Pekka (Sinterklaas)^Y^^
+	Line 3084: 	Line 18527: lord Jason^fi^Lordi Leo^Y^^
+	Line 3085: 	Line 18530: professor Arkano^fi^Professori Myytti^Y^^
+	Line 3086: 	Line 18533: Émile^fi^Emile^Y^^
