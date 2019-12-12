@@ -4,63 +4,94 @@
     [1, 0, 0, 0, 1],
     [1, 1, 1, 1, 1]
 ];
-var LEVEYS = 700;
-var KORKEUS = 600;
+var korkeus = kartta.length;
+var leveys = kartta[0].length;
+var KOKO = 50;
+var LEVEYS = leveys * KOKO;
+var KORKEUS = korkeus * KOKO;
 var sisalto;
 var nappain;
 var pelaaja;
-pelaaja = {
-    y: 1,
-    x: 1,
-    paivita: function () {
-        if (nappain[ylos]) {
-            this.y -= 1;
-        } else if (nappain[alas]) {
-            this.y += 1;
-        } else if (nappain[vasen]) {
-            this.x -= 1;
-        } else if (nappain[oikea]) {
-            this.x += 1;
-        }
+var oikeaN = false;
+var vasenN = false;
+var ylosN = false;
+var alasN = false;
 
-    }
-};
-
-var korkeus = kartta.length;
-var leveys = kartta[0].length;
-
-console.log(korkeus);
-console.log(leveys);
-
-for (let i = 0; i < korkeus; i++) {
-    var rivi = "";
-    for (let j = 0; j < leveys; j++) {
-        rivi += kartta[i][j];
-    }
-    console.log(rivi);
-}
 var pelialue = document.createElement("canvas");
 pelialue.width = LEVEYS;
-pelialue.korkeus = KORKEUS;
+pelialue.height = KORKEUS;
 sisalto = pelialue.getContext("2d");
-document.body.appendChild(pelialue);
-function main() {
-    document.addEventListener("keydown", function (evt) { nappain[evt.keyCode] = true; });
-    document.addEventListener("keyup", function (evt) { delete nappain[evt.keyCode]; });
+document.getElementById("peli").appendChild(pelialue);
+
+pelaaja = {
+    y: 1,
+    x: 1
+};
+
+document.addEventListener("keydown", alaspainallus, false);
+document.addEventListener("keyup", ylosnosto, false);
+
+function alaspainallus(e) {
+    if (e.key == "Right" || e.key == "ArrowRight" || e.key == "D" || e.key == "d") {
+        oikeaN = true;
+        console.log("oikea alas true")
+        pelaaja.x += 1;
+        draw();
+    } else if (e.key == "Left" || e.key == "ArrowLeft" || e.key == "A" || e.key == "a") {
+        vasenN = true;
+        pelaaja.x -= 1;
+        draw();
+    } else if (e.key == "Up" || e.key == "ArrowUp" || e.key == "W" || e.key == "w") {
+        ylosN = true;
+        pelaaja.y -= 1;
+        draw();
+    } else if (e.key == "Down" || e.key == "ArrowDown" || e.key == "S" || e.key == "s") {
+        alasN = true;
+        pelaaja.y += 1;
+        draw();
+    }
+}
+
+function ylosnosto(e) {
+    if (e.key == "Right" || e.key == "ArrowRight" || e.key == "D" || e.key == "d") {
+        oikeaN = false;
+    } else if (e.key == "Left" || e.key == "ArrowLeft" || e.key == "A" || e.key == "a") {
+        vasenN = false;
+    } else if (e.key == "Up" || e.key == "ArrowUp" || e.key == "W" || e.key == "w") {
+        ylosN = false;
+    } else if (e.key == "Down" || e.key == "ArrowDown" || e.key == "S" || e.key == "s") {
+        alasN = false;
+    }
 }
 
 function draw() {
-    sisalto.clearRect(0, 0, pelialue.width, pelialue.length);
+    sisalto.clearRect(0, 0, pelialue.width, pelialue.height);
     for (let i = 0; i < korkeus; i++) {
         var rivi = "";
         for (let j = 0; j < leveys; j++) {
             rivi += kartta[i][j];
-            sisalto.beginPath();
-            sisalto.rect(i*10, i*10+j, 10, 10);
-            sisalto.closePath();
+            if (kartta[i][j] == 1) {
+                sisalto.beginPath();
+                sisalto.rect(j * KOKO, i * KOKO, KOKO, KOKO);
+                sisalto.fillStyle = "#0095DD";
+                sisalto.fill();
+                sisalto.closePath();
+            } else if (i == pelaaja.y && j == pelaaja.x) {
+                sisalto.beginPath();
+                sisalto.rect(j * KOKO, i * KOKO, KOKO, KOKO);
+                sisalto.fillStyle = "#eb8334";
+                sisalto.fill();
+                sisalto.closePath();
+            } else if (kartta[i][j] == "H") {
+                sisalto.beginPath();
+                sisalto.rect(j * KOKO, i * KOKO, KOKO, KOKO);
+                sisalto.fillStyle = "#286ab0";
+                sisalto.fill();
+            }
         }
-        console.log(rivi);
     }
 }
+draw();
+//setInterval(draw, 10);
 
 
