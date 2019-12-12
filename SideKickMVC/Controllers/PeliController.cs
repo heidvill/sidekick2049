@@ -143,6 +143,35 @@ namespace SideKickMVC.Controllers
                 return Content("Väärin");
             }
         }
+        public ActionResult Morse()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 1)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
 
+        [HttpPost]
+        public ActionResult Morse(string salasana)
+        {
+            if (string.IsNullOrEmpty(salasana))
+            {
+                return View();
+            }
+            else if (salasana.Trim().ToLower() == "pulu")
+            {
+                return Content("Oikein");
+            }
+            else
+            {
+                return Content("Väärin");
+            }
+        }
     }
 }
