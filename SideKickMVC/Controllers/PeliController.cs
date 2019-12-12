@@ -136,7 +136,38 @@ namespace SideKickMVC.Controllers
             }
             else if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
             {
-                return Content("Oikein");
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 2, Aika = DateTime.Now });
+                return RedirectToAction("Color_It_Redd");
+            }
+            else
+            {
+                return View();
+            }
+        }
+        public ActionResult Color_It_Redd()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 1)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+        [HttpPost]
+        public ActionResult Color_It_Redd(string pinkoodi)
+        {
+            if (string.IsNullOrEmpty(pinkoodi))
+            {
+                return View();
+            }
+            else if (pinkoodi.Trim().ToLower() == "2049")
+            {
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 3, Aika = DateTime.Now });
+                return RedirectToAction("");
             }
             else
             {
