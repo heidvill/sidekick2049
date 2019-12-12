@@ -27,13 +27,20 @@ namespace SideKickMVC.Controllers
         }
 
         // GET: Peli
-        [AllowAnonymous]
+        
         public IActionResult Index()
         {
+            try
+            {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             Taso taso = new Taso();
             taso.Tilasto = t;
             return View(taso);
+            }
+            catch
+            {
+                return RedirectToAction("Index", "Home");
+            }
         }
 
         // GET: Peli/Details/5
