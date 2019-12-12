@@ -173,5 +173,11 @@ namespace SideKickMVC.Controllers
                 return Content("Väärin");
             }
         }
+
+        [AllowAnonymous]
+        public IActionResult Labyrintti()
+        {
+            return View();
+        }
     }
 }
