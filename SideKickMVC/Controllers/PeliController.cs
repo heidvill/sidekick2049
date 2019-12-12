@@ -31,7 +31,9 @@ namespace SideKickMVC.Controllers
         public IActionResult Index()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
-            return View(t);
+            Taso taso = new Taso();
+            taso.Tilasto = t;
+            return View(taso);
         }
 
         // GET: Peli/Details/5
@@ -211,7 +213,7 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 4)
+            if (t.Taso >= 5)
             {
                 return View();
             }
@@ -227,7 +229,7 @@ namespace SideKickMVC.Controllers
             }
             else if (albumi.Trim().ToLower() == "looking for freedom")
             {
-                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 5, Aika = DateTime.Now });
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 6, Aika = DateTime.Now });
                 return View();
                 //return RedirectToAction("");
             }
