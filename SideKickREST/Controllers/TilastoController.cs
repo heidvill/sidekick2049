@@ -24,7 +24,7 @@ namespace SideKickREST.Controllers
         [HttpGet]
         public IEnumerable<Tilasto> Get()
         {
-            return _db.Tilasto.ToList();
+            return _db.Tilasto.OrderByDescending(a => a.Taso).ToList();
         }
 
         // GET: api/Tilasto/5
