@@ -198,6 +198,37 @@ namespace SideKickMVC.Controllers
             else if (salasana.Trim().ToLower() == "pulu")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 4, Aika = DateTime.Now });
+                return RedirectToAction("Levysoitin");
+            }
+            else
+            {
+                return Content("Väärin");
+            }
+        }
+        public ActionResult Levysoitin()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 4)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public ActionResult Levysoitin(string albumi)
+        {
+            if (string.IsNullOrEmpty(albumi))
+            {
+                return View();
+            }
+            else if (albumi.Trim().ToLower() == "looking for freedom")
+            {
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 5, Aika = DateTime.Now });
                 return View();
                 //return RedirectToAction("");
             }
