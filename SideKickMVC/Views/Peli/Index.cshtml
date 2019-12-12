@@ -1,7 +1,7 @@
 ﻿@using Microsoft.AspNetCore.Identity
 @inject SignInManager<IdentityUser> SignInManager
 @inject UserManager<IdentityUser> UserManager
-@model SideKickDLL.Tilasto
+@model SideKickMVC.Models.Taso
 
 @{
     ViewData["Title"] = "Index";
@@ -9,9 +9,6 @@
 
 <h1>Index</h1>
 
-@*<p>
-        <a asp-action="Create">Create New</a>
-    </p>*@
 <p>
     @if (SignInManager.IsSignedIn(User))
     {
@@ -22,7 +19,7 @@
                         Korkein läpäisty taso
                     </th>
                     <th>
-                        @Html.DisplayNameFor(model => model.Aika)
+                        @Html.DisplayNameFor(model => model.Tilasto.Aika)
                     </th>
                     <th></th>
                 </tr>
@@ -30,19 +27,20 @@
             <tbody>
                 <tr>
                     <td>
-                        @Html.DisplayFor(modelItem => modelItem.Taso)
+                        @Html.DisplayFor(modelItem => modelItem.Tilasto.Taso)
                     </td>
                     <td>
-                        @Html.DisplayFor(modelItem => modelItem.Aika)
+                        @Html.DisplayFor(modelItem => modelItem.Tilasto.Aika)
                     </td>
                 </tr>
 
             </tbody>
         </table>
-        @Html.ActionLink("Taso 1", "Kulkukortti", "Peli", null, new { @class = "btn btn-primary" })
-        @Html.ActionLink("Taso 2", "Lista", "Peli", null, new { @class = "btn btn-primary" })
-        @Html.ActionLink("Taso 3", "Color_It_Redd", "Peli", null, new { @class = "btn btn-primary" })
-        @Html.ActionLink("Taso 4", "Morse", "Peli", null, new { @class = "btn btn-primary" })
+        for (int i = 0; i <= Model.Tilasto.Taso; i++)
+        {
+
+            @Html.ActionLink($"Taso{i+1}", Taso.Linkit[i+1], "Peli", null, new { @class = "btn btn-primary" })
+        }
     }
     else
     {

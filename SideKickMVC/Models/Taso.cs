@@ -17,6 +17,9 @@ namespace SideKickMVC.Models
             Linkit.Add(2, "Lista");
             Linkit.Add(3, "Color_It_Redd");
             Linkit.Add(4, "Morse");
+            Linkit.Add(5, "Labyrintti");
+            Linkit.Add(6, "Levysoitin");
+
         }
     }
 }
