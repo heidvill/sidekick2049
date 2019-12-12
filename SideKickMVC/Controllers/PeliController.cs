@@ -30,8 +30,7 @@ namespace SideKickMVC.Controllers
         [AllowAnonymous]
         public IActionResult Index()
         {
-            string json = Helper.GetAll();
-            List<Tilasto> t = JsonConvert.DeserializeObject<List<Tilasto>>(json);
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             return View(t);
         }
 
@@ -116,7 +115,7 @@ namespace SideKickMVC.Controllers
         }
         public ActionResult Lista()
         {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
                 return RedirectToAction("Index");
@@ -136,7 +135,38 @@ namespace SideKickMVC.Controllers
             }
             else if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
             {
-                return Content("Oikein");
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 2, Aika = DateTime.Now });
+                return RedirectToAction("Color_It_Redd");
+            }
+            else
+            {
+                return View();
+            }
+        }
+        public ActionResult Color_It_Redd()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 2)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+        [HttpPost]
+        public ActionResult Color_It_Redd(string pinkoodi)
+        {
+            if (string.IsNullOrEmpty(pinkoodi))
+            {
+                return View();
+            }
+            else if (pinkoodi.Trim().ToLower() == "2049")
+            {
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 3, Aika = DateTime.Now });
+                return RedirectToAction("Morse");
             }
             else
             {
@@ -145,12 +175,12 @@ namespace SideKickMVC.Controllers
         }
         public ActionResult Morse()
         {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 1)
+            if (t.Taso >= 3)
             {
                 return View();
             }
@@ -166,7 +196,9 @@ namespace SideKickMVC.Controllers
             }
             else if (salasana.Trim().ToLower() == "pulu")
             {
-                return Content("Oikein");
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 4, Aika = DateTime.Now });
+                return View();
+                //return RedirectToAction("");
             }
             else
             {
