@@ -4,7 +4,10 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
+using SideKickDLL;
 using SideKickMVC.Models;
 
 namespace SideKickMVC.Controllers
@@ -13,14 +16,20 @@ namespace SideKickMVC.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        IConfiguration configuration;
+        public HomeController(IConfiguration configuration, ILogger<HomeController> logger)
         {
+            this.configuration = configuration;
+            Helper.polku = configuration.GetConnectionString("RestAPIUrl");
             _logger = logger;
+
         }
 
         public IActionResult Index()
         {
-            return View();
+            string json = Helper.GetAll();
+            List<Tilasto> t = JsonConvert.DeserializeObject<List<Tilasto>>(json);
+            return View(t);
         }
 
         public IActionResult Privacy()
