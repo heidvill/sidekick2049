@@ -30,8 +30,7 @@ namespace SideKickMVC.Controllers
         [AllowAnonymous]
         public IActionResult Index()
         {
-            string json = Helper.GetAll();
-            List<Tilasto> t = JsonConvert.DeserializeObject<List<Tilasto>>(json);
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             return View(t);
         }
 
