@@ -116,7 +116,7 @@ namespace SideKickMVC.Controllers
         }
         public ActionResult Lista()
         {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
                 return RedirectToAction("Index");
@@ -146,12 +146,12 @@ namespace SideKickMVC.Controllers
         }
         public ActionResult Color_It_Redd()
         {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 1)
+            if (t.Taso >= 2)
             {
                 return View();
             }
@@ -167,7 +167,7 @@ namespace SideKickMVC.Controllers
             else if (pinkoodi.Trim().ToLower() == "2049")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 3, Aika = DateTime.Now });
-                return RedirectToAction("");
+                return RedirectToAction("Morse");
             }
             else
             {
@@ -176,12 +176,12 @@ namespace SideKickMVC.Controllers
         }
         public ActionResult Morse()
         {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).FirstOrDefault();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 1)
+            if (t.Taso >= 3)
             {
                 return View();
             }
@@ -197,7 +197,9 @@ namespace SideKickMVC.Controllers
             }
             else if (salasana.Trim().ToLower() == "pulu")
             {
-                return Content("Oikein");
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 4, Aika = DateTime.Now });
+                return View();
+                //return RedirectToAction("");
             }
             else
             {
