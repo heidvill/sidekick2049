@@ -27,15 +27,15 @@ namespace SideKickMVC.Controllers
         }
 
         // GET: Peli
-        
+
         public IActionResult Index()
         {
             try
             {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
-            Taso taso = new Taso();
-            taso.Tilasto = t;
-            return View(taso);
+                Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+                Taso taso = new Taso();
+                taso.Tilasto = t;
+                return View(taso);
             }
             catch
             {
@@ -206,7 +206,7 @@ namespace SideKickMVC.Controllers
             else if (salasana.Trim().ToLower() == "pulu")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 4, Aika = DateTime.Now });
-                return RedirectToAction("Levysoitin");
+                return RedirectToAction("Labyrintti");
             }
             else
             {
@@ -246,10 +246,25 @@ namespace SideKickMVC.Controllers
             }
         }
 
-        [AllowAnonymous]
         public IActionResult Labyrintti()
         {
-            return View();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 4)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Labyrintti(string joku)
+        {
+            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 5, Aika = DateTime.Now });
+            return RedirectToAction("Levysoitin");
         }
     }
 }
