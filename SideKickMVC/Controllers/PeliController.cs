@@ -28,14 +28,14 @@ namespace SideKickMVC.Controllers
         }
 
         // GET: Peli
-        
+
         public IActionResult Index()
         {
             {
-            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
-            Taso taso = new Taso();
-            taso.Tilasto = t;
-            return View(taso);
+                Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+                Taso taso = new Taso();
+                taso.Tilasto = t;
+                return View(taso);
             }
         }
 
@@ -246,6 +246,54 @@ namespace SideKickMVC.Controllers
             {
                 return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
+        }
+        public IActionResult Portaikko()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 6)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+
+        public IActionResult Takkahuone()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 7)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+        
+        public IActionResult Labyrintti()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 5)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+
+        [HttpPost]
+        public IActionResult Labyrintti(string joku)
+        {
+            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 5, Aika = DateTime.Now });
+            return RedirectToAction("Levysoitin");
         }
     }
 }
