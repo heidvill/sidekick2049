@@ -8,7 +8,25 @@ Mallard City, 2049
 
 "Ratkaise kulkukortin koodi jotta pääset lataamaan Stockenten tietokannasta listan henkilöistä joilla on pääsy laserin käyttöön.
 
-
 "Sait listan auki, hienoa! Lähetä se minulle!"
 
 "Voi ei, listalle on näemmä sekoittunut kaikkien eri universumeiden tietokannat sekaisin! Yhden rivin pitäisi kuitenkin olla selvästi erilainen ja sillä löydämme etsimämme tyypin tästä multiversumin kattavasta listasta. Voitko etsiä sen minulle?"
+
+"Löysit nimen, mahtavaa! Eikä siinä mennyt kuin hetki... Käteni voi muuten hyvin, kiitos kysymästä."
+
+"Tiedän että Stockenten kätyrit viestittelevät Facebookissa tai jossain sosiaalisessa mediassa. Jostain syystä he käyttävät omia nimiään."
+
+"Joko he ovat täysiä idiootteja tai heillä on jokin taka-ajatus. Tarvitsen koodin jolla pääsisin kuuntelemaan heidän radioliikennettään. Ehkä somesta löytyy apua?"
+
+Huh, pääsin vartijan ohi. Hankkimieni pohjapiirrosten perusteella tässä huoneessa pitäisi olla portaikko maan alle.
+Mitään ei kuitenkaan näy...
+Seinät ovat täynnä levyhyllyjä ja keskellä huonetta on vanha LP-soitin. Löytyisiköhän portaat soittamalla oikeata levyä?
+
+    Levysoittimessa lukee seuraavaa:
+    One morning in June 
+    some twenty years ago
+    I was born a rich man's son
+
+Mitä se tarkoittaa?
+
+K.V.A.A.K on käynnistynyt! Sitä ei voi enää pysäyttää nappia painamalla! Täytyy leikata oikea johto jotta lähtölaskenta saadaan keskeytettyä! 
