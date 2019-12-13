@@ -213,6 +213,12 @@ namespace SideKickMVC.Controllers
                 return Content("Väärin");
             }
         }
+
+        [AllowAnonymous]
+        public IActionResult Labyrintti()
+        {
+            return View();
+        }
         public ActionResult Levysoitin()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -244,12 +250,6 @@ namespace SideKickMVC.Controllers
             {
                 return Content("Väärin");
             }
-        }
-
-        [AllowAnonymous]
-        public IActionResult Labyrintti()
-        {
-            return View();
         }
     }
 }
