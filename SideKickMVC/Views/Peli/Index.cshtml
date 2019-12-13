@@ -36,10 +36,13 @@
 
             </tbody>
         </table>
+
         for (int i = 0; i <= Model.Tilasto.Taso; i++)
         {
-
-            @Html.ActionLink($"Taso{i+1}", Taso.Linkit[i+1], "Peli", null, new { @class = "btn btn-primary" })
+            if (i < Taso.Linkit.Count)
+            {
+                @Html.ActionLink($"Taso{i + 1}", Taso.Linkit[i + 1], "Peli", null, new { @class = "btn btn-primary" })
+            }
         }
     }
     else

@@ -11,6 +11,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Newtonsoft.Json;
 using SideKickDLL;
+using SideKickMVC.Extensions.Alerts;
 using SideKickMVC.Models;
 
 namespace SideKickMVC.Controllers
@@ -87,7 +88,7 @@ namespace SideKickMVC.Controllers
         }
 
         // GET: Peli/Delete/5
-        public ActionResult Delete(int id)
+        public IActionResult Delete(int id)
         {
             return View();
         }
@@ -95,18 +96,18 @@ namespace SideKickMVC.Controllers
         // POST: Peli/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, Tilasto t)
+        public IActionResult Delete(int id, Tilasto t)
         {
             string json = Helper.Delete(id);
             return RedirectToAction("Index", "Peli");
         }
 
-        public ActionResult Kulkukortti()
+        public IActionResult Kulkukortti()
         {
             return View();
         }
         [HttpPost]
-        public ActionResult Kulkukortti(string korttikoodi)
+        public IActionResult Kulkukortti(string korttikoodi)
         {
             if (string.IsNullOrEmpty(korttikoodi))
             {
@@ -115,14 +116,14 @@ namespace SideKickMVC.Controllers
             else if (korttikoodi.Trim().ToLower() == "platyrhynchos")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 1, Aika = DateTime.Now });
-                return RedirectToAction("Lista");
+                return RedirectToAction("Lista").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
             {
-                return View();
+                return View().WithWarning("Väärin meni!", "Syöttämäsi vastaus on väärä"); 
             }
         }
-        public ActionResult Lista()
+        public IActionResult Lista()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
@@ -136,7 +137,7 @@ namespace SideKickMVC.Controllers
             else return RedirectToAction("Index");
         }
         [HttpPost]
-        public ActionResult Lista(string kätyri)
+        public IActionResult Lista(string kätyri)
         {
             if (string.IsNullOrEmpty(kätyri))
             {
@@ -145,14 +146,14 @@ namespace SideKickMVC.Controllers
             else if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 2, Aika = DateTime.Now });
-                return RedirectToAction("Color_It_Redd");
+                return RedirectToAction("Color_It_Redd").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
             {
-                return View();
+                return View().WithWarning("Väärin meni!", "Syöttämäsi henkilö ei ole se, jota etsimme!");
             }
         }
-        public ActionResult Color_It_Redd()
+        public IActionResult Color_It_Redd()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
@@ -166,7 +167,7 @@ namespace SideKickMVC.Controllers
             else return RedirectToAction("Index");
         }
         [HttpPost]
-        public ActionResult Color_It_Redd(string pinkoodi)
+        public IActionResult Color_It_Redd(string pinkoodi)
         {
             if (string.IsNullOrEmpty(pinkoodi))
             {
@@ -175,14 +176,14 @@ namespace SideKickMVC.Controllers
             else if (pinkoodi.Trim().ToLower() == "2049")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 3, Aika = DateTime.Now });
-                return RedirectToAction("Morse");
+                return RedirectToAction("Morse").WithSuccess("Hienoa!","Oikea vastaus");
             }
             else
             {
-                return Content("Väärin");
+                return View().WithWarning("Väärin meni!", "Etkö tiedä minne kaikki tiet vievät?");
             }
         }
-        public ActionResult Morse()
+        public IActionResult Morse()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
@@ -197,7 +198,7 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public ActionResult Morse(string salasana)
+        public IActionResult Morse(string salasana)
         {
             if (string.IsNullOrEmpty(salasana))
             {
@@ -206,11 +207,11 @@ namespace SideKickMVC.Controllers
             else if (salasana.Trim().ToLower() == "pulu")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 4, Aika = DateTime.Now });
-                return RedirectToAction("Levysoitin");
+                return RedirectToAction("Levysoitin").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
             {
-                return Content("Väärin");
+                return View().WithDanger("Väärin meni!", "Antamasi vastaus on väärä");
             }
         }
 
@@ -219,7 +220,7 @@ namespace SideKickMVC.Controllers
         {
             return View();
         }
-        public ActionResult Levysoitin()
+        public IActionResult Levysoitin()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
@@ -234,7 +235,7 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public ActionResult Levysoitin(string albumi)
+        public IActionResult Levysoitin(string albumi)
         {
             if (string.IsNullOrEmpty(albumi))
             {
@@ -243,12 +244,12 @@ namespace SideKickMVC.Controllers
             else if (albumi.Trim().ToLower() == "looking for freedom")
             {
                 Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 6, Aika = DateTime.Now });
-                return View();
+                return View().WithSuccess("Hienoa!", "Oikea vastaus");
                 //return RedirectToAction("");
             }
             else
             {
-                return Content("Väärin");
+                return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
         }
     }
