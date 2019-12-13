@@ -252,5 +252,32 @@ namespace SideKickMVC.Controllers
                 return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
         }
+        public IActionResult Portaikko()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 6)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
+
+        public IActionResult Takkahuone()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 7)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
+        }
     }
 }
