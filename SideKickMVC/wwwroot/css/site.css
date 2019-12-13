@@ -80,3 +80,8 @@ body {
 h1, h2, h3, h4 {
     font-family: 'Blade Runner Movie Font';
 }
+.alert-warning {
+    color: teal;
+    background-color: turquoise;
+    border-color: darkturquoise;
+}
