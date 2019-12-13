@@ -31,16 +31,11 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Index()
         {
-            try
             {
                 Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
                 Taso taso = new Taso();
                 taso.Tilasto = t;
                 return View(taso);
-            }
-            catch
-            {
-                return RedirectToAction("Index", "Home");
             }
         }
 
@@ -134,7 +129,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe","Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
         [HttpPost]
         public IActionResult Lista(string kätyri)
@@ -164,7 +159,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason"); 
         }
         [HttpPost]
         public IActionResult Color_It_Redd(string pinkoodi)
@@ -194,7 +189,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
         [HttpPost]
@@ -231,7 +226,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
         [HttpPost]

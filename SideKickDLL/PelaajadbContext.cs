@@ -17,7 +17,6 @@ namespace SideKickDLL
 
         public virtual DbSet<Tilasto> Tilasto { get; set; }
 
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Tilasto>(entity =>
