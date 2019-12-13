@@ -215,11 +215,6 @@ namespace SideKickMVC.Controllers
             }
         }
 
-        [AllowAnonymous]
-        public IActionResult Labyrintti()
-        {
-            return View();
-        }
         public IActionResult Levysoitin()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
