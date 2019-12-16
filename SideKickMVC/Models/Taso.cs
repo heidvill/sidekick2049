@@ -19,7 +19,8 @@ namespace SideKickMVC.Models
             Linkit.Add(4, "Morse");
             Linkit.Add(5, "Labyrintti");
             Linkit.Add(6, "Levysoitin");
-
+            Linkit.Add(7, "Portaikko");
+            Linkit.Add(8, "Takkahuone");
         }
     }
 }
