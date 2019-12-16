@@ -208,8 +208,6 @@ namespace SideKickMVC.Controllers
             }
         }
 
-<<<<<<< HEAD
-=======
         public IActionResult Labyrintti()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -231,7 +229,6 @@ namespace SideKickMVC.Controllers
             return RedirectToAction("Levysoitin");
         }
 
->>>>>>> 0b40bb8360a9ba0fbf0edfb9441cc61613a50881
         public IActionResult Levysoitin()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -276,7 +273,6 @@ namespace SideKickMVC.Controllers
             }
             else return RedirectToAction("Index");
         }
-
         public IActionResult Takkahuone()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
