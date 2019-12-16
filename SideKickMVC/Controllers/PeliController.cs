@@ -281,10 +281,10 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 7)
+            if (HttpContext.Request.Path.ToString().ToLower() == "/peli/takkahuone")
             {
-                return View();
-                //return Content("Oikein");
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 7, Aika = DateTime.Now });
+                return View().WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else return RedirectToAction("Index");
         }
