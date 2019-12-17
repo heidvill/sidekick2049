@@ -11,8 +11,12 @@
     <p class="npc">Huonoja uutisia, listalla on koko multiversumin tietokannat sekaisin! Tässä meneekin hetki... <br /></p>
     <p class="sankari">Ei kiirettä, roikun vain 3000 metrissä lentokoneesta yhden käden varassa. Ota aikasi.</p>
 
-    <form action="lista" method="post">
-        <input type="text" name="kätyri" />
-        <input type="submit" name="listanappi" value="Anna nimi" />
+    <form action="lista" method="post" class="form-inline">
+        <div class="form-group m-1">
+            <input type="text" class="form-control" name="kätyri" placeholder="Nimi"/>
+        </div>
+        <div class="form-group m-1">
+            <input type="submit" class="btn btn-light" name="listanappi" value="Anna nimi" />
+        </div>
     </form>
 </div>
