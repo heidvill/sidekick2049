@@ -2,15 +2,17 @@
 @{
     ViewData["Title"] = "Kulkukortti";
 }
-<h1>kulkukortti</h1>
-<p class="sankari">
-    <a href="~/media/accesscard.jpg" target="_blank">Tässä</a> on kulkukortti, jonka nappasin Stockenten kätyriltä. Tällä pääsemme käsiksi Stockenten peiteyrityksen tietokantaan! Kerro kun olet sisällä.
-</p>
-<p>
-    Ratkaise kulkukortin koodi jotta pääset lataamaan Stockenten tietokannasta listan henkilöistä joilla voi olla pääsy laserin käyttöön.
-</p>
+<div class="jumbotron">
+    <h1>kulkukortti</h1>
+    <p class="sankari">
+        <a href="~/media/accesscard.jpg" target="_blank">Tässä</a> on kulkukortti, jonka nappasin Stockenten kätyriltä. Tällä pääsemme käsiksi Stockenten peiteyrityksen tietokantaan! Kerro kun olet sisällä.
+    </p>
+    <p>
+        Ratkaise kulkukortin koodi jotta pääset lataamaan Stockenten tietokannasta listan henkilöistä joilla voi olla pääsy laserin käyttöön.
+    </p>
 
-<form action="kulkukortti" method="post">
-    <input type="text" name="korttikoodi" />
-    <input type="submit" name="koodinappi" value="Anna koodi" />
-</form>
+    <form action="kulkukortti" method="post">
+        <input type="text" name="korttikoodi" />
+        <input type="submit" name="koodinappi" value="Anna koodi" />
+    </form>
+</div>

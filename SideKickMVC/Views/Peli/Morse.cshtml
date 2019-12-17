@@ -2,13 +2,14 @@
 @{
     ViewData["Title"] = "Morse";
 }
-<h1>kaapattu tiedosto</h1>
-<p class="sankari">
-    <a href="~/media/piip.wav" target="_blank">Tässä</a> on tallenne heidän radioliikenteestään. Uskon, että pääsemme sen avulla eteenpäin.
-</p>
+<div class="jumbotron">
+    <h1>kaapattu tiedosto</h1>
+    <p class="sankari">
+        <a href="~/media/piip.wav" target="_blank">Tässä</a> on tallenne heidän radioliikenteestään. Uskon, että pääsemme sen avulla eteenpäin.
+    </p>
 
-<form action="morse" method="post">
-    <input type="text" name="salasana" />
-    <input type="submit" name="morsenappi" value="Syötä salasana" />
-</form>
-
+    <form action="morse" method="post">
+        <input type="text" name="salasana" />
+        <input type="submit" name="morsenappi" value="Syötä salasana" />
+    </form>
+</div>

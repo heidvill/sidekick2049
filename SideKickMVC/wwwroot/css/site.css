@@ -83,7 +83,7 @@ h1, h2, h3, h4 {
     color: coral;
 }
 
-p {
+p, .table {
     color: #fb6eab;
 }
 
@@ -117,5 +117,10 @@ p {
 
 .npc {
     color: turquoise;
-    text-align: right;
+  text-align: right;
+}
+
+.jumbotron {
+    background: rgb(215, 187, 236); /* This is for ie8 and below */
+    background: rgba(215, 187, 236, 0.4);
 }
