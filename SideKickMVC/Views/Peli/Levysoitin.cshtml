@@ -16,8 +16,12 @@
     </p>
     <p>Mitä se tarkoittaa?</p>
 
-    <form action="levysoitin" method="post">
-        <input type="text" name="albumi" />
-        <input type="submit" name="levynappi" value="Syötä albumi" />
+    <form action="levysoitin" method="post" class="form-inline">
+        <div class="form-group m-1">
+            <input type="text" class="form-control" name="albumi" placeholder="Levy"/>
+        </div>
+        <div class="form-group m-1">
+            <input type="submit" class="btn btn-light" name="levynappi" value="Syötä albumi" />
+            </div>
     </form>
 </div>
