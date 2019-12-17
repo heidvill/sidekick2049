@@ -202,7 +202,7 @@ function gameWon() {
         input.value = "Siirry seuraavaan";
         document.getElementById("otsikko").textContent = "Voitit";
         submit.appendChild(input);
-        document.body.appendChild(submit);
+        document.getElementById("maali").appendChild(submit);
     }
 }
 
@@ -376,13 +376,13 @@ function piirra() {
             } else if (i == vastustaja.y && j == vastustaja.x) {
                 sisalto.beginPath();
                 sisalto.rect(j * KOKO, i * KOKO, KOKO, KOKO);
-                sisalto.fillStyle = "#286ab0";
+                sisalto.fillStyle = "#45f5e6";
                 sisalto.fill();
             }
             else if (kartta[i][j] == "M") {
                 sisalto.beginPath();
                 sisalto.rect(j * KOKO, i * KOKO, KOKO, KOKO);
-                sisalto.fillStyle = "#21a640";
+                sisalto.fillStyle = "#45f588";
                 sisalto.fill();
             }
         }
