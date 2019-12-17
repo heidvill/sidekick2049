@@ -215,7 +215,7 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 5)
+            if (t.Taso >= 4)
             {
                 return View();
             }
