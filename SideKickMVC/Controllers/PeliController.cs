@@ -288,20 +288,18 @@ namespace SideKickMVC.Controllers
             else return RedirectToAction("Index");
         }
 
-        [AllowAnonymous]
         public IActionResult AnkkaLampi()
         {
-            //Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
-            //if (t == null)
-            //{
-            //    return RedirectToAction("Index");
-            //}
-            //if (t.Taso >= 8)
-            //{
-            //    return View();
-            //}
-            //else return RedirectToAction("Index");
-            return View();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 7)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index");
         }
 
         [HttpPost]
