@@ -289,7 +289,7 @@ namespace SideKickMVC.Controllers
             else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
-        public IActionResult AnkkaLampi()
+        public IActionResult Ankkalampi()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
@@ -304,10 +304,11 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult AnkkaLampi(string hehheh)
+        [ActionName("Ankkalampi")]
+        public IActionResult AnkkalampiPost()
         {
-            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 8, Aika = DateTime.Now });
-            return RedirectToAction("");
+            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 9, Aika = DateTime.Now });
+            return RedirectToAction("Lukujono").WithSuccess("Hienoa!","Löysit oikean sorsan");
         }
         [AllowAnonymous]
         public IActionResult Lukujono()

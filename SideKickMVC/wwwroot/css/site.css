@@ -112,8 +112,10 @@ p {
 
 .sankari{
     color: #ff1442;
+    text-align: left;
 }
 
 .npc {
     color: turquoise;
+    text-align: right;
 }
