@@ -195,14 +195,19 @@ function gameWon() {
     if (kartta[pelaaja.y][pelaaja.x] == 'M') {
         gameOn = false;
         var form = document.createElement("form");
-        form.className = "";
-        var input = document.createElement("input");
         form.action = "labyrintti";
         form.method = "POST";
+        form.className = "form-inline";
+
+        var div = document.createElement("div");
+        div.className = "form-group m-1";
+
+        var input = document.createElement("input");
         input.type = "submit";
-        input.value = "Siirry seuraavaan";
-        document.getElementById("otsikko").textContent = "Voitit";
-        form.appendChild(input);
+        input.className = "btn btn-light";
+        input.value = "Astu sisään";
+        div.appendChild(input);
+        form.appendChild(div);
         document.getElementById("maali").appendChild(form);
     }
 }
