@@ -208,7 +208,6 @@ namespace SideKickMVC.Controllers
             }
         }
 
-
         public IActionResult Labyrintti()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -274,7 +273,6 @@ namespace SideKickMVC.Controllers
             }
             else return RedirectToAction("Index");
         }
-
         public IActionResult Takkahuone()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -282,10 +280,10 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 7)
+            if (HttpContext.Request.Path.ToString().ToLower() == "/peli/takkahuone")
             {
-                return View();
-                //return Content("Oikein");
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 7, Aika = DateTime.Now });
+                return View().WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else return RedirectToAction("Index");
         }
