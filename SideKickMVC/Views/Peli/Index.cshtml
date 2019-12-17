@@ -36,7 +36,7 @@
 
             </tbody>
         </table>
-        @Html.ActionLink("Taso1", Taso.Linkit[1], "Peli", null, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Taso 1", Taso.Linkit[1], "Peli", null, new { @class = "btn btn-primary nappi"})
 
         if (Model.Tilasto != null)
         {
@@ -44,7 +44,7 @@
             {
                 if (i < Taso.Linkit.Count)
                 {
-                    @Html.ActionLink($"Taso{i + 1}", Taso.Linkit[i + 1], "Peli", null, new { @class = "btn btn-primary" })
+                    <text> </text> @Html.ActionLink($"Taso {i + 1}", Taso.Linkit[i + 1], "Peli", null, new { @class = "btn btn-primary nappi" })
                 }
             }
         }

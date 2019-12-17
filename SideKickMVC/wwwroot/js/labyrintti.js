@@ -194,15 +194,16 @@ function gameOver() {
 function gameWon() {
     if (kartta[pelaaja.y][pelaaja.x] == 'M') {
         gameOn = false;
-        var submit = document.createElement("form");
+        var form = document.createElement("form");
+        form.className = "";
         var input = document.createElement("input");
-        submit.action = "labyrintti";
-        submit.method = "POST";
+        form.action = "labyrintti";
+        form.method = "POST";
         input.type = "submit";
         input.value = "Siirry seuraavaan";
         document.getElementById("otsikko").textContent = "Voitit";
-        submit.appendChild(input);
-        document.getElementById("maali").appendChild(submit);
+        form.appendChild(input);
+        document.getElementById("maali").appendChild(form);
     }
 }
 
