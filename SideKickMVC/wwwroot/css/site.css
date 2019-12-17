@@ -85,3 +85,20 @@ h1, h2, h3, h4 {
     background-color: turquoise;
     border-color: darkturquoise;
 }
+
+#main {
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#acquario {
+    margin: auto;
+    background-image: url("../media/vesi.jpg");
+    /*border-bottom: 28px solid black;
+    border-top: 28px solid black;
+    border-right: 7px solid black;
+    border-left: 7px solid black;*/
+    height: 100%;
+    width: 100%;
+}

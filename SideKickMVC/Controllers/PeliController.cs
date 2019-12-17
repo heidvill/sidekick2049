@@ -215,7 +215,7 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 4)
+            if (t.Taso >= 5)
             {
                 return View();
             }
@@ -286,6 +286,29 @@ namespace SideKickMVC.Controllers
                 return View().WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else return RedirectToAction("Index");
+        }
+
+        [AllowAnonymous]
+        public IActionResult AnkkaLampi()
+        {
+            //Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            //if (t == null)
+            //{
+            //    return RedirectToAction("Index");
+            //}
+            //if (t.Taso >= 8)
+            //{
+            //    return View();
+            //}
+            //else return RedirectToAction("Index");
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult AnkkaLampi(string hehheh)
+        {
+            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 8, Aika = DateTime.Now });
+            return RedirectToAction("");
         }
     }
 }
