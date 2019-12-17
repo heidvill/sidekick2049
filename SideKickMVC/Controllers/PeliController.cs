@@ -95,13 +95,13 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Kulkukortti(string korttikoodi)
+        public IActionResult Kulkukortti(string korttikoodi, int random)
         {
             if (string.IsNullOrEmpty(korttikoodi))
             {
                 return View();
             }
-            else if (korttikoodi.Trim().ToLower() == "platyrhynchos")
+            else if (korttikoodi.Trim().ToLower() == Tehtavat.KulkukorttiVastaukset[random])
             {
                 TallennaTietokantaan(1);
                 return RedirectToAction("Lista").WithSuccess("Hienoa!", "Oikea vastaus");
@@ -191,13 +191,13 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Morse(string salasana)
+        public IActionResult Morse(string salasana, int random)
         {
             if (string.IsNullOrEmpty(salasana))
             {
                 return View();
             }
-            else if (salasana.Trim().ToLower() == "pulu")
+            else if (salasana.Trim().ToLower() == Tehtavat.MorseVastaukset[random])
             {
                 TallennaTietokantaan(4);
                 return RedirectToAction("Labyrintti").WithSuccess("Hienoa!", "Oikea vastaus");
