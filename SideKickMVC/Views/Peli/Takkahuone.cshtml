@@ -1,10 +1,13 @@
-﻿
+﻿@model SideKickDLL.Tilasto
+
 @{
     ViewData["Title"] = "Takkahuone";
 }
+
 <div class="jumbotron">
-    <h1>löysit takkahuoneen. Hienoa.</h1>
-    <form action="Ankkalampi">
-        <input type="submit" name="jatka" value="Jatka" />
-    </form>
+  <h1>löysit takkahuoneen. Hienoa.</h1>
+  <form action="Ankkalampi">
+      <input type="submit" name="jatka" value="Jatka" />
+      @{Helper.PostNew(new SideKickDLL.Tilasto() { Nimi = User.Claims.First().Value, Taso = 8, Aika = DateTime.Now }); }
+  </form>
 </div>

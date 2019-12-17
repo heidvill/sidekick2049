@@ -112,14 +112,15 @@ p, .table {
 
 .sankari{
     color: #ff1442;
+    text-align: left;
 }
 
 .npc {
     color: turquoise;
+  text-align: right;
 }
 
 .jumbotron {
-    /*background-color: #d7bbec;*/
     background: rgb(215, 187, 236); /* This is for ie8 and below */
     background: rgba(215, 187, 236, 0.4);
 }
