@@ -91,6 +91,7 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Kulkukortti()
         {
+            ViewBag.random = new Random().Next(1, Tehtavat.Kulkukortit.Count + 1);
             return View();
         }
 
@@ -108,6 +109,7 @@ namespace SideKickMVC.Controllers
             }
             else
             {
+                ViewBag.random = random;
                 return View().WithWarning("Väärin meni!", "Syöttämäsi vastaus on väärä");
             }
         }
