@@ -23,9 +23,6 @@
                             <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-light" asp-area="" asp-controller="Peli" asp-action="Index">Pelaa</a>
                         </li>
                     </ul>
@@ -35,8 +32,10 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
-            <partial name="_StatusMessages" />
-            @RenderBody()
+            <div class="jumbotron">
+                <partial name="_StatusMessages" />
+                @RenderBody()
+            </div>
         </main>
     </div>
 

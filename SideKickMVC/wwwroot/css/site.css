@@ -59,9 +59,10 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
-  background-color: indigo;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-color: #2c014c;
+    font-size: 1.1rem;
 }
 .footer {
   position: absolute;
@@ -83,8 +84,12 @@ h1, h2, h3, h4 {
     color: coral;
 }
 
+h1{
+    font-size: 3rem;
+}
+
 p, .table {
-    color: #fb6eab;
+    color: #c1fad3;
 }
 
 .alert-warning {
@@ -110,17 +115,19 @@ p, .table {
     width: 100%;
 }
 
-.sankari{
-    color: #ff1442;
+.sankari {
+    color: #ffa9ba;
+    text-align:left;
 }
 
 .npc {
-    color: turquoise;
+    color: #a4ede6;
+    text-align: right;
 }
 
 .jumbotron {
-    background: rgb(215, 187, 236); /* This is for ie8 and below */
-    background: rgba(215, 187, 236, 0.4);
+    background: rgb(47, 47, 47); /* This is for ie8 and below */
+    background: rgba(47, 47, 47, 47);
 }
 
 .nappi {
