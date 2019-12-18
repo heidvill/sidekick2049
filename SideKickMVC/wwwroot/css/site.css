@@ -2,14 +2,14 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
 }
 
 /* Provide sufficient contrast against white background */
 a {
-  color: #0366d6;
+  color: #e5e5e5;
 }
 
 .btn-primary {
@@ -61,6 +61,7 @@ html {
 body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
+  background-color: indigo;
 }
 .footer {
   position: absolute;
@@ -79,7 +80,13 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Blade Runner Movie Font';
+    color: coral;
 }
+
+p, .table {
+    color: #fb6eab;
+}
+
 .alert-warning {
     color: teal;
     background-color: turquoise;
@@ -101,4 +108,21 @@ h1, h2, h3, h4 {
     border-left: 7px solid black;*/
     height: 100%;
     width: 100%;
+}
+
+.sankari{
+    color: #ff1442;
+}
+
+.npc {
+    color: turquoise;
+}
+
+.jumbotron {
+    background: rgb(215, 187, 236); /* This is for ie8 and below */
+    background: rgba(215, 187, 236, 0.4);
+}
+
+.nappi {
+    margin: 2px 0px;
 }

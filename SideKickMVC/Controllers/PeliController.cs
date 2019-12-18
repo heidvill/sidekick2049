@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Net.Http;
-using System.Net.Http.Headers;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -24,7 +19,6 @@ namespace SideKickMVC.Controllers
         {
             this.configuration = configuration;
             Helper.polku = configuration.GetConnectionString("RestAPIUrl");
-
         }
 
         // GET: Peli
@@ -97,25 +91,29 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Kulkukortti()
         {
+            ViewBag.random = new Random().Next(1, Tehtavat.Kulkukortit.Count + 1);
             return View();
         }
+
         [HttpPost]
-        public IActionResult Kulkukortti(string korttikoodi)
+        public IActionResult Kulkukortti(string korttikoodi, int random)
         {
             if (string.IsNullOrEmpty(korttikoodi))
             {
                 return View();
             }
-            else if (korttikoodi.Trim().ToLower() == "platyrhynchos")
+            else if (korttikoodi.Trim().ToLower() == Tehtavat.kulkukorttiVastaukset[random])
             {
-                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 1, Aika = DateTime.Now });
+                TallennaTietokantaan(1);
                 return RedirectToAction("Lista").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
             {
+                ViewBag.random = random;
                 return View().WithWarning("Väärin meni!", "Syöttämäsi vastaus on väärä");
             }
         }
+
         public IActionResult Lista()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -129,6 +127,7 @@ namespace SideKickMVC.Controllers
             }
             else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
+
         [HttpPost]
         public IActionResult Lista(string kätyri)
         {
@@ -138,7 +137,7 @@ namespace SideKickMVC.Controllers
             }
             else if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
             {
-                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 2, Aika = DateTime.Now });
+                TallennaTietokantaan(2);
                 return RedirectToAction("Color_It_Redd").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
@@ -146,6 +145,7 @@ namespace SideKickMVC.Controllers
                 return View().WithWarning("Väärin meni!", "Syöttämäsi henkilö ei ole se, jota etsimme!");
             }
         }
+
         public IActionResult Color_It_Redd()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -159,6 +159,7 @@ namespace SideKickMVC.Controllers
             }
             else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
+
         [HttpPost]
         public IActionResult Color_It_Redd(string pinkoodi)
         {
@@ -168,7 +169,7 @@ namespace SideKickMVC.Controllers
             }
             else if (pinkoodi.Trim().ToLower() == "2049")
             {
-                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 3, Aika = DateTime.Now });
+                TallennaTietokantaan(3);
                 return RedirectToAction("Morse").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
@@ -176,6 +177,7 @@ namespace SideKickMVC.Controllers
                 return View().WithWarning("Väärin meni!", "Etkö tiedä minne kaikki tiet vievät?");
             }
         }
+
         public IActionResult Morse()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -191,15 +193,15 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Morse(string salasana)
+        public IActionResult Morse(string salasana, int random)
         {
             if (string.IsNullOrEmpty(salasana))
             {
                 return View();
             }
-            else if (salasana.Trim().ToLower() == "pulu")
+            else if (salasana.Trim().ToLower() == Tehtavat.morseVastaukset[random])
             {
-                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 4, Aika = DateTime.Now });
+                TallennaTietokantaan(4);
                 return RedirectToAction("Labyrintti").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
@@ -208,7 +210,6 @@ namespace SideKickMVC.Controllers
             }
         }
 
-
         public IActionResult Labyrintti()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -216,17 +217,18 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 5)
+            if (t.Taso >= 4)
             {
                 return View();
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
         [HttpPost]
-        public IActionResult Labyrintti(string joku)
+        [ActionName("Labyrintti")]
+        public IActionResult LabyrinttiPost()
         {
-            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 5, Aika = DateTime.Now });
+            TallennaTietokantaan(5);
             return RedirectToAction("Levysoitin");
         }
 
@@ -245,15 +247,15 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Levysoitin(string albumi)
+        public IActionResult Levysoitin(string albumi, int random)
         {
             if (string.IsNullOrEmpty(albumi))
             {
                 return View();
             }
-            else if (albumi.Trim().ToLower() == "looking for freedom")
+            else if (albumi.Trim().ToLower() == Tehtavat.lsVastaukset[random])
             {
-                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 6, Aika = DateTime.Now });
+                TallennaTietokantaan(6);
                 return RedirectToAction("Portaikko").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
@@ -261,6 +263,7 @@ namespace SideKickMVC.Controllers
                 return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
         }
+
         public IActionResult Portaikko()
         {
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
@@ -272,7 +275,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
         public IActionResult Takkahuone()
@@ -282,35 +285,49 @@ namespace SideKickMVC.Controllers
             {
                 return RedirectToAction("Index");
             }
-            if (t.Taso >= 7)
+            if (t.Taso >= 6 && HttpContext.Request.Path.ToString().ToLower() == "/peli/takkahuone")
             {
-                return View();
-                //return Content("Oikein");
+                TallennaTietokantaan(7);
+                return View().WithSuccess("Hienoa!", "Oikea vastaus");
             }
-            else return RedirectToAction("Index");
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
-        [AllowAnonymous]
-        public IActionResult AnkkaLampi()
+        public IActionResult Ankkalampi()
         {
-            //Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
-            //if (t == null)
-            //{
-            //    return RedirectToAction("Index");
-            //}
-            //if (t.Taso >= 8)
-            //{
-            //    return View();
-            //}
-            //else return RedirectToAction("Index");
-            return View();
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 8)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
 
         [HttpPost]
-        public IActionResult AnkkaLampi(string hehheh)
+        [ActionName("Ankkalampi")]
+        public IActionResult AnkkalampiPost()
         {
-            Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 8, Aika = DateTime.Now });
-            return RedirectToAction("");
+            TallennaTietokantaan(9);
+            return RedirectToAction("Lukujono").WithSuccess("Hienoa!", "Löysit oikean sorsan");
+        }
+
+        [AllowAnonymous]
+        public IActionResult Lukujono()
+        {
+            return View();
+        }
+
+        private void TallennaTietokantaan(int taso)
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).Where(t => t.Taso == taso).FirstOrDefault();
+            if (t == null)
+            {
+                Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = taso, Aika = DateTime.Now });
+            }
         }
     }
 }

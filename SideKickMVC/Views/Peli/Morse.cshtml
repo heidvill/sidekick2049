@@ -1,14 +1,23 @@
-﻿
+﻿@model Tehtavat
 @{
     ViewData["Title"] = "Morse";
+    Random r = new Random();
+    int i = r.Next(1, Tehtavat.morseVastaukset.Count+1);
 }
-<h1>kaapattu tiedosto</h1>
-<p>
-    <a href="~/media/piip.wav" target="_blank">Tässä</a> on kaappaamani tiedosto, jonka mainitsin aiemmin. 
-</p>
+<div class="jumbotron">
+    <h1>kaapattu tiedosto</h1>
+    <p class="sankari">
+        <a href="@Tehtavat.morsekoodit[i]" target="_blank">Tässä</a> on tallenne heidän radioliikenteestään. Uskon, että pääsemme sen avulla eteenpäin.
+    </p>
 
-<form action="morse" method="post">
-    <input type="text" name="salasana" />
-    <input type="submit" name="morsenappi" value="Syötä salasana" />
-</form>
 
+    <form action="morse" method="post" class="form-inline">
+        <div class="form-group m-1">
+            <input type="text" class="form-control" name="salasana" placeholder="salasana" />
+        </div>
+        <div class="form-group m-1">
+            <input type="submit" class="btn btn-light" name="morsenappi" value="Syötä salasana" />
+            <input type="hidden" name="random" value="@i" />
+        </div>
+    </form>
+</div>

@@ -68,7 +68,7 @@ function naytaAnkat() {
         /* z-index --> overlap priority */
         if (i === 150) {
             ankat[0].xIncrease > 0 ? src = ankat[0].imageSX.src : src = ankat[0].imageDX.src;
-            stringToInner += " <a href=\"yhdeksän\">" +
+            stringToInner += " <a href=\"javascript:ankkaPost()\">" +
                 "<img src =\"" + src +
                 "\" id=\"" + ankat[i].id + "\" style= \"left: " +
                 ankat[i].x + "px;top: " + ankat[i].y + "px;z-index: " +
@@ -133,4 +133,14 @@ function liikutaAnkkaa(ankka) {
         ankka.yIncrease = getIncrease();
         ankka.y += ankka.yIncrease;
     }
+}
+
+function ankkaPost() {
+    let form = document.createElement('form');
+    form.action = 'ankkalampi';
+    form.method = 'POST';
+    // the form must be in the document to submit it
+    document.body.append(form);
+
+    form.submit();
 }
