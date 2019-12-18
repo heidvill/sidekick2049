@@ -2,12 +2,12 @@
 @{
     ViewData["Title"] = "Kulkukortti";
     Random r = new Random();
-    int i = r.Next(1, Tehtavat.Kulkukortit.Count+1);
+    int i = r.Next(1, Tehtavat.kulkukortit.Count+1);
 }
 <div class="jumbotron">
     <h1>kulkukortti</h1>
     <p class="sankari">
-        <a href="@Tehtavat.Kulkukortit[i]" target="_blank">Tässä</a> on kulkukortti, jonka nappasin Stockenten kätyriltä. Tällä pääsemme käsiksi Stockenten peiteyrityksen tietokantaan! Kerro kun olet sisällä.
+        <a href="@Tehtavat.kulkukortit[i]" target="_blank">Tässä</a> on kulkukortti, jonka nappasin Stockenten kätyriltä. Tällä pääsemme käsiksi Stockenten peiteyrityksen tietokantaan! Kerro kun olet sisällä.
     </p>
     <p>
         Ratkaise kulkukortin koodi jotta pääset lataamaan Stockenten tietokannasta listan henkilöistä joilla voi olla pääsy laserin käyttöön.

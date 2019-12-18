@@ -101,7 +101,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else if (korttikoodi.Trim().ToLower() == Tehtavat.KulkukorttiVastaukset[random])
+            else if (korttikoodi.Trim().ToLower() == Tehtavat.kulkukorttiVastaukset[random])
             {
                 TallennaTietokantaan(1);
                 return RedirectToAction("Lista").WithSuccess("Hienoa!", "Oikea vastaus");
@@ -197,7 +197,7 @@ namespace SideKickMVC.Controllers
             {
                 return View();
             }
-            else if (salasana.Trim().ToLower() == Tehtavat.MorseVastaukset[random])
+            else if (salasana.Trim().ToLower() == Tehtavat.morseVastaukset[random])
             {
                 TallennaTietokantaan(4);
                 return RedirectToAction("Labyrintti").WithSuccess("Hienoa!", "Oikea vastaus");
@@ -245,13 +245,13 @@ namespace SideKickMVC.Controllers
         }
 
         [HttpPost]
-        public IActionResult Levysoitin(string albumi)
+        public IActionResult Levysoitin(string albumi, int random)
         {
             if (string.IsNullOrEmpty(albumi))
             {
                 return View();
             }
-            else if (albumi.Trim().ToLower() == "looking for freedom")
+            else if (albumi.Trim().ToLower() == Tehtavat.lsVastaukset[random])
             {
                 TallennaTietokantaan(6);
                 return RedirectToAction("Portaikko").WithSuccess("Hienoa!", "Oikea vastaus");
