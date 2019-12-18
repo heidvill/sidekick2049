@@ -100,9 +100,10 @@ namespace SideKickMVC.Controllers
         {
             if (string.IsNullOrEmpty(korttikoodi))
             {
+                ViewBag.random = random;
                 return View();
             }
-            else if (korttikoodi.Trim().ToLower() == Tehtavat.kulkukorttiVastaukset[random])
+            else if (korttikoodi.Trim().ToLower() == Tehtavat.KulkukorttiVastaukset[random])
             {
                 TallennaTietokantaan(1);
                 return RedirectToAction("Lista").WithSuccess("Hienoa!", "Oikea vastaus");
@@ -180,6 +181,7 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Morse()
         {
+            ViewBag.random = new Random().Next(1, Tehtavat.Morsekoodit.Count + 1);
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
@@ -197,15 +199,17 @@ namespace SideKickMVC.Controllers
         {
             if (string.IsNullOrEmpty(salasana))
             {
+                ViewBag.random = random;
                 return View();
             }
-            else if (salasana.Trim().ToLower() == Tehtavat.morseVastaukset[random])
+            else if (salasana.Trim().ToLower() == Tehtavat.MorseVastaukset[random])
             {
                 TallennaTietokantaan(4);
                 return RedirectToAction("Labyrintti").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
             {
+                ViewBag.random = random;
                 return View().WithDanger("Väärin meni!", "Antamasi vastaus on väärä");
             }
         }
@@ -234,6 +238,7 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Levysoitin()
         {
+            ViewBag.random = new Random().Next(1, Tehtavat.LsTeksti.Count + 1);
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
@@ -251,15 +256,17 @@ namespace SideKickMVC.Controllers
         {
             if (string.IsNullOrEmpty(albumi))
             {
+                ViewBag.random = random;
                 return View();
             }
-            else if (albumi.Trim().ToLower() == Tehtavat.lsVastaukset[random])
+            else if (albumi.Trim().ToLower() == Tehtavat.LsVastaukset[random])
             {
                 TallennaTietokantaan(6);
                 return RedirectToAction("Portaikko").WithSuccess("Hienoa!", "Oikea vastaus");
             }
             else
             {
+                ViewBag.random = random;
                 return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
         }
