@@ -1,28 +1,24 @@
 ﻿@model Tehtavat
 @{
     ViewData["Title"] = "Levysoitin";
-    Random r = new Random();
-    int i = r.Next(1, Tehtavat.LsVastaukset.Count + 1);
+    int i = ViewBag.random;
 }
-<div class="jumbotron">
-    <h1>levysoitin</h1>
+<h1>levysoitin</h1>
 
-    <p class="sankari">Huh, pääsin vartijan ohi. Hankkimieni pohjapiirrosten perusteella tässä huoneessa pitäisi olla portaikko maan alle.</p>
-    <p class="sankari">Mitään ei kuitenkaan näy...</p>
-    <p>Seinät ovat täynnä levyhyllyjä ja keskellä huonetta on vanha LP-soitin. Löytyisiköhän portaat soittamalla oikeata levyä?</p>
-    <p>
-        Levysoittimessa lukee seuraavaa: <br />
-        @Tehtavat.LsTeksti[i]
-    </p>
-    <p>Mitä se tarkoittaa?</p>
+<p class="sankari">Huh, pääsin vartijan ohi. Hankkimieni pohjapiirrosten perusteella tässä huoneessa pitäisi olla portaikko maan alle.<br />
+    Mitään ei kuitenkaan näy...<br />
+    Seinät ovat täynnä levyhyllyjä ja keskellä huonetta on vanha LP-soitin. Löytyisiköhän portaat soittamalla oikeata levyä?<br />
+    Levysoittimessa lukee seuraavaa: <br />
+    @Tehtavat.LsTeksti[i]
+</p>
+<p class="npc">Selvitän mitä se tarkoittaa!</p>
 
-    <form action="levysoitin" method="post" class="form-inline">
-        <div class="form-group m-1">
-            <input type="text" class="form-control" name="albumi" placeholder="Levy" />
-        </div>
-        <div class="form-group m-1">
-            <input type="submit" class="btn btn-light" name="levynappi" value="Syötä albumi" />
-            <input type="hidden" name="random" value="@i" />
-        </div>
-    </form>
-</div>
+<form action="levysoitin" method="post" class="form-inline">
+    <div class="form-group m-1">
+        <input type="text" class="form-control" name="albumi" placeholder="Levy" />
+    </div>
+    <div class="form-group m-1">
+        <input type="submit" class="btn btn-light" name="levynappi" value="Syötä albumi" />
+        <input type="hidden" name="random" value="@i" />
+    </div>
+</form>

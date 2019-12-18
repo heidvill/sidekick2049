@@ -41,12 +41,12 @@ namespace SideKickMVC.Models
             LsTeksti.Add(2, $"Whoa, ain't the moon a beauty man don't it shine");
             LsTeksti.Add(3, $"Lips as sweet as candy your taste is on my mind");
             LsTeksti.Add(4, $"I don't even wanna try I guess the both of us sing a foolish lullaby");
-            LsTeksti.Add(5, $"I've been lookin' back and longin' for the freedom from my chains");
+            LsTeksti.Add(5, $"In the tropical paradise they're drinking rum in the hot sunshine it's Caribbean partytime");
             LsVastaukset.Add(1, "looking for freedom");
             LsVastaukset.Add(2, "night rocker");
             LsVastaukset.Add(3, "hooked on a feeling");
             LsVastaukset.Add(4, "everybody sunshine");
-            LsVastaukset.Add(5, "lovin' feelings");
+            LsVastaukset.Add(5, "you are everything");
         }
     }
 }

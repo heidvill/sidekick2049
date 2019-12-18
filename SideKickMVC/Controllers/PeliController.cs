@@ -100,6 +100,7 @@ namespace SideKickMVC.Controllers
         {
             if (string.IsNullOrEmpty(korttikoodi))
             {
+                ViewBag.random = random;
                 return View();
             }
             else if (korttikoodi.Trim().ToLower() == Tehtavat.KulkukorttiVastaukset[random])
@@ -180,6 +181,7 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Morse()
         {
+            ViewBag.random = new Random().Next(1, Tehtavat.Morsekoodit.Count + 1);
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
@@ -197,6 +199,7 @@ namespace SideKickMVC.Controllers
         {
             if (string.IsNullOrEmpty(salasana))
             {
+                ViewBag.random = random;
                 return View();
             }
             else if (salasana.Trim().ToLower() == Tehtavat.MorseVastaukset[random])
@@ -206,6 +209,7 @@ namespace SideKickMVC.Controllers
             }
             else
             {
+                ViewBag.random = random;
                 return View().WithDanger("Väärin meni!", "Antamasi vastaus on väärä");
             }
         }
@@ -234,6 +238,7 @@ namespace SideKickMVC.Controllers
 
         public IActionResult Levysoitin()
         {
+            ViewBag.random = new Random().Next(1, Tehtavat.LsTeksti.Count + 1);
             Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
             if (t == null)
             {
@@ -251,6 +256,7 @@ namespace SideKickMVC.Controllers
         {
             if (string.IsNullOrEmpty(albumi))
             {
+                ViewBag.random = random;
                 return View();
             }
             else if (albumi.Trim().ToLower() == Tehtavat.LsVastaukset[random])
@@ -260,6 +266,7 @@ namespace SideKickMVC.Controllers
             }
             else
             {
+                ViewBag.random = random;
                 return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
         }

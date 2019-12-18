@@ -2,21 +2,21 @@
 @{
     ViewData["Title"] = "Lista";
 }
-<div class="jumbotron">
-    <h1>lista</h1>
-    <p class="npc">
-        Hyviä uutisia! Sain <a href="https://raw.githubusercontent.com/markojuv/sidekick2049/master/Ep%C3%A4illyt.txt" target="_blank">listan</a> auki!
-    </p>
-    <p class="sankari">Mahtavaa, nyt voimme verrata sitä oman <a href="https://raw.githubusercontent.com/markojuv/sidekick2049/master/inducks_suspectlist.isv" target="_blank">tietokantamme</a> kansainvälisiin epäiltyihin. Selvitä kenellä listan henkilöistä on pääsy K.V.A.A.K -laseriin etsimällä henkilö, joka ei ole tietokannassamme.</p>
-    <p class="npc">Huonoja uutisia, listalla on koko multiversumin tietokannat sekaisin! Tässä meneekin hetki... <br /></p>
-    <p class="sankari">Ei kiirettä, roikun vain 3000 metrissä lentokoneesta yhden käden varassa. Ota aikasi.</p>
 
-    <form action="lista" method="post" class="form-inline">
-        <div class="form-group m-1">
-            <input type="text" class="form-control" name="kätyri" placeholder="Nimi"/>
-        </div>
-        <div class="form-group m-1">
-            <input type="submit" class="btn btn-light" name="listanappi" value="Anna nimi" />
-        </div>
-    </form>
-</div>
+<p class="npc">
+    Hyviä uutisia! Sain <a href="https://raw.githubusercontent.com/markojuv/sidekick2049/master/Ep%C3%A4illyt.txt" target="_blank">listan</a> auki!
+</p>
+<p class="sankari">
+    Mahtavaa, nyt voimme verrata sitä oman <a href="https://raw.githubusercontent.com/markojuv/sidekick2049/master/inducks_suspectlist.isv" target="_blank">tietokantamme</a> kansainvälisiin epäiltyihin. 
+    Selvitä kenellä listan henkilöistä on pääsy <span title="Kuun Voi Aina Ampua Kiertoradalta">K.V.A.A.K</span> -laseriin etsimällä henkilö, joka ei ole tietokannassamme.</p>
+<p class="npc">Huonoja uutisia, listalla on koko multiversumin tietokannat sekaisin! Tässä meneekin hetki... <br /></p>
+<p class="sankari">Ei kiirettä, roikun vain 3000 metrissä lentokoneesta yhden käden varassa. Ota aikasi.</p>
+
+<form action="lista" method="post" class="form-inline">
+    <div class="form-group m-1">
+        <input type="text" class="form-control" name="kätyri" placeholder="Nimi" />
+    </div>
+    <div class="form-group m-1">
+        <input type="submit" class="btn btn-light" name="listanappi" value="Anna nimi" />
+    </div>
+</form>

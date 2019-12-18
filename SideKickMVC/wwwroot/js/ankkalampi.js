@@ -1,5 +1,5 @@
 ﻿var BORDER_LEFT_RIGHT = 278;
-var BORDER_TOP_DOWN = 180;
+var BORDER_TOP_DOWN = 500;
 var ankat = new Array();
 var nextId = 0;
 var heightMax;
