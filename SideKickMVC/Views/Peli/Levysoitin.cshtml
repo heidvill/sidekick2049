@@ -1,6 +1,8 @@
-﻿
+﻿@model Tehtavat
 @{
     ViewData["Title"] = "Levysoitin";
+    Random r = new Random();
+    int i = r.Next(1, Tehtavat.lsVastaukset.Count + 1);
 }
 <div class="jumbotron">
     <h1>levysoitin</h1>
@@ -10,18 +12,17 @@
     <p>Seinät ovat täynnä levyhyllyjä ja keskellä huonetta on vanha LP-soitin. Löytyisiköhän portaat soittamalla oikeata levyä?</p>
     <p>
         Levysoittimessa lukee seuraavaa: <br />
-        One morning in June <br />
-        some twenty years ago <br />
-        I was born a rich man's son
+        @Tehtavat.lsTeksti[i]
     </p>
     <p>Mitä se tarkoittaa?</p>
 
     <form action="levysoitin" method="post" class="form-inline">
         <div class="form-group m-1">
-            <input type="text" class="form-control" name="albumi" placeholder="Levy"/>
+            <input type="text" class="form-control" name="albumi" placeholder="Levy" />
         </div>
         <div class="form-group m-1">
             <input type="submit" class="btn btn-light" name="levynappi" value="Syötä albumi" />
-            </div>
+            <input type="hidden" name="random" value="@i" />
+        </div>
     </form>
 </div>
