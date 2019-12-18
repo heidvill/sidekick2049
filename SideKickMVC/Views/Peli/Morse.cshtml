@@ -1,13 +1,12 @@
 ﻿@model Tehtavat
 @{
     ViewData["Title"] = "Morse";
-    Random r = new Random();
-    int i = r.Next(1, Tehtavat.morseVastaukset.Count+1);
+    int i = ViewBag.random;
 }
 <div class="jumbotron">
     <h1>kaapattu tiedosto</h1>
     <p class="sankari">
-        <a href="@Tehtavat.morsekoodit[i]" target="_blank">Tässä</a> on tallenne heidän radioliikenteestään. Uskon, että pääsemme sen avulla eteenpäin.
+        <a href="@Tehtavat.Morsekoodit[i]" target="_blank">Tässä</a> on tallenne heidän radioliikenteestään. Uskon, että pääsemme sen avulla eteenpäin.
     </p>
 
 
