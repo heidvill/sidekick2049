@@ -1,5 +1,5 @@
-﻿var BORDER_LEFT_RIGHT = 378;
-var BORDER_TOP_DOWN = 80;
+﻿var BORDER_LEFT_RIGHT = 278;
+var BORDER_TOP_DOWN = 180;
 var ankat = new Array();
 var nextId = 0;
 var heightMax;
@@ -20,12 +20,10 @@ for (i = 0; i < 50; i++) {
     luoAnkka("../media/kumiankka2.png", "../media/kumiankka2.png");
 }
 
-
 naytaAnkat();
 
 function init() {
-
-    heightMax = document.getElementById("acquario").clientHeight + BORDER_TOP_DOWN;
+    heightMax = document.getElementById("acquario").clientHeight / 2 + BORDER_TOP_DOWN;
     widthMax = document.getElementById("acquario").clientWidth + BORDER_LEFT_RIGHT;
     n = 1;
 }
@@ -56,7 +54,6 @@ function addFishToArray(ankka) {
 }
 
 function naytaAnkat() {
-
     var node = document.getElementById("acquario");
     var stringToInner = "";
     var src;
@@ -94,7 +91,6 @@ function getIncrease() {
 }
 
 function liikutaAnkkoja() {
-
     /* scroll the array: we need to check each fish one by one */
     for (var i = 0; i < ankat.length; i++) {
         liikutaAnkkaa(ankat[i]);
