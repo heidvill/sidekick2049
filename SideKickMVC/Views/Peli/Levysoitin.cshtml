@@ -1,4 +1,15 @@
 ﻿@model Tehtavat
+@section head{
+    <style type="text/css">
+        body {
+            background-image: url("../bgimg/levaritausta.png");
+            margin: 0;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-position: center;
+        }
+    </style>
+}
 @{
     ViewData["Title"] = "Levysoitin";
     int i = ViewBag.random;

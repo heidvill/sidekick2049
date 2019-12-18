@@ -1,4 +1,14 @@
-﻿
+﻿@section head{
+    <style type="text/css">
+        body {
+            background-image: url("../bgimg/gooseontheloose.png");
+            margin: 0;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+}
 @{
     ViewData["Title"] = "Lista";
 }
@@ -13,7 +23,7 @@
 
     <form action="lista" method="post" class="form-inline">
         <div class="form-group m-1">
-            <input type="text" class="form-control" name="kätyri" placeholder="Nimi"/>
+            <input type="text" class="form-control" name="kätyri" placeholder="Nimi" />
         </div>
         <div class="form-group m-1">
             <input type="submit" class="btn btn-light" name="listanappi" value="Anna nimi" />

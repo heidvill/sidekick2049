@@ -1,5 +1,5 @@
-﻿var BORDER_LEFT_RIGHT = 378;
-var BORDER_TOP_DOWN = 80;
+﻿var BORDER_LEFT_RIGHT = 278;
+var BORDER_TOP_DOWN = 180;
 var ankat = new Array();
 var nextId = 0;
 var heightMax;
@@ -25,7 +25,7 @@ naytaAnkat();
 
 function init() {
 
-    heightMax = document.getElementById("acquario").clientHeight + BORDER_TOP_DOWN;
+    heightMax = document.getElementById("acquario").clientHeight / 2 + BORDER_TOP_DOWN;
     widthMax = document.getElementById("acquario").clientWidth + BORDER_LEFT_RIGHT;
     n = 1;
 }
