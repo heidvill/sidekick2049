@@ -9,8 +9,7 @@ namespace SideKickDLL
         public int Id { get; set; }
         public string Nimi { get; set; }
         public int Taso { get; set; }
-        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd/MM/yyyy HH/mm}")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd.MM.yyyy HH.mm}")]
         public DateTime Aika { get; set; }
-        //public string Kayttajanimi { get; set; }
     }
 }
