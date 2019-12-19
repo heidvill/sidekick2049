@@ -274,7 +274,7 @@ namespace SideKickMVC.Controllers
             }
             if (t.Taso >= 9)
             {
-                
+
                 ViewBag.Fibo = LaskeFibo();
                 return View();
             }
@@ -329,6 +329,41 @@ namespace SideKickMVC.Controllers
         }
 
         public IActionResult Lazer()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 10)
+            {
+                return View();
+            }
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
+        }
+
+        [HttpPost]
+        public IActionResult Lazer(string johto)
+        {
+            if (string.IsNullOrEmpty(johto))
+            {
+                return View();
+            }
+            else if (johto.Trim().ToLower() == "vihreä")
+            {
+                TallennaTietokantaan(11);
+                return RedirectToAction("VoititPelin").WithSuccess("Hienoa!", "Oikea vastaus");
+            }
+            else
+            {
+                return RedirectToAction("HavisitPelin").WithWarning("Väärin meni!", "K.V.A.A.K. ampui kuun alas!");
+            }
+        }
+        public IActionResult VoititPelin()
+        {
+            return View();
+        }
+        public IActionResult HavisitPelin()
         {
             return View();
         }
