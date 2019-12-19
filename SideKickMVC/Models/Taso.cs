@@ -22,8 +22,8 @@ namespace SideKickMVC.Models
             Linkit.Add(7, "Portaikko");
             Linkit.Add(8, "Takkahuone");
             Linkit.Add(9, "Ankkalampi");
-            Linkit.Add(10, "Lukujono");
-            Linkit.Add(11, "Laser");
+            Linkit.Add(10, "Iccanobif");
+            Linkit.Add(11, "Lazer");
         }
     }
 }
