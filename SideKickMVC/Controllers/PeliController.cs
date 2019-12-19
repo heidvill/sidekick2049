@@ -117,7 +117,7 @@ namespace SideKickMVC.Controllers
             }
             else
             {
-                return View().WithWarning("Väärin meni!", "Etkö tiedä minne kaikki tiet vievät?");
+                return View().WithDanger("Väärin meni!", "Etkö tiedä minne kaikki tiet vievät?");
             }
         }
 
@@ -209,7 +209,7 @@ namespace SideKickMVC.Controllers
             else
             {
                 ViewBag.random = random;
-                return View().WithInfo("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
+                return View().WithDanger("Väärin meni!", "Ehdottamasi albumi ei ole se mitä haetaan");
             }
         }
 
@@ -299,7 +299,7 @@ namespace SideKickMVC.Controllers
             {
                 //ViewBag.random = random;
                 ViewBag.Fibo = LaskeFibo();
-                return View().WithInfo("Väärin meni!", "");
+                return View().WithDanger("Väärin meni!", "");
             }
         }
 
@@ -356,7 +356,7 @@ namespace SideKickMVC.Controllers
             }
             else
             {
-                return RedirectToAction("HavisitPelin").WithWarning("Väärin meni!", "K.V.A.A.K. ampui kuun alas!");
+                return RedirectToAction("HavisitPelin").WithDanger("Väärin meni!", "K.V.A.A.K. ampui kuun alas!");
             }
         }
         public IActionResult VoititPelin()
