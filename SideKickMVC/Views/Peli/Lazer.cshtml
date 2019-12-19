@@ -2,34 +2,47 @@
 @{
     ViewData["Title"] = "Lazer";
 }
-    <p>
-        K.V.A.A.K on käynnistynyt! Sitä ei voi enää pysäyttää nappia painamalla! <br />
-        Täytyy leikata oikea johto jotta lähtölaskenta saadaan keskeytettyä! K.V.A.A.K käyttää tietojen mukaan porttia C. <br />
-        Mikä näistä johdoista liittyy siihen porttiin? Jostain syystä ohjeet ovat hyvin epäselvät...<br />
-        <br />  
-        Punaisen johdon jännite on 500V.<br />
-        100V johdon portti on A<br />
-        400V johto on kultaa<br />
-        Vihreä johto on valkoisen johdon vieressä vasemmalla<br />
-        Vihreä johto on terästä<br />
-        Suunnikkaan muotoisella liittimellä varustettu johto kiinnittyy porttiin B<br />
-        Keltaisessa johdossa on kolmion muotoinen liitin<br />
-        Keskimmäinen johto on alumiinia.<br />
-        Ensimmäinen johto vasemmalta on jännitteeltään 300V<br />
-        Neliön muotoisella liittimellä varustettu johto on sen johdon vieressä, joka on portissa E<br />
-        D-portissa oleva johto on sen johdon vieressä, jossa on kolmion muotoinen liitin<br />
-        Hopeasta valmistetussa johdossa on kuusikulmion muotoinen liitin<br />
-        200V johdossa on ovaalin muotoinen liitin<br />
-        300V johto on sinisen kaapelin vieressä<br />
-        Neliön muotoisella liittimellä varustettu johto on kuparijohdon vieressä<br />
-        <br />
-        Minkä värisen johdon katkaiset?
-    </p>
-    <form action="Lazer" method="post" class="form-inline">
-        <div class="form-group m-1">
-            <input type="text" class="form-control" name="johto" placeholder="Väri" />
-        </div>
-        <div class="form-group m-1">
-            <input type="submit" class="btn btn-light" name="johtonappi" value="Leikkaa johto" />
-        </div>
-    </form>
+<style>
+    .taustakuva {
+        background-image: url("../bgimg/lasertausta169.png")
+    }
+</style>
+<div class=" taustakuva">
+    <div class=" teksti">
+        <p class="sankari">
+            K.V.A.A.K on käynnistynyt! Sitä ei voi enää pysäyttää nappia painamalla! <br />
+            Täytyy leikata oikea johto jotta lähtölaskenta saadaan keskeytettyä! K.V.A.A.K käyttää tietojen mukaan porttia C. <br />
+            Mikä näistä johdoista liittyy siihen porttiin? Jostain syystä ohjeet ovat hyvin epäselvät...
+        </p>
+        <p class="kertoja">
+            Punaisen johdon jännite on 500V.<br />
+            100V johdon portti on A<br />
+            400V johto on kultaa<br />
+            Vihreä johto on valkoisen johdon vieressä vasemmalla<br />
+            Vihreä johto on terästä<br />
+            Suunnikkaan muotoisella liittimellä varustettu johto kiinnittyy porttiin B<br />
+            Keltaisessa johdossa on kolmion muotoinen liitin<br />
+            Keskimmäinen johto on alumiinia.<br />
+            Ensimmäinen johto vasemmalta on jännitteeltään 300V<br />
+            Neliön muotoisella liittimellä varustettu johto on sen johdon vieressä, joka on portissa E<br />
+            D-portissa oleva johto on sen johdon vieressä, jossa on kolmion muotoinen liitin<br />
+            Hopeasta valmistetussa johdossa on kuusikulmion muotoinen liitin<br />
+            200V johdossa on ovaalin muotoinen liitin<br />
+            300V johto on sinisen kaapelin vieressä<br />
+            Neliön muotoisella liittimellä varustettu johto on kuparijohdon vieressä<br />
+            <br />
+        </p>
+        <p class="sankari">
+            Minkä värisen johdon katkaisen?
+        </p>
+        <form action="Lazer" method="post" class="form-inline">
+            <div class="form-group m-1">
+                <input type="text" class="form-control" name="johto" placeholder="Väri" />
+            </div>
+            <div class="form-group m-1">
+                <input type="submit" class="btn btn-light" name="johtonappi" value="Leikkaa johto" />
+            </div>
+        </form>
+
+    </div>
+</div>

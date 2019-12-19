@@ -3,22 +3,30 @@
     ViewData["Title"] = "Levysoitin";
     int i = ViewBag.random;
 }
+<style>
+    .taustakuva {
+        background-image: url("../bgimg/levaritausta169.png")
+    }
+</style>
+<div class="taustakuva">
+    <div class="teksti">
+        <p class="sankari">
+            Huh, pääsin vartijan ohi. Hankkimieni pohjapiirrosten perusteella tässä huoneessa pitäisi olla portaikko maan alle.<br />
+            Mitään ei kuitenkaan näy...<br />
+            Seinät ovat täynnä levyhyllyjä ja keskellä huonetta on vanha LP-soitin. Löytyisiköhän portaat soittamalla oikeata levyä?<br />
+            Levysoittimessa lukee seuraavaa: <br />
+            <i>"@Tehtavat.LsTeksti[i]"</i>
+        </p>
+        <p class="npc">Selvitän mitä se tarkoittaa!</p>
 
-<p class="sankari">
-    Huh, pääsin vartijan ohi. Hankkimieni pohjapiirrosten perusteella tässä huoneessa pitäisi olla portaikko maan alle.<br />
-    Mitään ei kuitenkaan näy...<br />
-    Seinät ovat täynnä levyhyllyjä ja keskellä huonetta on vanha LP-soitin. Löytyisiköhän portaat soittamalla oikeata levyä?<br />
-    Levysoittimessa lukee seuraavaa: <br />
-    <i>"@Tehtavat.LsTeksti[i]"</i>
-</p>
-<p class="npc">Selvitän mitä se tarkoittaa!</p>
-
-<form action="levysoitin" method="post" class="form-inline">
-    <div class="form-group m-1">
-        <input type="text" class="form-control" name="albumi" placeholder="Levy" />
+        <form action="levysoitin" method="post" class="form-inline">
+            <div class="form-group m-1">
+                <input type="text" class="form-control" name="albumi" placeholder="Levy" />
+            </div>
+            <div class="form-group m-1">
+                <input type="submit" class="btn btn-light" name="levynappi" value="Syötä albumi" />
+                <input type="hidden" name="random" value="@i" />
+            </div>
+        </form>
     </div>
-    <div class="form-group m-1">
-        <input type="submit" class="btn btn-light" name="levynappi" value="Syötä albumi" />
-        <input type="hidden" name="random" value="@i" />
-    </div>
-</form>
+</div>

@@ -63,7 +63,7 @@ html {
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
-    background-color: indigo;
+    background-color: #000000;
     font-size: 1.1rem;
     color: #f8f9fa;
 }
@@ -72,8 +72,8 @@ body {
     position: absolute;
     bottom: 0;
     width: 100%;
-    white-space: nowrap;
-    line-height: 60px; /* Vertically center the text there */
+    white-space: normal;
+    line-height: 20px; /* Vertically center the text there */
 }
 
 @font-face {
@@ -85,7 +85,7 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Blade Runner Movie Font';
-    color: coral;
+    color: #ba53fa;
 }
 
 p, .table {
@@ -117,7 +117,7 @@ p, .table {
 }
 
 .sankari {
-    color: #000000;
+    color: #ffffff;
     text-align: left;
     padding: 4px;
     border-radius: 3px;
@@ -126,7 +126,7 @@ p, .table {
 }
 
 .npc {
-    color: #000000;
+    color: #ffffff;
     text-align: right;
     padding: 4px;
     border-radius: 3px;
@@ -135,7 +135,7 @@ p, .table {
 }
 
 .kertoja {
-    color: #000000;
+    color: #ffffff;
     text-align: center;
     padding: 4px;
     border-radius: 3px;
@@ -144,7 +144,7 @@ p, .table {
 
 .jumbotron {
     background: rgb(215, 187, 236); /* This is for ie8 and below */
-    background: rgba(215, 187, 236, 0.4);
+    background: #d08bfa;
 }
 
 .nappi {

@@ -5,10 +5,9 @@
 }
 <style>
     .taustakuva {
-        background-image: url("../bgimg/kulkukorttitausta.png")
+        background-image: url("../bgimg/kulkukorttitausta169.png")
     }
 </style>
-
 <div class=" taustakuva">
     <div class=" teksti">
         <p class="sankari">
@@ -17,14 +16,14 @@
         <p class=" npc">
             Selvitän kulkukortin koodin! Sitten pääset lataamaan Stockenten tietokannasta listan henkilöistä, joilla voi olla pääsy laserin käyttöön.
         </p>
-        <form action="kulkukortti" method="post" class="form-inline">
-            <div class="form-group m-1">
-                <input type="text" class="form-control" name="korttikoodi" placeholder="koodi" />
-            </div>
-            <div class="form-group m-1">
-                <input type="submit" class="btn btn-light" name="koodinappi" value="Anna koodi" />
-                <input type="hidden" name="random" value="@i" />
-            </div>
-        </form>
+            <form action="kulkukortti" method="post" class="form-inline">
+                <div class="form-group m-1">
+                    <input type="text" class="form-control" name="korttikoodi" placeholder="koodi" />
+                </div>
+                <div class="form-group m-1">
+                    <input type="submit" class="btn btn-light" name="koodinappi" value="Anna koodi" />
+                    <input type="hidden" name="random" value="@i" />
+                </div>
+            </form>
     </div>
 </div>
