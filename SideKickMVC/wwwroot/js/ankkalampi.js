@@ -58,11 +58,11 @@ function naytaAnkat() {
     var stringToInner = "";
     var src;
 
-    /* first, we make the string with all the img filled in */
+    /* luodaan string joka sisältää kaikki kuvat */
     for (var i = 0; i < ankat.length; i++) {
-        /* we have to check if the default increase direction was <-- or --> */
+        /* tarkistetaan kulkusuunta oikea vai vasen */
         ankat[i].xIncrease > 0 ? src = ankat[i].imageSX.src : src = ankat[i].imageDX.src;
-        /* z-index --> overlap priority */
+        /* z-index --> kuvan syvyys muihin kuviin nähden */
         if (i === 150) {
             ankat[0].xIncrease > 0 ? src = ankat[0].imageSX.src : src = ankat[0].imageDX.src;
             stringToInner += " <a href=\"javascript:ankkaPost()\">" +
@@ -80,9 +80,7 @@ function naytaAnkat() {
         }
         stringToInner += "<br>";
     }
-    /* then, we insert it */
     node.innerHTML = stringToInner;
-    /* let's raise hell! */
     liikutaAnkkoja();
 }
 
