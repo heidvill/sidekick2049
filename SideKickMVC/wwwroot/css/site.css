@@ -92,11 +92,11 @@ p, .table {
     color: #c1fad3;
 }
 
-.alert-warning {
+/*.alert-warning {
     color: teal;
     background-color: turquoise;
     border-color: darkturquoise;
-}
+}*/
 
 #main {
     margin: auto;
@@ -132,6 +132,14 @@ p, .table {
     border-radius: 3px;
     background-color: rgba(245, 62, 141, 0.90);
     margin-left: 100px;
+}
+
+.kertoja {
+    color: #000000;
+    text-align: center;
+    padding: 4px;
+    border-radius: 3px;
+    background-color: rgba(168, 161, 161, 0.90)
 }
 
 .jumbotron {
