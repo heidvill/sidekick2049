@@ -134,6 +134,14 @@ p, .table {
     margin-left: 100px;
 }
 
+.kertoja {
+    color: #000000;
+    text-align: center;
+    padding: 4px;
+    border-radius: 3px;
+    background-color: rgba(168, 161, 161, 0.90)
+}
+
 .jumbotron {
     background: rgb(215, 187, 236); /* This is for ie8 and below */
     background: rgba(215, 187, 236, 0.4);

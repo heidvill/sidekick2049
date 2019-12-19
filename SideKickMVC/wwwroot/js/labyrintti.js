@@ -159,22 +159,22 @@ document.addEventListener("keydown", alaspainallus, false);
 
 function alaspainallus(e) {
     if (gameOn) {
-        if (e.key == "Right" || e.key == "ArrowRight" || e.key == "D" || e.key == "d") {
+        if (e.key == "D" || e.key == "d") {
             yritaLiikkuaVasemmalle();
             gameOver();
             liikutaVastustajaa();
             piirra();
-        } else if (e.key == "Left" || e.key == "ArrowLeft" || e.key == "A" || e.key == "a") {
+        } else if (e.key == "A" || e.key == "a") {
             yritaLiikkuaOikealle();
             gameOver();
             liikutaVastustajaa();
             piirra();
-        } else if (e.key == "Up" || e.key == "ArrowUp" || e.key == "W" || e.key == "w") {
+        } else if (e.key == "W" || e.key == "w") {
             yritaLiikkuaAlas();
             gameOver();
             liikutaVastustajaa();
             piirra();
-        } else if (e.key == "Down" || e.key == "ArrowDown" || e.key == "S" || e.key == "s") {
+        } else if (e.key == "S" || e.key == "s") {
             yritaLiikkuaYlos();
             gameOver();
             liikutaVastustajaa();

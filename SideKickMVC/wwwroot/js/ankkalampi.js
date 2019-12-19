@@ -45,11 +45,11 @@ function luoAnkka(src1, src2) {
         imageSX: imgAnkkaSX,
         imageDX: imgAnkkaDX
     };
-    addFishToArray((ankka));
+    lisaaAnkkaTaulukkoon((ankka));
     nextId++;
 }
 
-function addFishToArray(ankka) {
+function lisaaAnkkaTaulukkoon(ankka) {
     ankat.push(ankka);
 }
 

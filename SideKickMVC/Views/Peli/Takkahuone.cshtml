@@ -7,12 +7,12 @@
 
 <p>Pääsit takkahuoneeseen, hienoa!</p>
 <form action="Ankkalampi">
-    <input type="submit" class="btn btn-light" name="jatka" value="Jatka" />
+    <input type="submit" class="btn btn-light" value="Jatka" />
     @{
         Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).Where(t => t.Taso == 8).FirstOrDefault();
         if (t == null)
         {
             Helper.PostNew(new Tilasto() { Nimi = User.Claims.First().Value, Taso = 8, Aika = DateTime.Now });
-        }
+        }      
     }
 </form>
