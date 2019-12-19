@@ -111,7 +111,7 @@ namespace SideKickMVC.Controllers
             else
             {
                 ViewBag.random = random;
-                return View().WithWarning("Väärin meni!", "Syöttämäsi vastaus on väärä");
+                return View().WithDanger("Väärin meni!", "Syöttämäsi vastaus on väärä");
             }
         }
 
@@ -143,7 +143,7 @@ namespace SideKickMVC.Controllers
             }
             else
             {
-                return View().WithWarning("Väärin meni!", "Syöttämäsi henkilö ei ole se, jota etsimme!");
+                return View().WithDanger("Väärin meni!", "Syöttämäsi henkilö ei ole se, jota etsimme!");
             }
         }
 
