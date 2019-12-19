@@ -1,10 +1,10 @@
-﻿var BORDER_LEFT_RIGHT = 278;
-var BORDER_TOP_DOWN = 500;
+﻿var BORDER_LEFT_RIGHT = 8;
+var BORDER_TOP_DOWN = 420;
 var ankat = new Array();
 var nextId = 0;
 var heightMax;
 var widthMax;
-var n; //initial direction, see createFish()
+var n; //initial direction
 
 init();
 /* rubberduck*/
