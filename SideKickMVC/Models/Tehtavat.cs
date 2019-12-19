@@ -37,11 +37,11 @@ namespace SideKickMVC.Models
             MorseVastaukset.Add(3, "tikka");
             MorseVastaukset.Add(4, "kana");
             MorseVastaukset.Add(5, "lunni");
-            LsTeksti.Add(1, $"One morning in June some twenty years ago I was born a rich man's son");
-            LsTeksti.Add(2, $"Whoa, ain't the moon a beauty man don't it shine");
-            LsTeksti.Add(3, $"Lips as sweet as candy your taste is on my mind");
-            LsTeksti.Add(4, $"I don't even wanna try I guess the both of us sing a foolish lullaby");
-            LsTeksti.Add(5, $"In the tropical paradise they're drinking rum in the hot sunshine it's Caribbean partytime");
+            LsTeksti.Add(1, "One morning in June some twenty years ago I was born a rich man's son");
+            LsTeksti.Add(2, "Whoa, ain't the moon a beauty man don't it shine");
+            LsTeksti.Add(3, "Lips as sweet as candy your taste is on my mind");
+            LsTeksti.Add(4, "I don't even wanna try I guess the both of us sing a foolish lullaby");
+            LsTeksti.Add(5, "In the tropical paradise they're drinking rum in the hot sunshine it's Caribbean partytime");
             LsVastaukset.Add(1, "looking for freedom");
             LsVastaukset.Add(2, "night rocker");
             LsVastaukset.Add(3, "hooked on a feeling");
