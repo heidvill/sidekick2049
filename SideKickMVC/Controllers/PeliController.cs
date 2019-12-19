@@ -48,7 +48,7 @@ namespace SideKickMVC.Controllers
             else if (korttikoodi.Trim().ToLower() == Tehtavat.KulkukorttiVastaukset[random])
             {
                 TallennaTietokantaan(1);
-                return RedirectToAction("Lista").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("Lista");
             }
             else
             {
@@ -81,7 +81,7 @@ namespace SideKickMVC.Controllers
             else if (kätyri.Trim().ToLower() == "taavetti pähkinähovi")
             {
                 TallennaTietokantaan(2);
-                return RedirectToAction("Color_It_Redd").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("Color_It_Redd");
             }
             else
             {
@@ -113,7 +113,7 @@ namespace SideKickMVC.Controllers
             else if (pinkoodi.Trim().ToLower() == "2049")
             {
                 TallennaTietokantaan(3);
-                return RedirectToAction("Morse").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("Morse");
             }
             else
             {
@@ -147,7 +147,7 @@ namespace SideKickMVC.Controllers
             else if (salasana.Trim().ToLower() == Tehtavat.MorseVastaukset[random])
             {
                 TallennaTietokantaan(4);
-                return RedirectToAction("Labyrintti").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("Labyrintti");
             }
             else
             {
@@ -204,7 +204,7 @@ namespace SideKickMVC.Controllers
             else if (albumi.Trim().ToLower() == Tehtavat.LsVastaukset[random])
             {
                 TallennaTietokantaan(6);
-                return RedirectToAction("Portaikko").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("Portaikko");
             }
             else
             {
@@ -237,7 +237,7 @@ namespace SideKickMVC.Controllers
             if (t.Taso >= 6 && HttpContext.Request.Path.ToString().ToLower() == "/peli/takkahuone")
             {
                 TallennaTietokantaan(7);
-                return View().WithSuccess("Hienoa!", "Oikea vastaus");
+                return View();
             }
             else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
         }
@@ -261,7 +261,7 @@ namespace SideKickMVC.Controllers
         public IActionResult AnkkalampiPost()
         {
             TallennaTietokantaan(9);
-            return RedirectToAction("Iccanobif").WithSuccess("Hienoa!", "Löysit oikean sorsan");
+            return RedirectToAction("Iccanobif");
         }
 
         [AllowAnonymous]
@@ -293,7 +293,7 @@ namespace SideKickMVC.Controllers
             else if (pinkoodi.Trim().ToLower() == "3524578") // Tehtavat.LsVastaukset[random]
             {
                 TallennaTietokantaan(10);
-                return RedirectToAction("Lazer").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("Lazer");
             }
             else
             {
@@ -352,7 +352,7 @@ namespace SideKickMVC.Controllers
             else if (johto.Trim().ToLower() == "vihreä")
             {
                 TallennaTietokantaan(11);
-                return RedirectToAction("VoititPelin").WithSuccess("Hienoa!", "Oikea vastaus");
+                return RedirectToAction("VoititPelin");
             }
             else
             {
