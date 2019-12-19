@@ -319,11 +319,74 @@ namespace SideKickMVC.Controllers
         public IActionResult AnkkalampiPost()
         {
             TallennaTietokantaan(9);
-            return RedirectToAction("Lukujono").WithSuccess("Hienoa!", "Löysit oikean sorsan");
+            return RedirectToAction("Iccanobif").WithSuccess("Hienoa!", "Löysit oikean sorsan");
         }
 
         [AllowAnonymous]
-        public IActionResult Lukujono()
+        public IActionResult Iccanobif()
+        {
+            Tilasto t = Helper.GetPlayerByName(User.Claims.First().Value).OrderBy(t => t.Taso).LastOrDefault();
+            if (t == null)
+            {
+                return RedirectToAction("Index");
+            }
+            if (t.Taso >= 9)
+            {
+                
+                ViewBag.Fibo = LaskeFibo();
+                return View();
+            }
+            else return RedirectToAction("Index").WithDanger("Virhe", "Et ole läpäissyt riittävästi tasoja avataksesi tämän tason");
+        }
+
+        [HttpPost]
+        public IActionResult Iccanobif(string pinkoodi)
+        {
+            if (string.IsNullOrEmpty(pinkoodi))
+            {
+                //ViewBag.random = random;
+                ViewBag.Fibo = LaskeFibo();
+                return View();
+            }
+            else if (pinkoodi.Trim().ToLower() == "3524578") // Tehtavat.LsVastaukset[random]
+            {
+                TallennaTietokantaan(10);
+                return RedirectToAction("Lazer").WithSuccess("Hienoa!", "Oikea vastaus");
+            }
+            else
+            {
+                //ViewBag.random = random;
+                ViewBag.Fibo = LaskeFibo();
+                return View().WithInfo("Väärin meni!", "");
+            }
+        }
+
+        private string LaskeFibo()
+        {
+            long eka = 1;
+            long toka = 1;
+            string fibomj = eka.ToString() + toka.ToString();
+
+            for (int i = 0; i < 30; i++)
+            {
+                long temp = toka + eka;
+                fibomj = temp + fibomj;
+                eka = toka;
+                toka = temp;
+            }
+            string paluu = "";
+            for (int i = 0; i < fibomj.Length; i++)
+            {
+                if (i % 4 == 0)
+                {
+                    paluu += " ";
+                }
+                paluu += fibomj[i];
+            }
+            return paluu.Trim();
+        }
+
+        public IActionResult Lazer()
         {
             return View();
         }
